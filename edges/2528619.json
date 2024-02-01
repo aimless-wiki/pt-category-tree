@@ -1,1 +1,1 @@
-{"name": "Tenistas_dos_Estados_Unidos", "id": 2528619, "predecessors": [{"name": "Desportos", "id": 1937695}, {"name": "Desporto_dos_Estados_Unidos", "id": 2529692}], "successors": [{"name": "Tenistas_olímpicos_dos_Estados_Unidos", "id": 2528648}]}
+{"name": "Tenistas_dos_Estados_Unidos", "id": 2528619, "predecessors": [{"name": "Cultura_dos_Estados_Unidos", "id": 2497006}, {"name": "Desportos", "id": 1937695}], "successors": [{"name": "Tenistas_olímpicos_dos_Estados_Unidos", "id": 2528648}]}

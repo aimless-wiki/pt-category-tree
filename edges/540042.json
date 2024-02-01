@@ -1,1 +1,1 @@
-{"name": "Ethernet", "id": 540042, "predecessors": [{"name": "Protocolos_OSI", "id": 3161266}], "successors": []}
+{"name": "Ethernet", "id": 540042, "predecessors": [{"name": "Protocolos_da_Internet", "id": 51094}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Compostos_de_chumbo", "id": 1495882, "predecessors": [{"name": "Chumbo", "id": 3289913}, {"name": "Compostos_químicos", "id": 30516}], "successors": [{"name": "Minerais_de_chumbo", "id": 1496072}]}
+{"name": "Compostos_de_chumbo", "id": 1495882, "predecessors": [{"name": "Compostos_químicos", "id": 30516}, {"name": "Carcinógenos_do_grupo_2B_do_IARC", "id": 1921391}], "successors": [{"name": "Minerais_de_chumbo", "id": 1496072}]}

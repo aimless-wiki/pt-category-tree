@@ -1,1 +1,1 @@
-{"name": "Caminhonetes", "id": 4320228, "predecessors": [{"name": "Camiões", "id": 927896}], "successors": []}
+{"name": "Caminhonetes", "id": 4320228, "predecessors": [{"name": "Transporte_rodoviário", "id": 107511}], "successors": []}

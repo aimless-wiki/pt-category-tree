@@ -1,1 +1,1 @@
-{"name": "Filósofas", "id": 7125104, "predecessors": [{"name": "Mulheres", "id": 2519134}], "successors": [{"name": "Filósofas_da_Grécia_Antiga", "id": 4508615}]}
+{"name": "Filósofas", "id": 7125104, "predecessors": [{"name": "Filosofia", "id": 14277}, {"name": "Mulheres", "id": 2519134}], "successors": [{"name": "Filósofas_da_Grécia_Antiga", "id": 4508615}]}

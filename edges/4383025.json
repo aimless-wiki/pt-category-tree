@@ -1,1 +1,1 @@
-{"name": "Impressores", "id": 4383025, "predecessors": [{"name": "Publicadores", "id": 4383026}, {"name": "Tipógrafos", "id": 186245}], "successors": []}
+{"name": "Impressores", "id": 4383025, "predecessors": [{"name": "Livreiros", "id": 2520688}, {"name": "Design_gráfico", "id": 258377}], "successors": []}

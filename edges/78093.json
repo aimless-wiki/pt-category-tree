@@ -1,1 +1,1 @@
-{"name": "Pontuação", "id": 78093, "predecessors": [{"name": "Ortografia", "id": 1351581}, {"name": "Símbolos", "id": 15500}, {"name": "Tipografia", "id": 42655}], "successors": []}
+{"name": "Pontuação", "id": 78093, "predecessors": [{"name": "Símbolos", "id": 15500}, {"name": "Tipografia", "id": 42655}, {"name": "Comunicação", "id": 16948}], "successors": []}

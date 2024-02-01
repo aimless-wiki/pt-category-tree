@@ -1,1 +1,1 @@
-{"name": "Formatos_digitais_de_imagem", "id": 126276, "predecessors": [{"name": "Formatos_digitais", "id": 50642}, {"name": "Processamento_de_imagem", "id": 860868}], "successors": [{"name": "Adobe_Flash", "id": 3244132}]}
+{"name": "Formatos_digitais_de_imagem", "id": 126276, "predecessors": [{"name": "Formatos_digitais", "id": 50642}, {"name": "Processamento_de_imagem", "id": 860868}], "successors": [{"name": "Animações_em_Flash", "id": 3244129}, {"name": "Jogos_em_Flash", "id": 3244154}]}

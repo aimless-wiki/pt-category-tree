@@ -1,1 +1,1 @@
-{"name": "Curtas-metragens_de_comédia", "id": 4979992, "predecessors": [{"name": "Filmes_de_comédia", "id": 873395}, {"name": "Curtas-metragens", "id": 3836479}], "successors": [{"name": "Alice_Comedies", "id": 6688410}]}
+{"name": "Curtas-metragens_de_comédia", "id": 4979992, "predecessors": [{"name": "Filmes_de_comédia", "id": 873395}, {"name": "Géneros_de_cinema", "id": 115526}], "successors": [{"name": "Alice_Comedies", "id": 6688410}]}

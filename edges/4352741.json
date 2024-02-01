@@ -1,1 +1,1 @@
-{"name": "Joias", "id": 4352741, "predecessors": [{"name": "Joalharia", "id": 77704}], "successors": [{"name": "Coroas", "id": 1084714}, {"name": "Diamantes", "id": 2244117}, {"name": "Joias_da_Coroa_Britânica", "id": 5314739}]}
+{"name": "Joias", "id": 4352741, "predecessors": [{"name": "Joalharia", "id": 77704}, {"name": "Objetos", "id": 50885}], "successors": [{"name": "Coroas", "id": 1084714}, {"name": "Joias_da_Coroa_Britânica", "id": 5314739}]}

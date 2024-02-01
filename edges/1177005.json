@@ -1,1 +1,1 @@
-{"name": "Ilhas_do_Mar_Báltico", "id": 1177005, "predecessors": [{"name": "Ilhas_do_Oceano_Atlântico_Norte", "id": 3887734}, {"name": "Mar_Báltico", "id": 2093759}], "successors": [{"name": "Gotlândia", "id": 4355505}]}
+{"name": "Ilhas_do_Mar_Báltico", "id": 1177005, "predecessors": [{"name": "Mar_Báltico", "id": 2093759}, {"name": "Ilhas_do_Atlântico", "id": 426592}], "successors": []}

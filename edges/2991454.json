@@ -1,1 +1,1 @@
-{"name": "Professores_da_Universidade_de_Helsinque", "id": 2991454, "predecessors": [{"name": "Professores_da_Finlândia", "id": 3753330}, {"name": "Helsínquia", "id": 399809}], "successors": []}
+{"name": "Professores_da_Universidade_de_Helsinque", "id": 2991454, "predecessors": [{"name": "Educadores", "id": 15846}, {"name": "Geografia_da_Europa", "id": 98530}, {"name": "Professores_universitários", "id": 611832}], "successors": []}

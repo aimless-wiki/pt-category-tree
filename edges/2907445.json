@@ -1,1 +1,1 @@
-{"name": "Logotipos_de_programas_do_SBT", "id": 2907445, "predecessors": [{"name": "Imagens_do_SBT", "id": 5316838}], "successors": [{"name": "Logotipos_de_telenovelas_do_SBT", "id": 3230096}, {"name": "Logotipos_de_telejornais_do_SBT", "id": 3339476}]}
+{"name": "Logotipos_de_programas_do_SBT", "id": 2907445, "predecessors": [{"name": "Imagens_sobre_televisão", "id": 2880186}, {"name": "Logotipos_de_programas_de_televisão", "id": 2877241}], "successors": [{"name": "Logotipos_de_telenovelas_do_SBT", "id": 3230096}]}

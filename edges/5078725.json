@@ -1,1 +1,1 @@
-{"name": "Listas_de_viagens_diplomáticas", "id": 5078725, "predecessors": [{"name": "Listas_de_eventos", "id": 119369}, {"name": "Estado", "id": 3077104}], "successors": []}
+{"name": "Listas_de_viagens_diplomáticas", "id": 5078725, "predecessors": [{"name": "Eventos", "id": 61537}, {"name": "Listas_de_política", "id": 483095}, {"name": "Ciência_política", "id": 125411}], "successors": []}

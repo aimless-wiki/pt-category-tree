@@ -1,1 +1,1 @@
-{"name": "Campeonato_Italiano_de_Futebol_-_Série_A", "id": 284830, "predecessors": [{"name": "Campeonato_Italiano_de_Futebol", "id": 414549}], "successors": [{"name": "Temporadas_do_Campeonato_Italiano_de_Futebol", "id": 5295660}]}
+{"name": "Campeonato_Italiano_de_Futebol_-_Série_A", "id": 284830, "predecessors": [{"name": "Futebol_da_Europa", "id": 104660}], "successors": [{"name": "Temporadas_do_Campeonato_Italiano_de_Futebol", "id": 5295660}]}

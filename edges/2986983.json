@@ -1,1 +1,1 @@
-{"name": "Professores_da_Universidade_de_Bolonha", "id": 2986983, "predecessors": [{"name": "Universidade_de_Bolonha", "id": 3289634}, {"name": "Professores_da_Itália", "id": 164702}], "successors": []}
+{"name": "Professores_da_Universidade_de_Bolonha", "id": 2986983, "predecessors": [{"name": "Professores_da_Itália", "id": 164702}, {"name": "Universidades_da_Itália", "id": 248548}], "successors": []}

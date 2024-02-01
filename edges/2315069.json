@@ -1,1 +1,1 @@
-{"name": "Papiros_do_Novo_Testamento", "id": 2315069, "predecessors": [{"name": "Manuscritos_do_Novo_Testamento", "id": 2079024}, {"name": "Papiros", "id": 2858827}], "successors": []}
+{"name": "Papiros_do_Novo_Testamento", "id": 2315069, "predecessors": [{"name": "Papiros", "id": 2858827}, {"name": "Bíblia", "id": 40635}], "successors": []}

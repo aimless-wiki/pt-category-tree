@@ -1,1 +1,1 @@
-{"name": "Escritores_suicidas", "id": 3183439, "predecessors": [{"name": "Mortes_por_suicídio", "id": 3860957}, {"name": "Causas_de_morte", "id": 1157373}], "successors": [{"name": "Poetas_suicidas", "id": 3226102}]}
+{"name": "Escritores_suicidas", "id": 3183439, "predecessors": [{"name": "Suicídio", "id": 991053}, {"name": "Causas_de_morte", "id": 1157373}], "successors": [{"name": "Poetas_suicidas", "id": 3226102}]}

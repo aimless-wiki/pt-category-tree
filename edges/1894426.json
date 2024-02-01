@@ -1,1 +1,1 @@
-{"name": "Eclipses_lunares", "id": 1894426, "predecessors": [{"name": "Eclipses", "id": 1894431}, {"name": "Lua", "id": 67139}], "successors": []}
+{"name": "Eclipses_lunares", "id": 1894426, "predecessors": [{"name": "Lua", "id": 67139}, {"name": "Sistema_Solar", "id": 15113}], "successors": []}

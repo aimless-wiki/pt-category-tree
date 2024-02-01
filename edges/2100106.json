@@ -1,1 +1,1 @@
-{"name": "Alunos_da_Universidade_de_Londres", "id": 2100106, "predecessors": [{"name": "Universidade_de_Londres", "id": 343130}], "successors": [{"name": "Alunos_da_London_School_of_Economics", "id": 2847068}]}
+{"name": "Alunos_da_Universidade_de_Londres", "id": 2100106, "predecessors": [{"name": "Instituições_de_ensino_superior", "id": 44079}, {"name": "Astrofísica", "id": 51776}], "successors": [{"name": "Alunos_da_London_School_of_Economics", "id": 2847068}, {"name": "Alunos_do_King's_College_de_Londres", "id": 2883299}]}

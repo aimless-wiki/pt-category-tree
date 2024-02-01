@@ -1,1 +1,1 @@
-{"name": "Filmes_ambientados_em_Paris", "id": 3830069, "predecessors": [{"name": "Cinema_de_Paris", "id": 6786594}, {"name": "Paris_em_ficção", "id": 2138992}, {"name": "Filmes_ambientados_na_França", "id": 3830072}], "successors": []}
+{"name": "Filmes_ambientados_em_Paris", "id": 3830069, "predecessors": [{"name": "Ficção", "id": 103486}, {"name": "Filmes_ambientados_na_França", "id": 3830072}, {"name": "Cinema_da_França", "id": 82944}], "successors": []}

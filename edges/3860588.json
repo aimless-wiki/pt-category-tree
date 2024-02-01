@@ -1,1 +1,1 @@
-{"name": "Filmes_ambientados_em_Berlim", "id": 3860588, "predecessors": [{"name": "Cultura_de_Berlim", "id": 1953256}, {"name": "Filmes_ambientados_na_Alemanha", "id": 3703873}, {"name": "Artes", "id": 41720}], "successors": []}
+{"name": "Filmes_ambientados_em_Berlim", "id": 3860588, "predecessors": [{"name": "Filmes_ambientados_na_Alemanha", "id": 3703873}, {"name": "Berlim", "id": 127507}, {"name": "Cinema", "id": 15210}], "successors": []}

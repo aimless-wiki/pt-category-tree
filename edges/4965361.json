@@ -1,1 +1,1 @@
-{"name": "Ciclistas_de_BMX", "id": 4965361, "predecessors": [{"name": "Tipos_de_ciclistas", "id": 4678368}, {"name": "Motocross", "id": 1244112}], "successors": [{"name": "Ciclistas_de_BMX_da_França", "id": 6786964}]}
+{"name": "Ciclistas_de_BMX", "id": 4965361, "predecessors": [{"name": "Ciclismo", "id": 55432}, {"name": "Motociclismo", "id": 83483}], "successors": []}

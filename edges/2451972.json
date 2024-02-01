@@ -1,1 +1,1 @@
-{"name": "Missões_espaciais_canceladas", "id": 2451972, "predecessors": [{"name": "Naves_espaciais", "id": 116063}, {"name": "Projetos_ou_eventos_cancelados", "id": 3429130}], "successors": []}
+{"name": "Missões_espaciais_canceladas", "id": 2451972, "predecessors": [{"name": "Naves_espaciais", "id": 116063}, {"name": "Eventos", "id": 61537}], "successors": []}

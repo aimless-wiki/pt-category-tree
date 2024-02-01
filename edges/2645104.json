@@ -1,1 +1,1 @@
-{"name": "Contos_dos_Irmãos_Grimm", "id": 2645104, "predecessors": [{"name": "Contos", "id": 63376}, {"name": "Artistas", "id": 52615}], "successors": [{"name": "Filmes_baseados_em_obras_dos_Irmãos_Grimm", "id": 5885931}]}
+{"name": "Contos_dos_Irmãos_Grimm", "id": 2645104, "predecessors": [{"name": "Literatura", "id": 15629}, {"name": "Arte", "id": 14871}, {"name": "Mídia", "id": 16945}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Antinazismo", "id": 3257073, "predecessors": [{"name": "Crítica_das_ideologias", "id": 5564914}, {"name": "Movimentos_sociais", "id": 98072}, {"name": "Nazismo", "id": 15926}], "successors": [{"name": "Resistência_Alemã", "id": 845088}, {"name": "Resistência_Francesa", "id": 6792436}]}
+{"name": "Antinazismo", "id": 3257073, "predecessors": [{"name": "Movimentos_sociais", "id": 98072}, {"name": "Nazismo", "id": 15926}, {"name": "Ideologias", "id": 23548}], "successors": [{"name": "Resistência_Alemã", "id": 845088}]}

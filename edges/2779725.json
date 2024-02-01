@@ -1,1 +1,1 @@
-{"name": "Agricultores_de_Portugal", "id": 2779725, "predecessors": [{"name": "Agricultura_em_Portugal", "id": 1989505}, {"name": "Empresários_de_Portugal", "id": 102283}, {"name": "Europa", "id": 15266}], "successors": []}
+{"name": "Agricultores_de_Portugal", "id": 2779725, "predecessors": [{"name": "Empresários_de_Portugal", "id": 102283}, {"name": "Agricultura", "id": 24009}, {"name": "Geografia_política", "id": 473490}], "successors": []}

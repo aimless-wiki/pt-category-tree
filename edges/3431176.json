@@ -1,1 +1,1 @@
-{"name": "!Portal_TVI", "id": 3431176, "predecessors": [{"name": "!Portal_Televisão", "id": 2373370}, {"name": "TVI", "id": 1593496}, {"name": "!Portais", "id": 121299}, {"name": "!Portais_sobre_sociedade", "id": 2374868}], "successors": []}
+{"name": "!Portal_TVI", "id": 3431176, "predecessors": [{"name": "Televisão", "id": 29480}, {"name": "Conteúdo", "id": 2147069}, {"name": "Empresas_de_Portugal", "id": 52901}], "successors": []}

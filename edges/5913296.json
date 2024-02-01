@@ -1,1 +1,1 @@
-{"name": "Reitores_do_Brasil", "id": 5913296, "predecessors": [{"name": "Reitores", "id": 2385214}, {"name": "Instituições_de_ensino_superior_do_Brasil", "id": 797662}], "successors": []}
+{"name": "Reitores_do_Brasil", "id": 5913296, "predecessors": [{"name": "Reitores", "id": 2385214}, {"name": "Ensino_superior_no_Brasil", "id": 2848140}], "successors": [{"name": "Reitores_da_Universidade_de_São_Paulo", "id": 451447}]}

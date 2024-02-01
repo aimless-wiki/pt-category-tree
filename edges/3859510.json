@@ -1,1 +1,1 @@
-{"name": "Listas_de_luta_profissional", "id": 3859510, "predecessors": [{"name": "Luta_profissional", "id": 3859507}, {"name": "Listas_de_desporto", "id": 64155}], "successors": []}
+{"name": "Listas_de_luta_profissional", "id": 3859510, "predecessors": [{"name": "Desportos", "id": 1937695}, {"name": "Artes_cénicas", "id": 15293}], "successors": []}

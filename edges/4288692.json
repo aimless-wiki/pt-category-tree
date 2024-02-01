@@ -1,1 +1,1 @@
-{"name": "Listas_de_atores_de_cinema", "id": 4288692, "predecessors": [{"name": "Atores_de_cinema", "id": 3126006}, {"name": "Listas_de_cinema", "id": 124217}, {"name": "Atores", "id": 2218348}], "successors": []}
+{"name": "Listas_de_atores_de_cinema", "id": 4288692, "predecessors": [{"name": "Atores_de_cinema", "id": 3126006}, {"name": "Cinema", "id": 15210}, {"name": "Cultura", "id": 15294}], "successors": [{"name": "Elenco_de_Star_Wars", "id": 6389035}]}

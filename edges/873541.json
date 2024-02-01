@@ -1,1 +1,1 @@
-{"name": "Ondulatória", "id": 873541, "predecessors": [{"name": "Energia", "id": 63475}], "successors": [{"name": "Ondas", "id": 2992383}]}
+{"name": "Ondulatória", "id": 873541, "predecessors": [{"name": "Energia", "id": 63475}, {"name": "Física", "id": 14863}], "successors": [{"name": "Ondas", "id": 2992383}]}

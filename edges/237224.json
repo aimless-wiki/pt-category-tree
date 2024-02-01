@@ -1,1 +1,1 @@
-{"name": "Bandas_de_death_metal", "id": 237224, "predecessors": [{"name": "Death_metal", "id": 247446}], "successors": []}
+{"name": "Bandas_de_death_metal", "id": 237224, "predecessors": [{"name": "Gêneros_de_heavy_metal", "id": 5221758}, {"name": "Bandas_de_rock", "id": 193597}], "successors": [{"name": "Bandas_de_death_metal_da_Suécia", "id": 5355032}, {"name": "Bandas_de_death_metal_dos_Estados_Unidos", "id": 5355063}, {"name": "Bandas_de_death_metal_melódico", "id": 1952171}, {"name": "Bandas_de_deathcore", "id": 1992797}]}

@@ -1,1 +1,1 @@
-{"name": "Química_ambiental", "id": 2126511, "predecessors": [{"name": "Ciência_ambiental", "id": 2214246}], "successors": []}
+{"name": "Química_ambiental", "id": 2126511, "predecessors": [{"name": "Química_analítica", "id": 1327348}, {"name": "Biologia", "id": 15059}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Continentes_antigos", "id": 626283, "predecessors": [{"name": "Continentes", "id": 15421}, {"name": "Geologia_histórica", "id": 626285}, {"name": "Tectónica_de_placas", "id": 408667}], "successors": [{"name": "Nova_Caledónia", "id": 2315978}]}
+{"name": "Continentes_antigos", "id": 626283, "predecessors": [{"name": "Tectónica_de_placas", "id": 408667}, {"name": "Geologia", "id": 26268}, {"name": "Astrofísica", "id": 51776}], "successors": []}

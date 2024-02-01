@@ -1,1 +1,1 @@
-{"name": "Casos_de_doping_no_futebol", "id": 4998433, "predecessors": [{"name": "Casos_de_doping_no_esporte", "id": 5132949}, {"name": "Controvérsias_no_futebol", "id": 4290051}, {"name": "Desportos", "id": 1937695}], "successors": []}
+{"name": "Casos_de_doping_no_futebol", "id": 4998433, "predecessors": [{"name": "Controvérsias_no_futebol", "id": 4290051}, {"name": "Desportos", "id": 1937695}, {"name": "Drogas", "id": 28736}], "successors": []}

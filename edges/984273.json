@@ -1,1 +1,1 @@
-{"name": "Fisiologia_humana", "id": 984273, "predecessors": [{"name": "Fisiologia_animal", "id": 367271}, {"name": "Humanos", "id": 520050}], "successors": [{"name": "Células_humanas", "id": 2003668}]}
+{"name": "Fisiologia_humana", "id": 984273, "predecessors": [{"name": "Fisiologia", "id": 15866}, {"name": "Antropologia", "id": 19981}], "successors": [{"name": "Células_humanas", "id": 2003668}]}

@@ -1,1 +1,1 @@
-{"name": "Lutas_nos_Jogos_Olímpicos", "id": 809120, "predecessors": [{"name": "Desportos_olímpicos", "id": 23929}, {"name": "Luta", "id": 3854656}], "successors": [{"name": "Lutadores_olímpicos", "id": 2336882}]}
+{"name": "Lutas_nos_Jogos_Olímpicos", "id": 809120, "predecessors": [{"name": "Esportes_de_combate", "id": 1344592}, {"name": "Desportos", "id": 1937695}], "successors": [{"name": "Lutadores_olímpicos", "id": 2336882}]}

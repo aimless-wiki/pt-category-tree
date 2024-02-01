@@ -1,1 +1,1 @@
-{"name": "Atores_suicidas", "id": 2733772, "predecessors": [{"name": "Atores", "id": 2218348}, {"name": "Mortes_por_suicídio", "id": 3860957}], "successors": []}
+{"name": "Atores_suicidas", "id": 2733772, "predecessors": [{"name": "Suicídio", "id": 991053}, {"name": "Artes_cénicas", "id": 15293}], "successors": []}

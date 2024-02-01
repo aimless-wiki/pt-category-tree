@@ -1,1 +1,1 @@
-{"name": "Ligas_metálicas", "id": 39244, "predecessors": [{"name": "Metais", "id": 817260}, {"name": "Metalurgia", "id": 122435}], "successors": [{"name": "Moedas_de_bronze", "id": 4256338}, {"name": "Esculturas_de_bronze", "id": 4050926}]}
+{"name": "Ligas_metálicas", "id": 39244, "predecessors": [{"name": "Metalurgia", "id": 122435}, {"name": "Misturas_químicas", "id": 1418914}, {"name": "Cristalografia", "id": 48399}], "successors": [{"name": "Esculturas_de_bronze", "id": 4050926}]}

@@ -1,1 +1,1 @@
-{"name": "Guitarristas_de_jazz", "id": 802157, "predecessors": [{"name": "Músicos_de_jazz", "id": 269465}], "successors": [{"name": "Guitarristas_de_jazz_do_Brasil", "id": 3427345}]}
+{"name": "Guitarristas_de_jazz", "id": 802157, "predecessors": [{"name": "Músicos_de_jazz", "id": 269465}, {"name": "Guitarra", "id": 273189}], "successors": []}

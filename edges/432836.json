@@ -1,1 +1,1 @@
-{"name": "Luthiers", "id": 432836, "predecessors": [{"name": "Profissionais_de_música", "id": 1029298}], "successors": []}
+{"name": "Luthiers", "id": 432836, "predecessors": [{"name": "Indústria_da_música", "id": 867342}, {"name": "Manufatura", "id": 2101894}], "successors": []}

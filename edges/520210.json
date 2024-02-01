@@ -1,1 +1,1 @@
-{"name": "Reciclagem", "id": 520210, "predecessors": [{"name": "Resíduos", "id": 2484667}, {"name": "Tecnologias_ambientais", "id": 2148254}], "successors": [{"name": "Materiais_recicláveis", "id": 645355}]}
+{"name": "Reciclagem", "id": 520210, "predecessors": [{"name": "Meio_ambiente", "id": 14870}, {"name": "Eventos", "id": 61537}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fauna_do_Pantanal", "id": 2107449, "predecessors": [{"name": "Fauna_do_Brasil", "id": 1294462}, {"name": "Biomas_do_Brasil", "id": 3622980}], "successors": [{"name": "Aves_do_Pantanal", "id": 6301277}]}
+{"name": "Fauna_do_Pantanal", "id": 2107449, "predecessors": [{"name": "Fauna_do_Brasil", "id": 1294462}, {"name": "Biogeografia", "id": 369152}], "successors": [{"name": "Aves_do_Pantanal", "id": 6301277}]}

@@ -1,1 +1,1 @@
-{"name": "Aeronaves_experimentais", "id": 5044230, "predecessors": [{"name": "Aeronaves", "id": 3462296}], "successors": [{"name": "Aviões_experimentais", "id": 66130}, {"name": "Projetos_da_Luftwaffe", "id": 5040364}]}
+{"name": "Aeronaves_experimentais", "id": 5044230, "predecessors": [{"name": "Aeronáutica", "id": 65326}], "successors": [{"name": "Aviões_experimentais", "id": 66130}, {"name": "Projetos_da_Luftwaffe", "id": 5040364}]}

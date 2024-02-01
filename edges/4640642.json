@@ -1,1 +1,1 @@
-{"name": "Cartazes_de_filmes_do_Japão", "id": 4640642, "predecessors": [{"name": "Filmes_do_Japão", "id": 110440}], "successors": [{"name": "Cartazes_de_filmes_do_Studio_Ghibli", "id": 6668527}]}
+{"name": "Cartazes_de_filmes_do_Japão", "id": 4640642, "predecessors": [{"name": "Filmes_do_Japão", "id": 110440}, {"name": "Cartazes_de_filmes", "id": 4391806}], "successors": [{"name": "Cartazes_de_filmes_do_Studio_Ghibli", "id": 6668527}]}

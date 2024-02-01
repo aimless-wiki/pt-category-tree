@@ -1,1 +1,1 @@
-{"name": "Censos_dos_Estados_Unidos", "id": 3230901, "predecessors": [{"name": "Demografia_dos_Estados_Unidos", "id": 2520602}, {"name": "Censos", "id": 3230911}], "successors": []}
+{"name": "Censos_dos_Estados_Unidos", "id": 3230901, "predecessors": [{"name": "Demografia", "id": 18725}, {"name": "Geografia_política", "id": 473490}], "successors": []}

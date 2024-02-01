@@ -1,1 +1,1 @@
-{"name": "Filmes_ambientados_em_Xangai", "id": 3870945, "predecessors": [{"name": "Cultura_de_Xangai", "id": 3870949}, {"name": "Filmes_ambientados_na_China", "id": 3859594}, {"name": "Artes", "id": 41720}], "successors": []}
+{"name": "Filmes_ambientados_em_Xangai", "id": 3870945, "predecessors": [{"name": "Filmes_ambientados_na_China", "id": 3859594}, {"name": "Cultura_da_China", "id": 131477}, {"name": "Cinema", "id": 15210}], "successors": []}

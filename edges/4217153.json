@@ -1,1 +1,1 @@
-{"name": "Monarcas_mortos_em_combate", "id": 4217153, "predecessors": [{"name": "Militares", "id": 15099}, {"name": "Monarcas", "id": 31746}], "successors": [{"name": "Imperadores_romanos_mortos_em_combate", "id": 4217289}]}
+{"name": "Monarcas_mortos_em_combate", "id": 4217153, "predecessors": [{"name": "Militares", "id": 15099}, {"name": "Mortos_em_combate", "id": 4972025}, {"name": "Chefes_de_Estado", "id": 19826}], "successors": []}

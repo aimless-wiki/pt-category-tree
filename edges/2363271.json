@@ -1,1 +1,1 @@
-{"name": "Modelos_computacionais", "id": 2363271, "predecessors": [{"name": "Métodos_formais", "id": 657105}, {"name": "Teoria_da_computação", "id": 31793}, {"name": "Tópicos_em_linguagens_de_programação", "id": 3063150}], "successors": []}
+{"name": "Modelos_computacionais", "id": 2363271, "predecessors": [{"name": "Métodos_formais", "id": 657105}, {"name": "Teoria_da_computação", "id": 31793}, {"name": "Engenharia_de_software", "id": 38258}], "successors": []}

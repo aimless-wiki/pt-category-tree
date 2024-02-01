@@ -1,1 +1,1 @@
-{"name": "Técnicas_culinárias", "id": 168031, "predecessors": [{"name": "Culinária", "id": 15225}, {"name": "Habilidades", "id": 2240858}], "successors": [{"name": "Conservação_de_alimentos", "id": 1170324}, {"name": "Defumação", "id": 4815007}]}
+{"name": "Técnicas_culinárias", "id": 168031, "predecessors": [{"name": "Culinária", "id": 15225}, {"name": "Aprendizagem", "id": 2240872}], "successors": [{"name": "Conservantes_alimentares", "id": 595198}, {"name": "Segurança_alimentar", "id": 2010996}, {"name": "Conservantes", "id": 6993215}]}

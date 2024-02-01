@@ -1,1 +1,1 @@
-{"name": "Pilotos_da_Champ_Car", "id": 2823277, "predecessors": [{"name": "Champ_Car", "id": 929082}, {"name": "Automobilismo", "id": 15237}], "successors": []}
+{"name": "Pilotos_da_Champ_Car", "id": 2823277, "predecessors": [{"name": "Categorias_de_automobilismo", "id": 3270571}, {"name": "Automobilismo", "id": 15237}], "successors": []}

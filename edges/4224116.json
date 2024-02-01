@@ -1,1 +1,1 @@
-{"name": "Prisioneiros_bizantinos", "id": 4224116, "predecessors": [{"name": "Prisioneiros", "id": 2871112}, {"name": "Gregos", "id": 15344}], "successors": [{"name": "Bizantinos_executados", "id": 4016094}, {"name": "Bizantinos_prisioneiros_de_guerra", "id": 4184755}]}
+{"name": "Prisioneiros_bizantinos", "id": 4224116, "predecessors": [{"name": "Justiça", "id": 96389}, {"name": "Nacionalidade", "id": 334668}], "successors": [{"name": "Bizantinos_executados", "id": 4016094}]}

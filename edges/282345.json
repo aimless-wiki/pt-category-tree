@@ -1,1 +1,1 @@
-{"name": "Pintores_da_China", "id": 282345, "predecessors": [{"name": "Artistas_da_China", "id": 1419859}, {"name": "Pintura_da_China", "id": 1285630}, {"name": "Artistas_plásticos", "id": 163254}], "successors": []}
+{"name": "Pintores_da_China", "id": 282345, "predecessors": [{"name": "Pintura", "id": 21649}, {"name": "Geografia_política", "id": 473490}, {"name": "Artes_visuais", "id": 3465285}], "successors": []}

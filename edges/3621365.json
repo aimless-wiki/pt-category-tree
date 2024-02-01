@@ -1,1 +1,1 @@
-{"name": "Desenho_geométrico", "id": 3621365, "predecessors": [{"name": "Desenho", "id": 26136}, {"name": "Geometria", "id": 15096}], "successors": [{"name": "Forma_geométrica", "id": 2274297}]}
+{"name": "Desenho_geométrico", "id": 3621365, "predecessors": [{"name": "Desenho", "id": 26136}, {"name": "Geometria", "id": 15096}], "successors": [{"name": "Polígonos", "id": 15268}, {"name": "Fractais", "id": 67825}, {"name": "Curvas", "id": 222951}, {"name": "Superfícies", "id": 322806}, {"name": "Poliedros", "id": 347336}]}

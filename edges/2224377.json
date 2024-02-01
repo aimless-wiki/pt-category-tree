@@ -1,1 +1,1 @@
-{"name": "Usabilidade", "id": 2224377, "predecessors": [{"name": "Ergonomia", "id": 354252}, {"name": "Interação_humano-computador", "id": 2504465}], "successors": []}
+{"name": "Usabilidade", "id": 2224377, "predecessors": [{"name": "Interação_humano-computador", "id": 2504465}, {"name": "Design", "id": 23885}], "successors": []}

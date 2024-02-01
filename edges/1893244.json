@@ -1,1 +1,1 @@
-{"name": "Idiofones_percutidos", "id": 1893244, "predecessors": [{"name": "Idiofones", "id": 1039445}, {"name": "Instrumentos_de_percussão", "id": 107047}], "successors": [{"name": "Sinos", "id": 1130523}]}
+{"name": "Idiofones_percutidos", "id": 1893244, "predecessors": [{"name": "Instrumentos_de_percussão", "id": 107047}, {"name": "Instrumentos_musicais", "id": 14226}], "successors": [{"name": "Sinos", "id": 1130523}]}

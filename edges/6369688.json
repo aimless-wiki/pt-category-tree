@@ -1,1 +1,1 @@
-{"name": "Setor_de_Embaixadas_Sul", "id": 6369688, "predecessors": [{"name": "Asa_Sul", "id": 6241174}, {"name": "Distritos_diplomáticos", "id": 4708719}, {"name": "Setores_de_Brasília", "id": 6210432}], "successors": []}
+{"name": "Setor_de_Embaixadas_Sul", "id": 6369688, "predecessors": [{"name": "Divisões_administrativas", "id": 15485}, {"name": "Brasília", "id": 127833}, {"name": "Geografia_do_Brasil", "id": 15122}], "successors": []}

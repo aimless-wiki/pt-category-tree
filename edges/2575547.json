@@ -1,1 +1,1 @@
-{"name": "Cineastas_da_Bahia", "id": 2575547, "predecessors": [{"name": "Artistas_da_Bahia", "id": 2556287}, {"name": "Cinema_da_Bahia", "id": 4328147}, {"name": "Cineastas_do_Brasil", "id": 61329}], "successors": []}
+{"name": "Cineastas_da_Bahia", "id": 2575547, "predecessors": [{"name": "Nacionalidade", "id": 334668}, {"name": "Cinema_do_Brasil", "id": 61331}, {"name": "Cultura_do_Brasil", "id": 26134}], "successors": []}

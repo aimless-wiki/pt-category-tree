@@ -1,1 +1,1 @@
-{"name": "Radiotelescópios", "id": 1801414, "predecessors": [{"name": "Radioastronomia", "id": 377925}, {"name": "Telescópios", "id": 50915}], "successors": []}
+{"name": "Radiotelescópios", "id": 1801414, "predecessors": [{"name": "Telescópios", "id": 50915}, {"name": "Astronomia", "id": 14983}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Mortos_por_quedas_acidentais", "id": 6184161, "predecessors": [{"name": "Mortes_acidentais", "id": 5210010}], "successors": [{"name": "Mortes_no_montanhismo", "id": 3957651}]}
+{"name": "Mortos_por_quedas_acidentais", "id": 6184161, "predecessors": [{"name": "Mortes_por_queda", "id": 3740316}, {"name": "Morte", "id": 99791}], "successors": [{"name": "Mortes_no_montanhismo", "id": 3957651}]}

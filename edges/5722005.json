@@ -1,1 +1,1 @@
-{"name": "Corridas_do_UCI_Europe_Tour", "id": 5722005, "predecessors": [{"name": "Competições_profissionais_de_ciclismo", "id": 4723403}, {"name": "UCI_Europe_Tour", "id": 5766045}], "successors": [{"name": "Omloop_Het_Nieuwsblad", "id": 5766034}, {"name": "Drôme_Classic", "id": 6406725}]}
+{"name": "Corridas_do_UCI_Europe_Tour", "id": 5722005, "predecessors": [{"name": "Ciclismo", "id": 55432}, {"name": "Competições", "id": 1562370}], "successors": []}

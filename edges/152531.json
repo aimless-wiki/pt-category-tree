@@ -1,1 +1,1 @@
-{"name": "Juízes", "id": 152531, "predecessors": [{"name": "Poder_Judiciário", "id": 1456499}, {"name": "Administração_pública", "id": 127933}], "successors": [{"name": "Juízes_do_Tribunal_Internacional_de_Justiça", "id": 1243437}, {"name": "Juízes_do_Tribunal_Penal_Internacional", "id": 3066083}]}
+{"name": "Juízes", "id": 152531, "predecessors": [{"name": "Direito_constitucional", "id": 25655}, {"name": "!Ferramentas_da_Wikipédia", "id": 2292391}, {"name": "Administração_pública", "id": 127933}], "successors": []}

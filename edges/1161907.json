@@ -1,1 +1,1 @@
-{"name": "Ciclistas_da_Argentina", "id": 1161907, "predecessors": [{"name": "Desporto_da_Argentina", "id": 2051227}, {"name": "Ciclismo", "id": 55432}, {"name": "Esportes_de_corrida", "id": 2155822}], "successors": [{"name": "Ciclistas_olímpicos_da_Argentina", "id": 4811509}]}
+{"name": "Ciclistas_da_Argentina", "id": 1161907, "predecessors": [{"name": "Ciclismo", "id": 55432}, {"name": "Cultura_da_Argentina", "id": 439497}, {"name": "Desportos", "id": 1937695}], "successors": [{"name": "Ciclistas_olímpicos_da_Argentina", "id": 4811509}]}

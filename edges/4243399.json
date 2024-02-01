@@ -1,1 +1,1 @@
-{"name": "Maquilhadores_premiados_com_o_Óscar", "id": 4243399, "predecessors": [{"name": "Maquilhadores_premiados", "id": 4243402}], "successors": [{"name": "Filmes_premiados_com_o_Oscar_de_melhor_maquiagem_e_penteados", "id": 2192285}]}
+{"name": "Maquilhadores_premiados_com_o_Óscar", "id": 4243399, "predecessors": [{"name": "Prêmios_de_cinema", "id": 124186}, {"name": "Maquilhadores", "id": 4243403}], "successors": [{"name": "Filmes_premiados_com_o_Oscar_de_melhor_maquiagem_e_penteados", "id": 2192285}]}

@@ -1,1 +1,1 @@
-{"name": "Desporto_em_Lisboa", "id": 2539724, "predecessors": [{"name": "Lisboa", "id": 63519}, {"name": "Distritos_de_Portugal", "id": 63812}, {"name": "Desportos", "id": 1937695}], "successors": [{"name": "Clubes_de_futebol_de_Lisboa", "id": 3739819}]}
+{"name": "Desporto_em_Lisboa", "id": 2539724, "predecessors": [{"name": "Lisboa", "id": 63519}, {"name": "Divisões_administrativas", "id": 15485}, {"name": "Municípios_de_Portugal", "id": 63813}], "successors": [{"name": "Clubes_de_futebol_de_Lisboa", "id": 3739819}]}

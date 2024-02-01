@@ -1,1 +1,1 @@
-{"name": "Arte_digital", "id": 3621469, "predecessors": [{"name": "Arte_contemporânea", "id": 65136}, {"name": "Mídia_digital", "id": 3339826}, {"name": "Artes", "id": 41720}], "successors": [{"name": "Música_eletrônica", "id": 16859}]}
+{"name": "Arte_digital", "id": 3621469, "predecessors": [{"name": "Arte_contemporânea", "id": 65136}, {"name": "Multimídia", "id": 2718187}, {"name": "Arte", "id": 14871}], "successors": [{"name": "Música_eletrônica", "id": 16859}]}

@@ -1,1 +1,1 @@
-{"name": "Eleições_na_Madeira", "id": 1043449, "predecessors": [{"name": "Política_da_Madeira", "id": 2987174}, {"name": "Eleições_em_Portugal", "id": 170775}], "successors": [{"name": "Eleições_legislativas_regionais_na_Madeira", "id": 2902059}, {"name": "Eleições_no_Funchal", "id": 6213039}]}
+{"name": "Eleições_na_Madeira", "id": 1043449, "predecessors": [{"name": "Eleições_em_Portugal", "id": 170775}, {"name": "Política_de_Portugal", "id": 61140}], "successors": []}

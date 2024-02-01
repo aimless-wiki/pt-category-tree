@@ -1,1 +1,1 @@
-{"name": "Navios-museu", "id": 4086345, "predecessors": [{"name": "Museus", "id": 37715}, {"name": "Navios", "id": 60461}, {"name": "História_marítima", "id": 2572417}], "successors": [{"name": "Navios_preservados_em_museus", "id": 5548273}, {"name": "Navios-museu_nos_Estados_Unidos", "id": 5548516}, {"name": "Navios-museu_no_Brasil", "id": 7247368}]}
+{"name": "Navios-museu", "id": 4086345, "predecessors": [{"name": "Navegação", "id": 309268}, {"name": "Entretenimento", "id": 69904}, {"name": "Meios_de_transporte", "id": 43380}], "successors": []}

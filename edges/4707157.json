@@ -1,1 +1,1 @@
-{"name": "Desastres_aéreos_intencionais", "id": 4707157, "predecessors": [{"name": "Assassinatos-suicídio", "id": 6611862}], "successors": []}
+{"name": "Desastres_aéreos_intencionais", "id": 4707157, "predecessors": [{"name": "Acidentes_e_incidentes_aéreos", "id": 307912}, {"name": "Assassinatos", "id": 2114779}], "successors": []}

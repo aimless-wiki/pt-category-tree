@@ -1,1 +1,1 @@
-{"name": "Baladas", "id": 1610427, "predecessors": [{"name": "Formas_de_canção", "id": 4592559}], "successors": []}
+{"name": "Baladas", "id": 1610427, "predecessors": [{"name": "Artes_cénicas", "id": 15293}, {"name": "Formas_musicais", "id": 181366}], "successors": [{"name": "Baladas_de_música_pop", "id": 1775625}, {"name": "Baladas_de_rock", "id": 5788488}, {"name": "Baladas_de_R&B", "id": 5788513}]}

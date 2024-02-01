@@ -1,1 +1,1 @@
-{"name": "Banda_larga", "id": 4550105, "predecessors": [{"name": "Cabos_de_sinal", "id": 2591485}, {"name": "Internet", "id": 15036}, {"name": "Tecnologia_digital", "id": 2631728}], "successors": [{"name": "Digital_Subscriber_Line", "id": 639866}]}
+{"name": "Banda_larga", "id": 4550105, "predecessors": [{"name": "Internet", "id": 15036}, {"name": "Componentes_elétricos", "id": 1156241}, {"name": "Disciplinas_de_engenharia", "id": 2797454}], "successors": []}

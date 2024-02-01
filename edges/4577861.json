@@ -1,1 +1,1 @@
-{"name": "Cantores_de_dance-pop", "id": 4577861, "predecessors": [{"name": "Cantores_de_dance_music", "id": 4577863}, {"name": "Cantores_de_música_pop", "id": 992876}], "successors": []}
+{"name": "Cantores_de_dance-pop", "id": 4577861, "predecessors": [{"name": "Cantores_de_música_pop", "id": 992876}, {"name": "Música_de_dança", "id": 593590}], "successors": []}

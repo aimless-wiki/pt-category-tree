@@ -1,1 +1,1 @@
-{"name": "Vencedores_do_Prémio_TVyNovelas", "id": 4537281, "predecessors": [{"name": "Prêmios_TVyNovelas", "id": 3740029}], "successors": [{"name": "Atrizes_premiadas_com_o_TVyNovelas", "id": 4433598}, {"name": "Atores_premiados_com_o_TVyNovelas", "id": 4537279}]}
+{"name": "Vencedores_do_Prémio_TVyNovelas", "id": 4537281, "predecessors": [{"name": "Comportamento_humano", "id": 983221}, {"name": "Comunicação", "id": 16948}], "successors": [{"name": "Atrizes_premiadas_com_o_TVyNovelas", "id": 4433598}, {"name": "Atores_premiados_com_o_TVyNovelas", "id": 4537279}]}

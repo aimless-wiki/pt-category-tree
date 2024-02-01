@@ -1,1 +1,1 @@
-{"name": "Professores_do_Instituto_Real_de_Tecnologia", "id": 3316895, "predecessors": [{"name": "Professores_da_Suécia", "id": 1615568}, {"name": "Estocolmo", "id": 595615}], "successors": []}
+{"name": "Professores_do_Instituto_Real_de_Tecnologia", "id": 3316895, "predecessors": [{"name": "Professores_universitários", "id": 611832}, {"name": "Estocolmo", "id": 595615}], "successors": []}

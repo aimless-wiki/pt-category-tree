@@ -1,1 +1,1 @@
-{"name": "Naturais_do_Cairo", "id": 3034068, "predecessors": [{"name": "Naturais_do_Egito", "id": 2832880}], "successors": []}
+{"name": "Naturais_do_Cairo", "id": 3034068, "predecessors": [{"name": "Cairo", "id": 1690971}, {"name": "Naturais_do_Egito", "id": 2832880}], "successors": []}

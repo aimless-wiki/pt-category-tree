@@ -1,1 +1,1 @@
-{"name": "Livros_de_aventura", "id": 3882485, "predecessors": [{"name": "Livros", "id": 15084}], "successors": [{"name": "Romances_de_aventura", "id": 4053281}]}
+{"name": "Livros_de_aventura", "id": 3882485, "predecessors": [{"name": "Literatura", "id": 15629}], "successors": [{"name": "Romances_de_aventura", "id": 4053281}]}

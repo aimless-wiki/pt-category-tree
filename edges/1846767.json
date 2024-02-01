@@ -1,1 +1,1 @@
-{"name": "Escultura_da_Roma_Antiga", "id": 1846767, "predecessors": [{"name": "Arte_da_Roma_Antiga", "id": 339849}, {"name": "Arte_da_Antiguidade", "id": 336229}], "successors": [{"name": "Escultores_da_Roma_Antiga", "id": 3872282}, {"name": "Sarcófagos_da_Roma_Antiga", "id": 4814653}]}
+{"name": "Escultura_da_Roma_Antiga", "id": 1846767, "predecessors": [{"name": "Roma_Antiga", "id": 17175}, {"name": "Artes_visuais", "id": 3465285}], "successors": [{"name": "Cópias_romanas_de_esculturas_gregas", "id": 4810720}]}

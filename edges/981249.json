@@ -1,1 +1,1 @@
-{"name": "Firewall", "id": 981249, "predecessors": [{"name": "Programas_de_computador_por_finalidade", "id": 430478}, {"name": "Softwares_de_segurança_computacional", "id": 5850219}], "successors": []}
+{"name": "Firewall", "id": 981249, "predecessors": [{"name": "Softwares_de_segurança_computacional", "id": 5850219}, {"name": "Programas_de_computador", "id": 14981}], "successors": []}

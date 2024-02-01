@@ -1,1 +1,1 @@
-{"name": "Casos_de_doping_no_ciclismo", "id": 4374600, "predecessors": [{"name": "Casos_de_doping_no_esporte", "id": 5132949}, {"name": "Ciclismo", "id": 55432}], "successors": []}
+{"name": "Casos_de_doping_no_ciclismo", "id": 4374600, "predecessors": [{"name": "Ciclismo", "id": 55432}, {"name": "Drogas", "id": 28736}], "successors": []}

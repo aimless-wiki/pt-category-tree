@@ -1,1 +1,1 @@
-{"name": "Professores_da_Universidade_de_Jena", "id": 3300598, "predecessors": [{"name": "Universidade_de_Jena", "id": 2551296}, {"name": "Professores_da_Alemanha", "id": 1151233}], "successors": []}
+{"name": "Professores_da_Universidade_de_Jena", "id": 3300598, "predecessors": [{"name": "Professores_da_Alemanha", "id": 1151233}, {"name": "Cidades_da_Turíngia", "id": 521369}], "successors": []}

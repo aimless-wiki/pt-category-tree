@@ -1,1 +1,1 @@
-{"name": "Navios_da_Costa_Crociere", "id": 2596121, "predecessors": [{"name": "Navios_de_cruzeiro", "id": 2596104}, {"name": "Navios", "id": 60461}, {"name": "Empresas_de_cruzeiros", "id": 881992}], "successors": []}
+{"name": "Navios_da_Costa_Crociere", "id": 2596121, "predecessors": [{"name": "Navios_de_cruzeiro", "id": 2596104}, {"name": "Navegação", "id": 309268}, {"name": "Empresas", "id": 328001}], "successors": []}

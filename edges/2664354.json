@@ -1,1 +1,1 @@
-{"name": "Equipamentos_de_química", "id": 2664354, "predecessors": [{"name": "Equipamentos", "id": 493814}, {"name": "Equipamentos_laboratoriais", "id": 15001}], "successors": []}
+{"name": "Equipamentos_de_química", "id": 2664354, "predecessors": [{"name": "Equipamentos", "id": 493814}, {"name": "Equipamentos_laboratoriais", "id": 15001}, {"name": "Química", "id": 14748}], "successors": []}

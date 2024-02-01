@@ -1,1 +1,1 @@
-{"name": "Basidiomycota", "id": 1478987, "predecessors": [{"name": "Fungos", "id": 152493}], "successors": [{"name": "Agaricomycotina", "id": 2921845}, {"name": "Ustilaginomycotina", "id": 2921852}, {"name": "Pucciniomycotina", "id": 2975175}]}
+{"name": "Basidiomycota", "id": 1478987, "predecessors": [{"name": "Fungos", "id": 152493}], "successors": [{"name": "Agaricales", "id": 1478984}, {"name": "Lactarius", "id": 3350000}, {"name": "Russula", "id": 3350008}]}

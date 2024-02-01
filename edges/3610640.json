@@ -1,1 +1,1 @@
-{"name": "Desporto_de_Orlando", "id": 3610640, "predecessors": [{"name": "Desporto_da_Flórida", "id": 2921623}, {"name": "Cidades_da_Flórida", "id": 77099}], "successors": [{"name": "Orlando_Magic", "id": 2180312}, {"name": "Orlando_City_Soccer_Club", "id": 4713022}]}
+{"name": "Desporto_de_Orlando", "id": 3610640, "predecessors": [{"name": "Divisões_administrativas", "id": 15485}, {"name": "Cidades_dos_Estados_Unidos", "id": 57025}, {"name": "Geografia_política", "id": 473490}], "successors": [{"name": "Basquetebolistas_do_Orlando_Magic", "id": 2219578}]}

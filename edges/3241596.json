@@ -1,1 +1,1 @@
-{"name": "Sequestros_de_aeronaves", "id": 3241596, "predecessors": [{"name": "Sequestros", "id": 1989735}, {"name": "Terrorismo", "id": 41693}], "successors": [{"name": "Operação_Entebbe", "id": 6643591}]}
+{"name": "Sequestros_de_aeronaves", "id": 3241596, "predecessors": [{"name": "Terrorismo", "id": 41693}, {"name": "Crimes", "id": 35446}, {"name": "Acidentes_e_incidentes_aéreos", "id": 307912}], "successors": []}

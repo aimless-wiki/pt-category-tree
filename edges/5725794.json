@@ -1,1 +1,1 @@
-{"name": "Corridas_do_UCI_Asia_Tour", "id": 5725794, "predecessors": [{"name": "Competições_profissionais_de_ciclismo", "id": 4723403}], "successors": []}
+{"name": "Corridas_do_UCI_Asia_Tour", "id": 5725794, "predecessors": [{"name": "Ciclismo", "id": 55432}, {"name": "Competições_de_ciclismo_em_estrada", "id": 4439910}], "successors": []}

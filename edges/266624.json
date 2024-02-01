@@ -1,1 +1,1 @@
-{"name": "Músicos_de_punk_rock", "id": 266624, "predecessors": [{"name": "Punk_rock", "id": 44478}], "successors": [{"name": "Músicos_de_hardcore_punk", "id": 1872487}, {"name": "Músicos_de_pop_punk", "id": 1941130}, {"name": "Músicos_de_pré-punk", "id": 2342308}, {"name": "Cantores_de_punk_rock", "id": 3279716}]}
+{"name": "Músicos_de_punk_rock", "id": 266624, "predecessors": [{"name": "Cultura_da_cidade_de_Nova_Iorque", "id": 1743361}, {"name": "Músicos_de_rock", "id": 285424}], "successors": [{"name": "Cantores_de_punk_rock", "id": 3279716}]}

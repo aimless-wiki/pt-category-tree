@@ -1,1 +1,1 @@
-{"name": "Enteógenos", "id": 1785252, "predecessors": [{"name": "Drogas_psicoativas", "id": 2450879}, {"name": "Práticas_religiosas", "id": 65475}, {"name": "Xamanismo", "id": 104945}], "successors": [{"name": "Santo-daime", "id": 41955}, {"name": "Tabaco", "id": 807769}]}
+{"name": "Enteógenos", "id": 1785252, "predecessors": [{"name": "Práticas_religiosas", "id": 65475}, {"name": "Xamanismo", "id": 104945}, {"name": "Drogas", "id": 28736}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Professores_da_França", "id": 235512, "predecessors": [{"name": "Franceses", "id": 14272}, {"name": "Professores", "id": 25037}], "successors": []}
+{"name": "Professores_da_França", "id": 235512, "predecessors": [{"name": "Educadores", "id": 15846}, {"name": "Geografia_política", "id": 473490}], "successors": [{"name": "Professores_da_Universidade_de_Paris", "id": 2393719}, {"name": "Professores_da_Universidade_de_Estrasburgo", "id": 3024501}, {"name": "Professores_do_Collège_de_France", "id": 3159238}]}

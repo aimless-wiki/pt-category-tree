@@ -1,1 +1,1 @@
-{"name": "Filmes_de_caça_ao_tesouro", "id": 5720300, "predecessors": [{"name": "Filmes_de_aventura", "id": 995111}, {"name": "Tesouros", "id": 3780103}], "successors": []}
+{"name": "Filmes_de_caça_ao_tesouro", "id": 5720300, "predecessors": [{"name": "Filmes_de_aventura", "id": 995111}, {"name": "Arqueologia", "id": 22643}, {"name": "Cultura", "id": 15294}], "successors": []}

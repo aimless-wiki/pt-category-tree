@@ -1,1 +1,1 @@
-{"name": "Armas_de_fogo_da_Remington_Arms", "id": 6319929, "predecessors": [{"name": "Remington_Arms", "id": 5573940}, {"name": "Armas", "id": 38719}], "successors": []}
+{"name": "Armas_de_fogo_da_Remington_Arms", "id": 6319929, "predecessors": [{"name": "Armas", "id": 38719}, {"name": "Fabricantes_de_armas_de_fogo_dos_Estados_Unidos", "id": 2540609}], "successors": []}

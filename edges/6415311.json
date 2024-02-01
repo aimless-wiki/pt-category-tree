@@ -1,1 +1,1 @@
-{"name": "Vacinas_contra_COVID-19", "id": 6415311, "predecessors": [{"name": "COVID-19", "id": 6515619}, {"name": "Vacinas", "id": 1940216}], "successors": []}
+{"name": "Vacinas_contra_COVID-19", "id": 6415311, "predecessors": [{"name": "Vacinas", "id": 1940216}, {"name": "Doenças_respiratórias", "id": 1097740}], "successors": []}

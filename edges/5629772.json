@@ -1,1 +1,1 @@
-{"name": "!Portal_Google", "id": 5629772, "predecessors": [{"name": "!Portais_sobre_tecnologia", "id": 3272529}, {"name": "Google", "id": 152505}], "successors": []}
+{"name": "!Portal_Google", "id": 5629772, "predecessors": [{"name": "Google", "id": 152505}, {"name": "Tecnologia", "id": 15228}], "successors": []}

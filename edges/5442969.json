@@ -1,1 +1,1 @@
-{"name": "Livros_de_Reis", "id": 5442969, "predecessors": [{"name": "Antigo_Testamento", "id": 84188}, {"name": "Tanakh", "id": 802791}], "successors": [{"name": "Reis_de_Judá", "id": 798162}, {"name": "Templo_de_Salomão", "id": 7072864}]}
+{"name": "Livros_de_Reis", "id": 5442969, "predecessors": [{"name": "Antigo_Testamento", "id": 84188}, {"name": "Textos_judaicos", "id": 271492}], "successors": [{"name": "Reis_de_Judá", "id": 798162}]}

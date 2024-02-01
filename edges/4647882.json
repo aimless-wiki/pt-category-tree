@@ -1,1 +1,1 @@
-{"name": "Filmes_premiados_com_o_BAFTA_de_melhor_filme_britânico", "id": 4647882, "predecessors": [{"name": "BAFTA_de_melhor_filme_britânico", "id": 4311886}], "successors": []}
+{"name": "Filmes_premiados_com_o_BAFTA_de_melhor_filme_britânico", "id": 4647882, "predecessors": [{"name": "Filmes_premiados_com_o_BAFTA", "id": 1968965}, {"name": "Prêmios_de_cinema", "id": 124186}], "successors": []}

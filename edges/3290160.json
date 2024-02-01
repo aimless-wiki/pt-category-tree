@@ -1,1 +1,1 @@
-{"name": "Jogos_para_Virtual_Console_(Wii)", "id": 3290160, "predecessors": [{"name": "Canais_do_Wii", "id": 3057695}, {"name": "Jogos_para_Wii", "id": 1981545}, {"name": "Nintendo", "id": 52655}, {"name": "Acessórios_do_Wii", "id": 3061301}], "successors": []}
+{"name": "Jogos_para_Virtual_Console_(Wii)", "id": 3290160, "predecessors": [{"name": "Jogos_para_Wii", "id": 1981545}, {"name": "Comércio_eletrónico", "id": 3057780}, {"name": "Nintendo", "id": 52655}, {"name": "Consolas_de_jogos", "id": 64228}], "successors": []}

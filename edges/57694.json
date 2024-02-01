@@ -1,1 +1,1 @@
-{"name": "Microprocessadores_x86", "id": 57694, "predecessors": [{"name": "Arquitetura_x86", "id": 2762073}, {"name": "Microprocessadores", "id": 57700}], "successors": [{"name": "Instruções_x86", "id": 863282}]}
+{"name": "Microprocessadores_x86", "id": 57694, "predecessors": [{"name": "Microprocessadores", "id": 57700}, {"name": "Arquitetura_de_computadores", "id": 64279}], "successors": []}

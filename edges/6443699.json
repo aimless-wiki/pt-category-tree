@@ -1,1 +1,1 @@
-{"name": "Estabilizadores_de_humor", "id": 6443699, "predecessors": [{"name": "Tratamento_do_transtorno_bipolar", "id": 2821189}, {"name": "Fármacos", "id": 106551}], "successors": []}
+{"name": "Estabilizadores_de_humor", "id": 6443699, "predecessors": [{"name": "Fármacos", "id": 106551}, {"name": "Transtorno_bipolar", "id": 2821190}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Aminas_aromáticas", "id": 2004585, "predecessors": [{"name": "Compostos_aromáticos", "id": 370607}], "successors": [{"name": "Benzodiazepinas", "id": 843754}]}
+{"name": "Aminas_aromáticas", "id": 2004585, "predecessors": [{"name": "Aminas", "id": 493422}, {"name": "Compostos_aromáticos", "id": 370607}], "successors": [{"name": "Benzodiazepinas", "id": 843754}]}

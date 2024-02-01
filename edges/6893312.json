@@ -1,1 +1,1 @@
-{"name": "Mecânica_ondulatória", "id": 6893312, "predecessors": [{"name": "Equações_de_derivadas_parciais", "id": 1328365}], "successors": [{"name": "Efeitos_Doppler", "id": 6893220}]}
+{"name": "Mecânica_ondulatória", "id": 6893312, "predecessors": [{"name": "Mecânica_clássica", "id": 86317}, {"name": "Equações_diferenciais", "id": 367034}], "successors": []}

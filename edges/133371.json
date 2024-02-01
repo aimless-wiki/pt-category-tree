@@ -1,1 +1,1 @@
-{"name": "Filologia", "id": 133371, "predecessors": [{"name": "História_por_tema", "id": 358445}, {"name": "Linguística", "id": 14989}], "successors": [{"name": "Filólogos", "id": 70647}, {"name": "Linguística_histórica", "id": 2195228}, {"name": "Paleografia", "id": 3337956}]}
+{"name": "Filologia", "id": 133371, "predecessors": [{"name": "Linguística", "id": 14989}, {"name": "!Ferramentas_da_Wikipédia", "id": 2292391}], "successors": [{"name": "Linguística_histórica", "id": 2195228}, {"name": "Helenistas", "id": 611764}, {"name": "Orientalistas", "id": 2100096}]}

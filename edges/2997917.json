@@ -1,1 +1,1 @@
-{"name": "Asteroides_cruzadores_de_Marte", "id": 2997917, "predecessors": [{"name": "Asteroides_cruzadores_de_planetas", "id": 4574431}, {"name": "Grupos_ou_famílias_de_asteroides", "id": 4571714}, {"name": "Marte", "id": 15963}], "successors": []}
+{"name": "Asteroides_cruzadores_de_Marte", "id": 2997917, "predecessors": [{"name": "Grupos_ou_famílias_de_asteroides", "id": 4571714}, {"name": "Marte", "id": 15963}, {"name": "Asteroides", "id": 2161559}], "successors": []}
