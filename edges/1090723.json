@@ -1,1 +1,1 @@
-{"name": "Armas_medievais", "id": 1090723, "predecessors": [{"name": "Armas_antigas", "id": 1090169}, {"name": "Idade_Média", "id": 75775}, {"name": "Armas", "id": 38719}], "successors": []}
+{"name": "Armas_medievais", "id": 1090723, "predecessors": [{"name": "Armas_antigas", "id": 1090169}, {"name": "Idade_Média", "id": 75775}, {"name": "Armas", "id": 38719}], "successors": [{"name": "Ordens_de_cavalaria", "id": 1216818}]}

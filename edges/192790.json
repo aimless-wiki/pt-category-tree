@@ -1,1 +1,1 @@
-{"name": "Transporte_público", "id": 192790, "predecessors": [{"name": "Transporte", "id": 604636}, {"name": "Administração_pública", "id": 127933}], "successors": [{"name": "Táxi", "id": 714171}, {"name": "Bus_Rapid_Transit", "id": 3221878}, {"name": "Corredores_de_ônibus", "id": 4133565}]}
+{"name": "Transporte_público", "id": 192790, "predecessors": [{"name": "Transporte", "id": 604636}, {"name": "Administração_pública", "id": 127933}], "successors": [{"name": "Táxi", "id": 714171}, {"name": "Bus_Rapid_Transit", "id": 3221878}]}

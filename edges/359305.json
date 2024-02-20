@@ -1,1 +1,1 @@
-{"name": "Hotéis_de_Portugal", "id": 359305, "predecessors": [{"name": "Turismo_em_Portugal", "id": 494209}, {"name": "Empresas_de_Portugal", "id": 52901}, {"name": "Arquitetura", "id": 15243}], "successors": [{"name": "Pousadas_de_Portugal", "id": 475874}]}
+{"name": "Hotéis_de_Portugal", "id": 359305, "predecessors": [{"name": "Economia_de_Portugal", "id": 93809}, {"name": "Empresas_de_Portugal", "id": 52901}, {"name": "Arquitetura", "id": 15243}], "successors": [{"name": "Pousadas_de_Portugal", "id": 475874}]}

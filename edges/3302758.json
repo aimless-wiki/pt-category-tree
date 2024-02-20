@@ -1,1 +1,1 @@
-{"name": "Pintura_religiosa", "id": 3302758, "predecessors": [{"name": "Arte_cristã", "id": 627264}, {"name": "Cultura", "id": 15294}], "successors": [{"name": "Pinturas_com_temas_bíblicos", "id": 2756382}]}
+{"name": "Pintura_religiosa", "id": 3302758, "predecessors": [{"name": "Arte_sacra", "id": 1026421}, {"name": "Cultura", "id": 15294}], "successors": [{"name": "Pinturas_com_temas_bíblicos", "id": 2756382}]}
