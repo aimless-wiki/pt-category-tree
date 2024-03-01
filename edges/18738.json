@@ -1,1 +1,1 @@
-{"name": "Frutos", "id": 18738, "predecessors": [{"name": "Agronomia", "id": 19988}, {"name": "Alimentos", "id": 38005}], "successors": [{"name": "Pseudofrutos", "id": 994668}, {"name": "Viticultura", "id": 182709}, {"name": "Frutos_do_Brasil", "id": 2439514}]}
+{"name": "Frutos", "id": 18738, "predecessors": [{"name": "Agronomia", "id": 19988}, {"name": "Alimentos", "id": 38005}], "successors": [{"name": "Viticultura", "id": 182709}, {"name": "Frutos_do_Brasil", "id": 2439514}]}

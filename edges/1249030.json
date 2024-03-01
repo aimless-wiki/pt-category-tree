@@ -1,1 +1,1 @@
-{"name": "Faculdades_de_medicina_do_Brasil", "id": 1249030, "predecessors": [{"name": "Faculdades_do_Brasil", "id": 1064256}, {"name": "Medicina", "id": 15055}, {"name": "Ensino_superior", "id": 15042}], "successors": []}
+{"name": "Faculdades_de_medicina_do_Brasil", "id": 1249030, "predecessors": [{"name": "Faculdades_do_Brasil", "id": 1064256}, {"name": "Medicina", "id": 15055}, {"name": "Ensino_superior", "id": 15042}], "successors": [{"name": "Alunos_da_Faculdade_de_Medicina_da_Universidade_Federal_do_Rio_de_Janeiro", "id": 6499703}]}

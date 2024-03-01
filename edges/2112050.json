@@ -1,1 +1,1 @@
-{"name": "Fast_food", "id": 2112050, "predecessors": [{"name": "Culinária_dos_Estados_Unidos", "id": 2528533}, {"name": "Restaurantes", "id": 649596}], "successors": []}
+{"name": "Fast_food", "id": 2112050, "predecessors": [{"name": "Culinária_dos_Estados_Unidos", "id": 2528533}, {"name": "Construções", "id": 41684}], "successors": [{"name": "Cadeias_de_fast-food_dos_Estados_Unidos", "id": 3188892}]}
