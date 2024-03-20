@@ -1,1 +1,1 @@
-{"name": "Blockchain", "id": 6268078, "predecessors": [{"name": "Bancos_de_dados_online", "id": 3627174}, {"name": "Computação_distribuída", "id": 96074}, {"name": "Bancos_de_dados", "id": 48840}, {"name": "Arquitetura_de_computadores", "id": 64279}], "successors": []}
+{"name": "Blockchain", "id": 6268078, "predecessors": [{"name": "Bancos_de_dados_online", "id": 3627174}, {"name": "Computação_distribuída", "id": 96074}, {"name": "Bancos_de_dados", "id": 48840}, {"name": "Tipos_de_computadores", "id": 3722472}], "successors": []}

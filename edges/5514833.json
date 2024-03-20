@@ -1,1 +1,1 @@
-{"name": "Computação_vestível", "id": 5514833, "predecessors": [{"name": "Computação", "id": 2631675}, {"name": "Arquitetura_de_computadores", "id": 64279}], "successors": [{"name": "Óculos_VR_independentes", "id": 7059673}]}
+{"name": "Computação_vestível", "id": 5514833, "predecessors": [{"name": "Computação", "id": 2631675}, {"name": "Tipos_de_computadores", "id": 3722472}], "successors": [{"name": "Óculos_VR_independentes", "id": 7059673}]}
