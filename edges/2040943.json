@@ -1,1 +1,1 @@
-{"name": "Tratados_de_paz", "id": 2040943, "predecessors": [{"name": "Consequências_de_guerra", "id": 4587279}, {"name": "Paz", "id": 1130088}, {"name": "Ciências_aplicadas", "id": 15791}, {"name": "Tratados", "id": 15860}], "successors": []}
+{"name": "Tratados_de_paz", "id": 2040943, "predecessors": [{"name": "Consequências_de_guerra", "id": 4587279}, {"name": "Paz", "id": 1130088}, {"name": "Ciências_aplicadas", "id": 15791}, {"name": "Tratados", "id": 15860}], "successors": [{"name": "Tratados_de_paz_da_Espanha", "id": 7325008}]}

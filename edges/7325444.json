@@ -1,0 +1,1 @@
+{"name": "Topologia", "id": 7325444, "predecessors": [{"name": "Matemática", "id": 14939}, {"name": "!Manutenção", "id": 2800719}], "successors": [{"name": "Topologia_algébrica", "id": 470858}, {"name": "Topologia_diferencial", "id": 470861}, {"name": "Análise_funcional", "id": 368679}]}
