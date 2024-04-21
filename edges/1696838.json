@@ -1,1 +1,1 @@
-{"name": "Romances_do_Brasil", "id": 1696838, "predecessors": [{"name": "Livros_do_Brasil", "id": 265429}, {"name": "Geografia_política", "id": 473490}], "successors": [{"name": "Romances_de_Jorge_Amado", "id": 7276381}]}
+{"name": "Romances_do_Brasil", "id": 1696838, "predecessors": [{"name": "Livros_do_Brasil", "id": 265429}, {"name": "Romances", "id": 95122}], "successors": [{"name": "Romances_de_Jorge_Amado", "id": 7276381}]}

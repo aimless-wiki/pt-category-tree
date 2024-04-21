@@ -1,1 +1,1 @@
-{"name": "Jogos_para_Nintendo_Entertainment_System", "id": 4242725, "predecessors": [{"name": "Jogos_eletrônicos", "id": 157414}, {"name": "Nintendo", "id": 52655}], "successors": [{"name": "Jogos_exclusivos_para_Nintendo_Entertainment_System", "id": 2692551}]}
+{"name": "Jogos_para_Nintendo_Entertainment_System", "id": 4242725, "predecessors": [{"name": "Jogos_eletrônicos", "id": 157414}, {"name": "Nintendo", "id": 52655}, {"name": "Consolas_de_jogos", "id": 64228}], "successors": [{"name": "Jogos_exclusivos_para_Nintendo_Entertainment_System", "id": 2692551}]}

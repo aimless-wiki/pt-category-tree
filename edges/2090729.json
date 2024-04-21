@@ -1,1 +1,1 @@
-{"name": "Romances_de_Portugal", "id": 2090729, "predecessors": [{"name": "Livros_de_Portugal", "id": 265407}, {"name": "Geografia_política", "id": 473490}], "successors": [{"name": "Romancistas_de_Portugal", "id": 1946782}]}
+{"name": "Romances_de_Portugal", "id": 2090729, "predecessors": [{"name": "Livros_de_Portugal", "id": 265407}, {"name": "Romances", "id": 95122}], "successors": [{"name": "Romancistas_de_Portugal", "id": 1946782}]}
