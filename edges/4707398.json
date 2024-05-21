@@ -1,1 +1,1 @@
-{"name": "Processamento_de_linguagem_natural", "id": 4707398, "predecessors": [{"name": "Aplicações_de_inteligência_artificial", "id": 6685603}, {"name": "Linguística_computacional", "id": 2426694}, {"name": "Computação", "id": 2631675}], "successors": []}
+{"name": "Processamento_de_linguagem_natural", "id": 4707398, "predecessors": [{"name": "Linguística_computacional", "id": 2426694}, {"name": "Computação", "id": 2631675}, {"name": "Inteligência_artificial", "id": 344046}], "successors": []}
