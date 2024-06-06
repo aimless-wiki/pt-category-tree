@@ -1,1 +1,1 @@
-{"name": "!Predefinições_sobre_empresas_aéreas_por_país", "id": 7356352, "predecessors": [{"name": "!Predefinições_sobre_países", "id": 212429}, {"name": "!Predefinições_sobre_economia", "id": 805408}], "successors": []}
+{"name": "!Predefinições_sobre_empresas_aéreas_por_país", "id": 7356352, "predecessors": [{"name": "!Predefinições_sobre_economia_por_país", "id": 6799604}, {"name": "!Predefinições_sobre_transportes", "id": 1323737}, {"name": "!Predefinições_sobre_economia", "id": 805408}], "successors": []}

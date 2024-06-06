@@ -1,1 +1,1 @@
-{"name": "Cetáceos", "id": 54194, "predecessors": [{"name": "Mamíferos", "id": 19989}], "successors": [{"name": "Delphinidae", "id": 1330325}, {"name": "Zifiídeos", "id": 1714655}]}
+{"name": "Cetáceos", "id": 54194, "predecessors": [{"name": "Mamíferos", "id": 19989}], "successors": [{"name": "Misticetos", "id": 1156724}, {"name": "Delphinidae", "id": 1330325}, {"name": "Zifiídeos", "id": 1714655}]}

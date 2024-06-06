@@ -1,1 +1,1 @@
-{"name": "Empresas_no_Euronext_100", "id": 2831223, "predecessors": [{"name": "Mercado_de_capitais", "id": 40633}, {"name": "Empresas_por_tipo", "id": 2663875}], "successors": []}
+{"name": "Empresas_no_Euronext_100", "id": 2831223, "predecessors": [{"name": "Euronext", "id": 1402899}, {"name": "Empresas_por_tipo", "id": 2663875}], "successors": []}
