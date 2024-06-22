@@ -1,1 +1,1 @@
-{"name": "Processadores_de_texto", "id": 114256, "predecessors": [{"name": "Software_aplicativo", "id": 1058442}, {"name": "Desenvolvimento_de_software", "id": 904921}, {"name": "Software_comercial", "id": 3163940}], "successors": []}
+{"name": "Processadores_de_texto", "id": 114256, "predecessors": [{"name": "Editores_de_texto", "id": 822331}, {"name": "Software_aplicativo", "id": 1058442}, {"name": "Software_comercial", "id": 3163940}], "successors": []}

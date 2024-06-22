@@ -1,1 +1,1 @@
-{"name": "Representação_do_conhecimento", "id": 283845, "predecessors": [{"name": "Biblioteconomia_e_ciência_da_informação", "id": 2419086}, {"name": "Ontologia", "id": 121722}, {"name": "Conhecimento", "id": 1403244}], "successors": [{"name": "Web_semântica", "id": 2447360}]}
+{"name": "Representação_do_conhecimento", "id": 283845, "predecessors": [{"name": "Biblioteconomia_e_ciência_da_informação", "id": 2419086}, {"name": "Ontologia", "id": 121722}, {"name": "Ciência_da_informação", "id": 2419084}], "successors": [{"name": "Web_semântica", "id": 2447360}]}

@@ -1,1 +1,1 @@
-{"name": "Erros_de_computador", "id": 2590763, "predecessors": [{"name": "Computação", "id": 2631675}, {"name": "Tecnologia", "id": 15228}, {"name": "Comunicação_de_falsidades", "id": 3108454}], "successors": []}
+{"name": "Erros_de_computador", "id": 2590763, "predecessors": [{"name": "Computação", "id": 2631675}, {"name": "Erro", "id": 3108451}, {"name": "Tecnologia", "id": 15228}], "successors": []}

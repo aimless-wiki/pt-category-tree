@@ -1,1 +1,1 @@
-{"name": "Informática", "id": 15029, "predecessors": [{"name": "Ciência", "id": 40676}, {"name": "Ciências_aplicadas", "id": 15791}], "successors": [{"name": "História_da_informática", "id": 15776}, {"name": "Terminologia_informática", "id": 51109}]}
+{"name": "Informática", "id": 15029, "predecessors": [{"name": "Ciência_da_informação", "id": 2419084}, {"name": "Ciência", "id": 40676}], "successors": [{"name": "História_da_informática", "id": 15776}, {"name": "Terminologia_informática", "id": 51109}]}

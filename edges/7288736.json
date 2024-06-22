@@ -1,1 +1,1 @@
-{"name": "JAM_Project", "id": 7288736, "predecessors": [{"name": "Músicos_de_animes", "id": 3615696}], "successors": []}
+{"name": "JAM_Project", "id": 7288736, "predecessors": [{"name": "Grupos_musicais", "id": 77932}], "successors": [{"name": "Álbuns_de_JAM_Project", "id": 7339171}]}

@@ -1,1 +1,1 @@
-{"name": "Transtornos_psíquicos", "id": 2036147, "predecessors": [{"name": "Psicopatologias", "id": 51467}], "successors": [{"name": "Transtorno_bipolar", "id": 2821190}, {"name": "Depressão", "id": 5062361}]}
+{"name": "Transtornos_psíquicos", "id": 2036147, "predecessors": [{"name": "Transtornos_mentais_e_comportamentais", "id": 2821193}, {"name": "!Manutenção", "id": 2800719}], "successors": [{"name": "Transtorno_bipolar", "id": 2821190}, {"name": "Depressão", "id": 5062361}]}

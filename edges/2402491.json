@@ -1,1 +1,1 @@
-{"name": "Nobel_de_Literatura", "id": 2402491, "predecessors": [{"name": "Prémios_de_literatura", "id": 2659525}, {"name": "Eventos", "id": 61537}, {"name": "Comportamento_humano", "id": 983221}], "successors": []}
+{"name": "Nobel_de_Literatura", "id": 2402491, "predecessors": [{"name": "Prémio_Nobel", "id": 14961}, {"name": "Prémios_de_literatura", "id": 2659525}, {"name": "Eventos", "id": 61537}], "successors": []}

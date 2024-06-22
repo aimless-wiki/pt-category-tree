@@ -1,1 +1,1 @@
-{"name": "Wikipédia", "id": 24524, "predecessors": [{"name": "Wikis", "id": 912716}, {"name": "Colaboração_online", "id": 4549375}, {"name": "Conteúdo_aberto", "id": 2936549}], "successors": [{"name": "Versões_da_Wikipédia", "id": 1506241}, {"name": "História_da_Wikipédia", "id": 1532355}, {"name": "Pessoas_da_Wikipédia", "id": 5951050}]}
+{"name": "Wikipédia", "id": 24524, "predecessors": [{"name": "Colaboração_online", "id": 4549375}, {"name": "Conteúdo_aberto", "id": 2936549}], "successors": [{"name": "Wikipédias_por_idioma", "id": 1506241}]}
