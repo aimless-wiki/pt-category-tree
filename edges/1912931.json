@@ -1,1 +1,1 @@
-{"name": "Músicos_de_funk", "id": 1912931, "predecessors": [{"name": "Géneros_de_blues", "id": 2493033}, {"name": "Artes_cénicas", "id": 15293}], "successors": [{"name": "Cantores_de_funk", "id": 4741988}]}
+{"name": "Músicos_de_funk", "id": 1912931, "predecessors": [{"name": "Géneros_de_blues", "id": 2493033}, {"name": "Música", "id": 15075}], "successors": [{"name": "Cantores_de_funk", "id": 4741988}]}

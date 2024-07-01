@@ -1,1 +1,1 @@
-{"name": "Motores_a_explosão", "id": 4316739, "predecessors": [{"name": "Motor_de_combustão_interna", "id": 3243499}], "successors": []}
+{"name": "Motores_a_explosão", "id": 4316739, "predecessors": [{"name": "Motor_de_combustão_interna", "id": 3243499}], "successors": [{"name": "Motores_a_pistão_de_aeronaves", "id": 5472439}]}

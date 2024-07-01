@@ -1,1 +1,1 @@
-{"name": "Satélites_militares", "id": 3635771, "predecessors": [{"name": "Satélites", "id": 78305}, {"name": "Equipamentos", "id": 493814}], "successors": []}
+{"name": "Satélites_militares", "id": 3635771, "predecessors": [{"name": "Equipamentos", "id": 493814}, {"name": "Satélites", "id": 78305}], "successors": []}

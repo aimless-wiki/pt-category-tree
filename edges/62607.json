@@ -1,1 +1,1 @@
-{"name": "Ferramentas", "id": 62607, "predecessors": [{"name": "Equipamentos", "id": 493814}, {"name": "Disciplinas_de_engenharia", "id": 2797454}], "successors": [{"name": "Fabricantes_de_instrumentos_científicos", "id": 3281360}, {"name": "Software_de_matemática", "id": 320936}]}
+{"name": "Ferramentas", "id": 62607, "predecessors": [{"name": "Equipamentos", "id": 493814}], "successors": [{"name": "Fabricantes_de_instrumentos_científicos", "id": 3281360}, {"name": "Software_de_matemática", "id": 320936}]}

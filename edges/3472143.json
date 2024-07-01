@@ -1,1 +1,1 @@
-{"name": "SETI", "id": 3472143, "predecessors": [{"name": "Astrobiologia", "id": 1116888}, {"name": "Vida_extraterrestre", "id": 6156759}, {"name": "Astronomia", "id": 14983}], "successors": [{"name": "Mensagens_interestelares", "id": 4017620}]}
+{"name": "SETI", "id": 3472143, "predecessors": [{"name": "Astrobiologia", "id": 1116888}, {"name": "Vida_extraterrestre", "id": 6156759}, {"name": "Rádio", "id": 115619}], "successors": [{"name": "Mensagens_interestelares", "id": 4017620}]}

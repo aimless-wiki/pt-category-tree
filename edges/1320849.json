@@ -1,1 +1,1 @@
-{"name": "Correios", "id": 1320849, "predecessors": [{"name": "Administração_pública", "id": 127933}, {"name": "Coleções", "id": 3158888}], "successors": [{"name": "Estações_do_Pony_Express", "id": 6993274}]}
+{"name": "Correios", "id": 1320849, "predecessors": [{"name": "Telecomunicações", "id": 62871}, {"name": "Administração_pública", "id": 127933}, {"name": "Coleções", "id": 3158888}], "successors": [{"name": "Estações_do_Pony_Express", "id": 6993274}]}

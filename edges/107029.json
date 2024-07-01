@@ -1,1 +1,1 @@
-{"name": "Notação_musical", "id": 107029, "predecessors": [{"name": "Comunicação", "id": 16948}, {"name": "Artes_cénicas", "id": 15293}], "successors": [{"name": "Ritmo", "id": 1847914}, {"name": "Notas_musicais", "id": 2430094}]}
+{"name": "Notação_musical", "id": 107029, "predecessors": [{"name": "Comunicação", "id": 16948}, {"name": "Música", "id": 15075}], "successors": [{"name": "Ritmo", "id": 1847914}, {"name": "Notas_musicais", "id": 2430094}]}
