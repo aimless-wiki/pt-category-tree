@@ -1,1 +1,1 @@
-{"name": "Clima_por_país", "id": 1699117, "predecessors": [{"name": "Clima", "id": 37402}, {"name": "Geografia_por_país", "id": 23629}], "successors": [{"name": "Enchentes_no_Brasil", "id": 2047029}]}
+{"name": "Clima_por_país", "id": 1699117, "predecessors": [{"name": "Clima", "id": 37402}, {"name": "Geografia_por_país", "id": 23629}], "successors": [{"name": "Enchentes_no_Brasil", "id": 2047029}, {"name": "Aquecimento_global_no_Brasil", "id": 5504663}]}

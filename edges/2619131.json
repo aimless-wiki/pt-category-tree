@@ -1,1 +1,1 @@
-{"name": "Relacionamentos_íntimos", "id": 2619131, "predecessors": [{"name": "Relacionamentos_interpessoais", "id": 1751819}, {"name": "Sexualidade_humana", "id": 158835}, {"name": "Amor", "id": 1283142}], "successors": [{"name": "Atração_sexual", "id": 5621185}]}
+{"name": "Relacionamentos_íntimos", "id": 2619131, "predecessors": [{"name": "Relacionamentos_interpessoais", "id": 1751819}, {"name": "Sexualidade_humana", "id": 158835}, {"name": "Amor", "id": 1283142}], "successors": [{"name": "Atração_sexual", "id": 5621185}, {"name": "Atração_interpessoal", "id": 6590496}]}

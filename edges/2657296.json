@@ -1,1 +1,1 @@
-{"name": "Sócrates", "id": 2657296, "predecessors": [{"name": "Filósofos_da_Grécia_Antiga", "id": 607284}, {"name": "Gregos_do_século_IV_a.C.", "id": 4139111}, {"name": "Gregos_do_século_V_a.C.", "id": 4139114}, {"name": "Filosofia", "id": 14277}], "successors": [{"name": "Diálogos_socráticos", "id": 2657293}]}
+{"name": "Sócrates", "id": 2657296, "predecessors": [{"name": "Sociedade", "id": 37522}, {"name": "Filosofia", "id": 14277}], "successors": [{"name": "Diálogos_socráticos", "id": 2657293}]}

@@ -1,1 +1,1 @@
-{"name": "Sintomas", "id": 49482, "predecessors": [{"name": "Medicina", "id": 15055}], "successors": [{"name": "Dor", "id": 493309}, {"name": "Inflamações", "id": 493397}]}
+{"name": "Sintomas", "id": 49482, "predecessors": [{"name": "Diagnóstico_em_medicina", "id": 3832254}], "successors": [{"name": "Dor", "id": 493309}, {"name": "Inflamações", "id": 493397}]}

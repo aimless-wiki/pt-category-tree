@@ -159,6 +159,7 @@
 16859 Música_eletrônica
 16862 História_do_Brasil
 16863 Organizações
+16866 Cartunistas
 16876 Biologia_molecular
 16941 Segunda_Guerra_Mundial
 16945 Mídia
@@ -172,7 +173,6 @@
 17685 Sistemas_de_informação
 17848 Século_I_a.C.
 17852 Anos_do_século_I_a.C.
-17973 Partidos_políticos
 18203 Século_XVII
 18210 Monarcas_da_Espanha
 18540 Distribuições_Linux
@@ -209,6 +209,7 @@
 20079 União_Soviética
 20456 Municípios_do_Maranhão
 20503 Irlanda
+20506 Santos
 21116 Família_real_portuguesa
 21153 Família_real_britânica
 21177 Piratas
@@ -813,6 +814,7 @@
 60138 Bandas_da_França
 60139 Música_da_França
 60141 Bandas_da_Itália
+60143 Música_da_Itália
 60144 Bandas_da_Suécia
 60189 Homem-Aranha
 60360 Escritores_do_Reino_Unido
@@ -947,7 +949,6 @@
 63979 Metrologia
 64109 Povos_germânicos
 64123 Partidos_políticos_da_França
-64137 Concílios_ecuménicos
 64146 Rituais_religiosos
 64159 Star_Wars
 64185 !Resultados_de_votações
@@ -1486,6 +1487,7 @@
 96156 Filmes_do_Reino_Unido
 96189 História_do_cinema
 96289 Pessoas_da_Segunda_Guerra_Mundial_(Alemanha)
+96301 Literatura_da_China
 96312 Literatura_da_Alemanha
 96318 Literatura_da_Suécia
 96327 Teoria_da_história
@@ -1824,7 +1826,6 @@
 114365 Castelos_da_Itália
 114514 Futebolistas_da_Polônia
 114586 Políticos_da_Dinamarca
-114648 Usuário_gl
 114652 Usuário_gl-1
 114677 Freguesias_de_Cabo_Verde
 114774 Empresários_da_Alemanha
@@ -1876,6 +1877,7 @@
 116341 História_da_aviação
 116354 Sociólogos_de_Portugal
 116355 Pilotos_de_automóvel_de_Portugal
+116361 Físicos_de_Portugal
 116495 Poetas_do_México
 116496 Publicidade
 116502 Misticismo
@@ -2476,6 +2478,7 @@
 158930 Organizações_ambientais
 159030 Monstros
 159055 Condestáveis_de_Portugal
+159112 Filósofos_da_Suíça
 159553 Músicos_dos_Países_Baixos
 159865 Municípios_de_Castelló_(província)
 159927 Solares_de_Portugal
@@ -2686,6 +2689,7 @@
 182484 Linguistas_da_França
 182485 Linguistas_do_Reino_Unido
 182494 Psicólogos_da_Alemanha
+182501 Psicólogos_de_Portugal
 182504 Maestros_da_Itália
 182519 Músicos_do_Japão
 182709 Viticultura
@@ -2908,7 +2912,6 @@
 209808 Compositores_da_Suécia
 210167 Presidentes_da_Jugoslávia
 210345 Críticos_literários_da_Espanha
-210362 Usuário_tr
 210398 Escritores_da_Bélgica
 210478 Universidades_da_Espanha
 210492 Microeletrônica
@@ -3716,7 +3719,6 @@
 309364 Livros_de_1980
 309366 Livros_de_1963
 309383 Livros_de_1930
-309394 Minérios
 309485 Livros_de_1912
 309520 Livros_de_1944
 309522 Livros_de_1927
@@ -3906,6 +3908,7 @@
 330402 Bispos_católicos_da_Espanha
 330405 Livros_de_economia
 330716 Políticos_do_Paquistão
+330725 Política_dos_Países_Baixos
 331023 Dinastia_ptolemaica
 331046 Islão
 331210 Judeus_da_Rússia
@@ -4147,6 +4150,7 @@
 369234 Personagens_da_DC_Comics
 369235 Personagens_da_Marvel_Comics
 369850 Futebolistas_do_Japão
+369888 Federal_Bureau_of_Investigation
 370567 Clubes_de_futebol_da_Nova_Zelândia
 370576 Genómica
 370583 Gerontologia
@@ -4623,6 +4627,7 @@
 448380 Youkai
 448471 !Usuários_fãs_de_séries_de_televisão
 448765 Cantores_da_Inglaterra
+448963 Programas_de_televisão_do_Brasil
 449235 Prefeitos_de_Curitiba
 449606 Antigos_municípios_do_Brasil
 450884 Reprodutores_de_mídia
@@ -4791,6 +4796,7 @@
 487273 Listas_de_municípios_do_Brasil_por_população
 487318 Comendadores_da_Ordem_Militar_de_Cristo
 487812 Mafiosos
+487897 Economistas_da_Polônia
 487943 Criminosos_da_Itália
 487947 Oficiais_da_Ordem_Militar_de_Cristo
 487948 Cavaleiros_da_Ordem_Militar_de_Cristo
@@ -5136,6 +5142,7 @@
 563730 Comunas_da_Alta_Córsega
 564090 Sistemas_de_cores
 564217 Torres_da_China
+564229 Mitologia_persa
 565050 !Usuários_que_gostam_de_jogar_xadrez
 565052 !Wikipedistas_blogueiros
 565062 Aeroportos_de_Angola
@@ -5404,6 +5411,7 @@
 621053 Bancos_da_Alemanha
 622065 Estrutura_da_Terra
 622076 Processos_geológicos
+622131 Bandas_de_Belo_Horizonte
 622215 Tributos_do_Brasil
 622788 Glaciologia
 622821 !Wikipedistas_com_Windows_Live_Messenger
@@ -5453,7 +5461,6 @@
 636242 Distritos_do_Zimbabwe
 636268 Sobremesas
 636463 Carroçarias
-636642 !Wikipedistas_do_Pará
 636734 Diretores_de_teatro_do_Brasil
 637572 Comunas_de_Marne_(departamento)
 637599 !Wikipedistas_da_Europa
@@ -5463,7 +5470,6 @@
 637957 !Userboxes_por_localização/Brasil/Estados
 638047 !Wikipedistas_em_Pernambuco
 638059 !Userboxes_por_localização/Brasil/Cidades
-638071 !Wikipedistas_em_Belo_Horizonte
 638196 Haia
 638492 Bandeiras_de_São_Paulo_(estado)
 638513 Companhias_de_teatro_do_Brasil
@@ -5524,7 +5530,6 @@
 644586 Constelação_de_Cancer
 644652 Galáxias_espirais_barradas
 644678 !Wikipedistas_categorizadores
-644682 !Wikipedistas_que_editam_interwikis
 644686 !Wikipedistas_que_consertam_links_vermelhos
 644692 !Wikipedistas_que_utilizam_predefinições
 644727 !Wikipedistas_que_gostam_de_combater_vandalismo
@@ -5558,7 +5563,6 @@
 646835 Casa_de_Habsburgo
 646842 Nobres_da_Áustria
 646847 Nobres_da_Alemanha
-646942 !Userboxes_sobre_discussão
 647014 Departamentos_do_Senegal
 647049 Casa_de_Habsburgo-Lorena
 647084 Nobres_da_Hungria
@@ -5568,7 +5572,6 @@
 647195 !Wikipedistas_que_gostam_de_contribuir_sobre_Aviação
 647200 !Wikipedistas_que_gostam_de_contribuir_sobre_Biografias
 647202 !Wikipedistas_que_gostam_de_contribuir_sobre_Biologia
-647203 !Wikipedistas_que_gostam_de_contribuir_sobre_engenharia
 647205 !Wikipedistas_que_gostam_de_contribuir_sobre_Filosofia
 647207 !Wikipedistas_que_gostam_de_contribuir_sobre_Geografia
 647208 !Wikipedistas_que_gostam_de_contribuir_sobre_História
@@ -5602,6 +5605,7 @@
 650494 !Wikipedistas_que_torcem_pelo_Palmeiras
 650495 !Wikipedistas_que_torcem_pelo_Flamengo
 650496 !Wikipedistas_que_torcem_pelo_Corinthians
+650500 !Wikipedistas_que_torcem_pelo_Grêmio
 650863 !Wikipedistas_casados
 650905 !Wikipedistas_que_adoram_praia
 650945 !Userboxes_sobre_sistemas_econômicos,_partidos_e_causas_políticas
@@ -5609,7 +5613,6 @@
 651073 !Wikipedistas_comunistas
 651145 !Wikipedistas_que_não_gostam_de_licenças_copyleft_que_restringem_uso
 651160 !Userboxes_sobre_informática
-651179 !Wikipedistas_considerados_Geek
 651182 !Wikipedistas_que_gostam_de_usar_o_Google_Earth
 651223 !Wikipedistas_doadores_de_sangue
 651225 !Wikipedistas_que_ajudam_ao_próximo
@@ -5689,7 +5692,6 @@
 663051 Rios_do_Paraná
 663078 !Userboxes_sobre_música
 663106 !Wikipedistas_que_apreciam_música_erudita
-663107 !Wikipedistas_fãs_de_Nirvana
 663115 !Userboxes_sobre_hobbies_e_gostos_diversos
 663135 !Wikipedistas_que_adoram_astronomia
 663176 !Wikipedistas_que_atuam_de_todas_as_formas_na_Wikipédia
@@ -5855,7 +5857,6 @@
 797045 História_do_Oriente_Médio
 797051 História_da_Palestina
 797226 Personagens_de_X-Men
-797389 Atores_pornográficos_da_Ásia
 797391 Unidades_de_massa
 797437 Cienídeos
 797474 Unidades_de_área
@@ -6039,7 +6040,6 @@
 840565 Dentes
 840964 Listas_do_Rio_Grande_do_Sul
 840988 Listas_do_estado_de_São_Paulo
-841000 Listas_de_Santa_Catarina
 841002 Listas_de_Minas_Gerais
 841007 Listas_do_Paraná
 841020 Listas_de_geografia_do_Brasil
@@ -6047,7 +6047,6 @@
 841220 Códigos_ATC
 841233 Memória
 841291 Campeonato_Norueguês_de_Futebol
-841320 Listas_de_Pernambuco
 841567 Parasitas
 841624 Listas_de_Angola
 842361 Exames_de_sangue
@@ -6275,7 +6274,6 @@
 880931 Atores_de_Taiwan
 880972 Singles_de_2007
 881443 Artes_marciais_do_Japão
-881827 Campeonato_Pernambucano_de_Futebol
 881917 Soquetes
 882251 Religiosos_da_Ordem_dos_Dominicanos
 882253 Ordem_dos_Dominicanos
@@ -6544,6 +6542,7 @@
 975937 Atores_pornográficos_do_Reino_Unido
 975952 Atores_pornográficos_da_Alemanha
 975997 Atores_pornográficos_da_França
+976032 Socialites
 976136 Eleições_no_Reino_Unido
 976408 Políticos_do_Chade
 976411 Humoristas_do_Canadá
@@ -7171,6 +7170,7 @@
 1136171 Marquesas_do_Reino_Unido
 1136181 Viscondessas_do_Reino_Unido
 1136215 Baronesas_do_Reino_Unido
+1136219 Jornais_do_Rio_Grande_do_Sul
 1136437 Publicações_da_Marvel_Comics
 1136450 Festivais_de_música_do_Brasil
 1136662 Futebolistas_da_Venezuela
@@ -7385,6 +7385,7 @@
 1169136 Redes_de_rádio_do_Brasil
 1169782 Futebolistas_da_Jamaica
 1169916 Inflação
+1172812 Integralismo_Lusitano
 1172958 Artiodáctilos_pré-históricos
 1172979 Primatas_pré-históricos
 1176531 Canções_gravadas_por_Jay-Z
@@ -7506,7 +7507,6 @@
 1258195 !Predefinições_sobre_televisão_em_São_Paulo
 1259830 !Predefinições_sobre_televisão_em_Minas_Gerais
 1267444 Palácios_de_Londres
-1268641 !Wikipedistas_que_não_gostam_de_futebol
 1268668 Jardins_de_Portugal
 1269266 Canções_gravadas_por_will.i.am
 1269280 Revolucionários_de_Portugal
@@ -7701,7 +7701,6 @@
 1299227 Associações_medicamentosas
 1299292 Myobatrachidae
 1299354 Desportistas_do_Grande_Porto
-1299525 Escritores_de_livros_de_fantasia
 1299772 Lacertidae
 1299806 Engenharia_industrial
 1299859 Institutos_do_Brasil
@@ -7832,6 +7831,7 @@
 1328611 Línguas_maias
 1328849 !Wikipedistas_futebolistas
 1329096 Instituições_de_ensino_superior_de_Portugal
+1329237 !Wikipedistas_basquetebolistas
 1329361 Phalangeridae
 1329503 Pintores_do_Uruguai
 1329510 Tempestades_subtropicais
@@ -8278,6 +8278,7 @@
 1420722 Desenhos_animados_da_década_de_1980
 1420843 Beisebol_nos_Jogos_Pan-Americanos
 1421267 História_do_Brasil_por_tema
+1421619 Jogailos
 1422328 James_Bond
 1422355 Atrações_turísticas_da_Califórnia
 1423028 Singles_de_1973
@@ -8288,6 +8289,7 @@
 1423778 Eurobasket
 1423808 Tártaros
 1424114 Aquecimento_global
+1424486 !Wikipedistas_WikiFada
 1424513 Anfíbios_da_Austrália
 1424822 Freguesias_de_Mirandela
 1425316 Fauna_da_América_do_Sul
@@ -8317,6 +8319,7 @@
 1428765 Terror
 1428829 Ácidos_dicarboxílicos
 1428835 Ácidos_carboxílicos
+1429019 Jogos_eletrônicos_eróticos
 1429341 Bases_antárticas
 1429859 México_colonial
 1430054 Clubes_de_futebol_da_Bósnia_e_Herzegovina
@@ -9758,6 +9761,7 @@
 1783885 !Predefinições_sobre_divisões_administrativas
 1783911 Antifúngicos
 1783936 !Predefinições_de_linhas_de_tempo
+1783959 !Predefinições_sobre_províncias
 1784068 Clubes_de_futebol_fundados_em_2008
 1784718 Canções_produzidas_por_will.i.am
 1784754 Canções_produzidas_por_Danja
@@ -9834,7 +9838,6 @@
 1825247 Comunas_do_Território_de_Belfort
 1825250 Comunas_de_Bocas_do_Ródano
 1825389 Diáspora_africana
-1825571 Usuários_sk
 1825575 Telefones_celulares_da_Motorola
 1825585 Usuários_uk
 1826589 Pintores_do_gótico
@@ -9936,7 +9939,6 @@
 1845575 Reservas_biológicas_do_Brasil
 1846275 Documentos_do_Brasil
 1846694 Ganhadores_do_Prêmio_Eisner
-1846696 Listas_do_Piauí
 1846755 !Predefinições_sobre_basquetebol
 1846762 !Predefinições_sobre_tênis
 1846767 Escultura_da_Roma_Antiga
@@ -10147,7 +10149,6 @@
 1869980 Condes_de_Anjou
 1870110 Império_Alemão
 1870184 !Artigos_de_importância_desconhecida_sobre_África
-1870189 !Predefinições_sobre_Eurovisão
 1870214 Duques_da_Baviera
 1870228 Termos_budistas
 1870239 Línguas_da_Itália
@@ -10169,7 +10170,6 @@
 1871158 Pessoas_da_Guerra_Civil_Espanhola
 1871160 Guerra_Civil_Espanhola
 1871290 !Wikipedistas_que_odeiam_o_IE
-1871291 !Wikipedistas_que_são_imparciais_na_wikipedia
 1871426 Nozes_e_sementes_oleaginosas
 1871752 Grandes_escolas_da_França
 1871814 !Wikipedistas_inclusionistas
@@ -10353,7 +10353,6 @@
 1916436 Teorias_científicas_obsoletas
 1916685 Desambiguações_de_santos
 1917363 Polícia_Militar_do_Estado_do_Paraná
-1918067 !Usuários_candomblecistas
 1918699 Cardeais_nomeados_pelo_papa_Clemente_VII
 1918711 Arcebispos_de_Santiago_de_Compostela
 1918766 Guerras_atuais
@@ -10576,8 +10575,6 @@
 1950518 Políticos_da_Catalunha
 1950697 Álbuns_de_dance_music
 1950706 House_music
-1950986 Listas_de_Goiás
-1951372 Listas_do_Pará
 1951397 Distritos_da_Paraíba
 1951404 Listas_da_Paraíba
 1952171 Bandas_de_death_metal_melódico
@@ -11411,6 +11408,7 @@
 2095255 Convertidos_ao_judaísmo
 2095315 Missões_diplomáticas_do_Brasil
 2095318 Missões_diplomáticas_por_país_de_origem
+2096258 Relações_exteriores_do_Reino_Unido
 2096405 Heróis_nacionais_do_Brasil
 2096544 Conflito_israelo-árabe
 2096638 Filmes_baseados_em_peças_de_teatro
@@ -12419,7 +12417,6 @@
 2258800 !Infocaixas_sobre_transportes
 2258804 !Infocaixas_sobre_música
 2258805 !Infocaixas_sobre_esportes
-2258809 !Infocaixas_sobre_política
 2258825 !Infocaixas_sobre_astronomia
 2258829 !Infocaixas_sobre_províncias
 2259114 Álbuns_de_blues
@@ -12938,7 +12935,6 @@
 2342024 Álbuns_de_Elba_Ramalho
 2342035 Nadadores_olímpicos_da_Itália
 2342092 Bandas_de_protopunk
-2342619 Príncipes_da_Casa_de_Saxe-Coburgo-Gota
 2342624 Princesas_de_Saxe-Coburgo-Gota
 2342716 Fallout
 2342961 Atrizes_premiadas_com_o_MTV_Movie_Award
@@ -13121,7 +13117,6 @@
 2371645 Linha_do_Oeste
 2372262 Turnês_musicais_de_2006
 2372390 Futebol_de_2005_no_Brasil
-2372391 Futebol_de_2004_no_Brasil
 2372392 Futebol_de_2002_no_Brasil
 2372946 Futebolistas_do_Tupi_Football_Club
 2372967 Campeonato_Brasileiro_de_Futebol_-_Série_D
@@ -13176,6 +13171,7 @@
 2379853 Séries_originais_do_Cartoon_Network
 2380432 Futebolistas_do_D.C._United
 2380465 Química_quântica
+2380547 Futebolistas_do_Clube_15_de_Novembro
 2380598 Álbuns_de_Zezé_Di_Camargo_&_Luciano
 2381176 Futebolistas_do_Clube_Desportivo_Nacional
 2381590 Romancistas_da_Itália
@@ -13736,6 +13732,7 @@
 2473939 Professores_da_Universidade_de_Birmingham
 2474155 Atóis_do_Kiribati
 2474245 Casa_de_Flandres
+2474251 !Predefinições_de_seleções_nacionais_de_futebol_de_areia
 2474300 Ministros_da_Educação_do_Brasil
 2474301 Ministros_da_Ciência_e_Tecnologia_do_Brasil
 2474303 Ministros_da_Previdência_Social_do_Brasil
@@ -14460,6 +14457,7 @@
 2543878 Centro_(Rio_de_Janeiro)
 2543928 Forças_armadas_da_Rússia
 2543935 Forças_armadas_da_União_Soviética
+2544062 !Predefinições_sobre_a_Copa_do_Mundo_FIFA_de_2010
 2544510 Cineastas_premiados_no_Festival_de_Berlim
 2544811 Aviões_biplanos
 2544840 Posições_do_futebol_americano
@@ -14792,6 +14790,7 @@
 2614701 Cultura_afro-brasileira
 2614835 Línguas_das_Ilhas_Salomão
 2616222 Futebolistas_do_PFK_Levski_Sofia
+2616467 Professores_fictícios
 2616488 Historiadores_de_Minas_Gerais
 2616493 Historiadores_do_estado_de_São_Paulo
 2616497 Historiadores_de_Santa_Catarina
@@ -15076,9 +15075,9 @@
 2673889 !Wikipedistas_perfeccionistas
 2673922 !Wikipedistas_fãs_de_rock'n'roll
 2673944 !Wikipedistas_fãs_de_heavy_metal
-2673964 !Wikipedistas_adeptos_da_reciclagem
 2673967 !Wikipedistas_que_tomam_Coca-Cola
 2674057 Canções_de_1966
+2674061 !Wikipedistas_que_não_são_caras_de_pau
 2674081 !Wikipedistas_que_acreditam_que_quantidade_de_edições_não_é_necessariamente_qualidade
 2674083 !Wikipedistas_para_quem_a_Wikipédia_é_fonte_fiável
 2674159 !Wikipedistas_que_se_interessam_por_vexilologia_e_heráldica
@@ -15286,6 +15285,7 @@
 2710486 Antiepiléticos_e_anticonvulsivantes
 2710732 Arqueologia_da_Amazônia
 2711038 Futebolistas_do_Ypiranga_Futebol_Clube_(Erechim)
+2711039 Futebolistas_do_Canoas_Sport_Club
 2711124 RGE
 2711246 Alunos_da_Universidade_Federal_do_Ceará
 2711303 Anestésicos_gerais
@@ -15719,6 +15719,7 @@
 2791188 Eventos_esportivos_sediados_na_Bulgária
 2791204 Canções_gravadas_por_Luan_Santana
 2791878 Professores_da_Universidade_Johann_Wolfgang_Goethe_de_Frankfurt
+2792084 Museus_no_distrito_de_Faro
 2792088 Contistas_de_Portugal
 2792089 Museus_no_distrito_de_Beja
 2792361 Letristas_de_Portugal
@@ -15853,6 +15854,7 @@
 2807864 Tabela_periódica
 2808112 Bandas_formadas_em_2010
 2808240 Gravadoras_dos_Estados_Unidos
+2808260 Servidores_web
 2808267 Títulos_romanos
 2808289 Eleições_estaduais_no_Brasil_em_2010
 2808341 Linha_do_Minho
@@ -16868,7 +16870,6 @@
 2878605 !Esplanada/propostas_-_agosto_de_2010
 2878606 !Esplanada/propostas_-_setembro_de_2010
 2878607 !Esplanada/geral_-_agosto_de_2010
-2878637 !Ficheiros_de_uso_restrito_sem_artigo_de_destino
 2879353 Capas_de_singles_de_Mary_J._Blige
 2879578 Logotipos_de_Malhação
 2879610 Música_de_jogos_eletrônicos
@@ -17118,6 +17119,7 @@
 2902770 Conflitos_em_1866
 2902863 Eleições_nos_Açores
 2902981 Naturais_de_Lorena_(São_Paulo)
+2903347 Nomina_dubia
 2903777 Naturais_de_Jaboatão_dos_Guararapes
 2904197 Canções_de_1999
 2904240 Crónicas_medievais
@@ -18023,6 +18025,7 @@
 2961023 História_da_República_da_China
 2961457 Alchemilla
 2962774 Canções_de_1978
+2963346 Textos_cristãos_antigos
 2963384 Agrostis
 2963950 Naturais_de_Rijeka
 2964372 Basquetebolistas_da_Pensilvânia
@@ -18263,6 +18266,7 @@
 3025163 Capas_de_singles_de_Jay-Z
 3025190 Capas_de_singles_de_Justin_Timberlake
 3025203 Capas_de_singles_de_Bruno_Mars
+3025668 Controvérsias_religiosas_do_cristianismo
 3027068 Construções_de_São_Petersburgo
 3027123 !Imagens_em_destaque_de_Janeiro_de_2011
 3027566 Capas_de_singles_de_Wanessa_Camargo
@@ -18288,6 +18292,7 @@
 3035857 Profissões_do_mar
 3035870 Marinha_mercante
 3035943 Jornais_extintos_de_Portugal
+3035968 !Portal_Desporto
 3036271 Capas_de_singles_de_The_Offspring
 3037129 Futebolistas_do_Ferencvárosi_TC
 3037158 Futebolistas_do_Al-Ahli_Sports_Club
@@ -19827,6 +19832,7 @@
 3323476 !Portal_ABBA
 3323585 Jogos_eletrônicos_de_sobrevivência
 3324225 !Predefinições_sobre_bandeiras_de_estados_da_Colômbia
+3324277 Copa_FGF
 3324301 !Portal_Arizona
 3324739 Sepultados_no_cemitério_do_Caju
 3324791 Desambiguações_de_construções
@@ -19954,6 +19960,7 @@
 3339750 Futebolistas_do_Real_Salt_Lake
 3339753 Futebolistas_do_Club_Juan_Aurich
 3339774 Atrizes_premiadas_no_Festival_de_Veneza
+3339826 Mídia_digital
 3340774 Operações_da_CIA
 3340796 Naturais_de_Omaha_(Nebraska)
 3340849 !Predefinições_sobre_animais
@@ -20311,7 +20318,6 @@
 3421252 !Wikipedistas_católicos
 3421331 Manipuladores_de_Ki_na_ficção
 3421455 Cartazes_de_filmes_pornográficos
-3422276 !Portal_Música_do_Japão
 3422294 !Esplanada/geral/novembro_de_2011
 3422526 Canais_de_televisão_fundados_em_2011
 3423005 Periódicos_de_astronomia
@@ -20412,7 +20418,6 @@
 3433576 Cardeais_nomeados_pelo_papa_Clemente_XIII
 3433643 Desportistas_militares_do_Brasil
 3433753 Halo
-3434084 Campeonato_Estadual_do_Rio_de_Janeiro_Feminino_de_Basquete
 3434428 Naturais_da_Cidade_da_Guatemala
 3434592 !Artigos_de_importância_1_sobre_Beyoncé
 3434595 !Artigos_de_importância_2_sobre_Beyoncé
@@ -20662,6 +20667,7 @@
 3472228 Montanhas_dos_Alpes
 3472658 Cidades_do_oblast_de_Moscou
 3472867 Sony_Pictures_Entertainment
+3472985 Maori
 3473471 Telenovelas_de_Ivani_Ribeiro
 3473797 Capas_de_singles_de_Girls_Aloud
 3474030 !Esplanada/propostas/janeiro_de_2012
@@ -21118,7 +21124,6 @@
 3515108 Nascidos_em_1841
 3515110 Treinadores_do_Club_Sporting_Cristal
 3515113 Nascidos_em_1840
-3515164 Imigrantes_soviéticos_nos_Estados_Unidos
 3515201 Treinadores_do_Club_Atlético_River_Plate
 3515311 Nascidos_em_1839
 3515315 Nascidos_em_1837
@@ -21600,6 +21605,7 @@
 3562976 !Predefinições_sobre_Chefes_de_Estado_da_América_do_Sul
 3563002 Nascidos_em_1370
 3563017 Nascidos_em_1360
+3563046 Nascidos_em_2009
 3563054 Nascidos_em_2008
 3563059 Nascidos_em_2007
 3563064 Nascidos_em_2005
@@ -21763,10 +21769,10 @@
 3608133 !Predefinições_sobre_história_do_Brasil
 3608193 !Predefinições_sobre_educação_no_Brasil
 3608507 !Portal_Áustria-Hungria
-3608650 !Predefinições_sobre_tópicos_militares_do_Brasil
 3608828 !Predefinições_sobre_história_por_país
 3608837 !Predefinições_de_caixas_de_sucessão_histórica
 3608853 !Predefinições_sobre_história_da_Europa
+3608854 !Predefinições_sobre_história_da_Alemanha
 3609011 !Predefinições_sobre_BAFTA
 3609038 !Predefinições_sobre_eleições_na_Europa
 3609039 !Predefinições_sobre_eleições_na_Ásia
@@ -21930,6 +21936,7 @@
 3642387 Alunos_da_Universidade_de_Quiel
 3642588 Títulos_criados_por_Pedro_V_de_Portugal
 3643200 Ingleses_de_ascendência_italiana
+3643262 Generais_da_Força_Aérea_dos_Estados_Unidos
 3643263 Oficiais_da_Força_Aérea_dos_Estados_Unidos
 3643292 Alunos_do_The_College_of_William_&_Mary
 3643300 Mangás_de_1998
@@ -21995,6 +22002,7 @@
 3658048 !Predefinições_sobre_desporto_de_Portugal
 3658590 Filmes_de_Natal
 3658945 Livros_cristãos
+3659216 !Predefinições_sobre_campeões_olímpicos_de_vela
 3659520 Séries_de_televisão_ambientadas_em_Washington,_D.C.
 3659567 Programas_de_televisão_do_Brasil_encerrados_em_2011
 3659581 Programas_de_televisão_do_Brasil_encerrados_em_2012
@@ -22386,7 +22394,6 @@
 3719986 Beatos_dominicanos
 3719994 Beatos_franciscanos
 3720140 Filmes_sobre_transporte_ferroviário
-3720249 !Wikipedistas_que_gostam_de_contribuir_com_artigos_sobre_municípios_do_Brasil
 3720324 Oficiais_da_Ordem_Militar_da_Torre_e_Espada,_do_Valor,_Lealdade_e_Mérito
 3720353 Filmes_sobre_fuga_da_prisão
 3720421 Comendadores_da_Ordem_Militar_da_Torre_e_Espada,_do_Valor,_Lealdade_e_Mérito
@@ -22428,6 +22435,7 @@
 3723224 Localidades_do_condado_de_Contra_Costa
 3723291 Ginastas_nos_Jogos_Olímpicos_de_Verão_de_2012
 3723968 Computadores_únicos_em_suas_classes
+3723980 História_do_hardware
 3724091 Apídeos
 3724363 !Portal_Nelly_Furtado
 3724873 Filmes_de_terror_da_década_de_1930
@@ -22803,6 +22811,7 @@
 3793698 1985_no_futebol
 3793803 1984_no_futebol
 3793847 1983_no_futebol
+3796191 Físicos_ópticos
 3796296 Batalhas_da_Primeira_Guerra_Mundial_em_1917
 3796297 Batalhas_da_Primeira_Guerra_Mundial_em_1918
 3796303 Batalhas_da_Primeira_Guerra_Mundial_em_1915
@@ -23021,6 +23030,7 @@
 3831736 Regiões_censitárias_do_Utah
 3831897 Filmes_de_drama_do_Reino_Unido
 3831898 Filmes_do_Reino_Unido_de_2013
+3832254 Diagnóstico_em_medicina
 3832640 Membros-Honorários_da_Ordem_Militar_de_Sant'Iago_da_Espada
 3832674 Filmes_de_suspense_dos_Estados_Unidos
 3832682 Filmes_dos_Estados_Unidos_de_2014
@@ -23087,6 +23097,7 @@
 3840524 Filmes_de_aventura_dos_Estados_Unidos
 3840590 Premier_Soccer_League
 3840702 !Portal_Anastacia
+3840724 Relações_entre_Polónia_e_União_Soviética
 3841219 Capas_de_singles_de_Muse
 3841268 Engenheiros_agrónomos_de_Portugal
 3841271 Deputados_da_República_Portuguesa
@@ -23666,6 +23677,7 @@
 3902735 Localidades_do_condado_de_Pinellas
 3902748 Localidades_do_condado_de_Polk_(Flórida)
 3903393 Séries_do_CW
+3903570 Telenovelas_hispano-americanas_transmitidas_pelo_SBT
 3904630 Telenovelas_da_RCTV
 3904847 Mortes_por_câncer_de_esôfago
 3904852 Mortes_por_linfoma
@@ -24479,7 +24491,6 @@
 4056925 Futebolistas_do_Sharjah_FC
 4057194 Descendentes_dos_saboias
 4057217 Websites_dos_Estados_Unidos
-4057274 Websites_de_Portugal
 4058197 2013_no_atletismo
 4058828 Filmes_de_comédia_romântica_do_Reino_Unido
 4058988 Competições_internacionais_de_futebol_sediadas_no_Brasil
@@ -25100,6 +25111,7 @@
 4161502 Vereadores_de_Minas_Gerais
 4161556 Vereadores_de_Belo_Horizonte
 4161650 Filmes_dirigidos_por_Steven_Soderbergh
+4161655 Jogos_para_FM_Towns
 4161784 Primeiros-ministros_da_República_da_China
 4162012 Canções_compostas_por_Eminem
 4162182 Filmes_da_Alemanha_de_2011
@@ -25336,6 +25348,7 @@
 4244944 Tratados_Desiguais
 4245264 Ativistas_dos_direitos_LGBT_do_Reino_Unido
 4245313 Damas_Comandantes_da_Ordem_do_Império_Britânico
+4245383 Alunos_da_Universidade_Chung-Ang
 4245443 Mortos_em_2014
 4245521 Filmes_dirigidos_por_Lloyd_Bacon
 4245631 Flora_endémica_de_Portugal
@@ -25386,6 +25399,7 @@
 4253807 Antigas_monarquias_da_Ásia
 4254046 Crisomelídeos
 4254128 Treinadores_da_Associação_Ferroviária_de_Esportes
+4254715 Peixes_de_Taiwan
 4254850 Chenopodium
 4254996 Filmes_do_Canadá_de_2011
 4255103 Galécia
@@ -25453,6 +25467,7 @@
 4257677 Províncias_do_Império_Bizantino
 4257678 Províncias_romanas_tardias
 4257863 Filmes_de_comédia_erótica
+4257874 Filmes_de_ação_da_Coreia_do_Sul
 4258216 Begonia
 4258485 Oposição_Síria
 4258524 Filmes_dirigidos_por_Henry_Koster
@@ -25470,6 +25485,7 @@
 4258977 Programas_de_televisão_do_Brasil_encerrados_em_1968
 4258985 Programas_de_televisão_do_Brasil_encerrados_em_1970
 4259008 Programas_de_televisão_do_Brasil_que_estrearam_em_1970
+4259012 Biblistas
 4259013 Programas_de_televisão_do_Brasil_que_estrearam_em_1971
 4259017 Programas_de_televisão_do_Brasil_encerrados_em_1972
 4259206 Sedum
@@ -25896,6 +25912,7 @@
 4296936 Independent_Spirit_de_melhor_ator
 4296969 Filmes_sobre_imigração
 4297017 Brasileiros_expatriados_nos_Estados_Unidos
+4297024 Expatriados_nos_Estados_Unidos
 4297032 Estado-unidenses_expatriados_no_Brasil
 4297047 Bélgica_romana
 4297081 Assembleia_Legislativa_do_Amazonas
@@ -26093,6 +26110,7 @@
 4318059 Navios_construídos_na_Virgínia
 4318068 Navios_construídos_em_Nova_Iorque
 4318117 Navios_construídos_na_Escócia
+4318197 !Wikipedistas_que_editam_somente_usando_Wikitexto
 4318264 Unidades_municipais_de_Creta
 4318416 Séries_dramáticas_premiadas_com_o_Emmy_Internacional
 4318912 Fabricantes_de_caminhões
@@ -26197,6 +26215,7 @@
 4330518 Naturais_de_Santander_(Espanha)
 4330528 Goya_de_melhor_ator
 4330585 2014_no_atletismo
+4330786 Miss_Paraná
 4330792 Miss_Minas_Gerais
 4331254 Goya_de_melhor_ator_secundário
 4331268 World_Masterpiece_Theater
@@ -26592,6 +26611,7 @@
 4376619 Filmes_dos_Estados_Unidos_de_1965
 4376622 Filmes_de_drama_musical_da_França
 4376647 Interfaces_de_programação_de_aplicações_da_Microsoft
+4376711 Carlistas
 4376776 Aeronaves_da_Antonov
 4376872 Aeronaves_da_Arado
 4376876 Intelsat
@@ -26799,6 +26819,7 @@
 4396803 Boy_bands_da_Coreia_do_Sul
 4396805 Cidades_do_Império_Selêucida
 4396868 Alunos_da_Universidade_da_Cidade_do_Cabo
+4396888 Armênios_do_século_XI
 4396949 Girl_groups_dos_Estados_Unidos
 4396951 Naturais_de_Yorkshire
 4396968 Cantoras_do_Brasil
@@ -27406,6 +27427,7 @@
 4483196 Séries_de_televisão_de_drama_da_década_de_1970
 4483448 Singles_lançados_pela_Big_Machine_Records
 4483516 Flâmine
+4483518 Filósofos_do_direito_da_Alemanha
 4483662 Séries_de_televisão_de_drama_criminal_da_década_de_1980
 4483689 Filmes_do_Reino_Unido_de_1928
 4484116 Antigas_vias_de_Roma
@@ -27827,7 +27849,6 @@
 4574503 Italianos_do_século_XII
 4574504 Espanhóis_do_século_XVI
 4574506 Italianos_do_século_XV
-4574513 Comandantes_da_Ordem_do_Império_Britânico
 4574694 Filmes_dirigidos_por_Larry_Semon
 4574759 Tutancámon
 4574817 Ramessés_II
@@ -28239,6 +28260,7 @@
 4615836 Princesas_de_Hanôver
 4616323 Mulheres_do_século_XVII
 4616423 Fundações_em_Portugal_em_1931
+4616440 Software_de_2015
 4616483 Procônsules_da_Macedônia
 4616489 Fundações_em_Portugal_em_1910
 4616490 Fundações_em_Portugal_em_1925
@@ -28348,6 +28370,7 @@
 4625343 Automóveis_de_2003
 4625598 Boston_Society_of_Film_Critics_de_melhor_ator_secundário
 4625698 Filmes_dirigidos_por_Gordon_Douglas
+4626011 Fusões_e_aquisições
 4626217 Automóveis_de_2004
 4626224 Automóveis_de_2006
 4626409 Artistas_da_Sony_Music_Entertainment
@@ -28609,6 +28632,7 @@
 4709900 Ribeirões_de_Minas_Gerais
 4711598 Vikings
 4711932 !Predefinições_sobre_vela_nos_Jogos_Olímpicos
+4711949 !Predefinições_sobre_Voleibol_nos_Jogos_Olímpicos
 4712630 Lista_de_guerras_por_país
 4712667 Jogadores_da_Seleção_Argentina_de_Futebol
 4712674 Jogadores_da_Seleção_Argentina_de_Futebol_Sub-20
@@ -28738,6 +28762,7 @@
 4746586 Pessoas_da_Primeira_Guerra_Mundial_(Reino_Unido)
 4746593 Presidentes_de_câmaras_municipais_de_Portugal
 4746595 Vereadores_de_câmaras_municipais_de_Portugal
+4746598 Presidentes_de_juntas_de_freguesia_de_Portugal
 4746756 Listas_de_partidos_políticos_por_país
 4747323 !Predefinições_sobre_o_FC_Bayern_de_Munique
 4747750 Condessas_de_Hesse-Darmestádio
@@ -29035,7 +29060,6 @@
 4798785 Catálogo_Gliese
 4798791 Condessas_da_Itália
 4799005 Liga_Mundial_de_Surfe
-4799342 Serviços_de_streaming_online
 4799410 Senadores_do_Uruguai
 4799639 Naturais_de_Granada_(Espanha)
 4799973 !Imagens_em_destaque_de_maio_de_2016
@@ -29248,6 +29272,7 @@
 4831582 Naturais_de_Rimini
 4831722 Objetos_astronômicos_descobertos_em_1989
 4831750 Tenistas_olímpicos_da_Espanha
+4831782 Músicos_de_eurodance
 4831814 Filmes_dirigidos_por_Otto_Preminger
 4832036 Naturais_de_Hildburghausen
 4832125 Poetas_da_Itália_do_século_XVI
@@ -29280,6 +29305,7 @@
 4836112 Armas_de_fogo_de_8_mm
 4836174 Armas_de_infantaria_da_União_Soviética_na_Segunda_Guerra_Mundial
 4836299 Metralhadoras_de_uso_geral
+4836302 Metralhadoras_médias
 4836303 Metralhadoras_da_Segunda_Guerra_Mundial
 4836310 Fuzis_de_ferrolho
 4836311 Metralhadoras_leves
@@ -29863,6 +29889,7 @@
 4935462 !Predefinições_sobre_Jogos_Europeus
 4935851 2016_na_luta_profissional
 4935852 Eventos_de_2016_no_WWE_Network
+4935894 Armênios_do_século_VIII
 4935939 Temporadas_de_furacões_no_Pacífico
 4935965 Basquetebolistas_do_Estudiantes
 4936562 Medalha_Darwin
@@ -30091,6 +30118,7 @@
 4975224 Ciclistas_do_Giro_d'Italia
 4975875 Localidades_de_Navarra
 4975879 Papa_Gregório_XVI
+4976652 Naturais_de_Bérgamo_(província)
 4976929 Municípios_por_nome_da_Comunidade_Autónoma_do_País_Basco
 4976934 Localidades_da_Comunidade_Autónoma_do_País_Basco
 4976946 Localidades_de_Álava
@@ -30354,7 +30382,6 @@
 5027875 Futebolistas_olímpicos_do_Egito
 5028220 Nadadores_sincronizados_olímpicos_da_Rússia
 5028282 Nadadores_sincronizados_olímpicos_do_Canadá
-5028485 Humor_gráfico
 5028813 Canções_produzidas_por_Phil_Spector
 5029029 Nadadores_sincronizados_nos_Jogos_Olímpicos_de_Verão_de_2012
 5029040 Nadadores_sincronizados_nos_Jogos_Olímpicos_de_Verão_de_2008
@@ -30394,6 +30421,7 @@
 5034479 Programas_de_televisão_da_Coreia_do_Sul_que_estrearam_em_2016
 5034483 Jogadores_da_Seleção_Haitiana_de_Futebol
 5034494 Oficiais_de_Honório
+5034537 Capas_de_singles_de_Bebe_Rexha
 5034585 Canções_compostas_por_Bebe_Rexha
 5034612 Jogadores_da_Eurocopa_de_1976
 5035628 Estações_ferroviárias_inauguradas_em_1911
@@ -30608,6 +30636,7 @@
 5086711 Grande_Prêmio_da_Argentina
 5086754 Grande_Prêmio_dos_Países_Baixos
 5087289 Alunos_da_Universidade_de_Barcelona
+5087388 Críticos_do_multiculturalismo
 5088237 Filmes_produzidos_por_Darryl_F._Zanuck
 5090492 Turnês_de_Ivete_Sangalo
 5091053 Filmes_da_First_National_Pictures
@@ -31399,6 +31428,7 @@
 5315573 Handebolistas_de_São_Paulo
 5315741 Webséries_em_língua_inglesa
 5315742 Webséries_da_Netflix
+5315851 Webséries_do_Brasil
 5316034 !Predefinições_Wikidata
 5316453 Filmes_do_Reino_Unido_de_2017
 5316791 Pessoas_do_SBT
@@ -31434,6 +31464,7 @@
 5323209 Compositores_do_século_XVIII
 5324237 Filmes_da_França_de_2017
 5325205 !Portal_Heráldica
+5325968 Cristãos_de_São_Tomé
 5326024 Igreja_Ortodoxa_Síria
 5326312 !Portal_Microbiologia
 5326504 Professores_da_Universidade_Federal_de_Pelotas
@@ -31596,6 +31627,7 @@
 5386043 Produce_101
 5386133 Concorrentes_de_Produce_101
 5386861 Futebolistas_do_Baniyas_Sports_&_Culture_Club
+5387289 Negacionismo_climático
 5387698 AOL
 5387825 Eleições_legislativas_portuguesas_de_1979
 5389124 Programas_de_televisão_da_Coreia_do_Sul_encerrados_em_2017
@@ -31646,6 +31678,7 @@
 5406656 Cartazes_de_filmes_do_México
 5406887 Mulheres_do_século_XIX
 5406973 Clubes_de_basquetebol_da_China
+5406980 Repúblicas_socialistas_extintas
 5406984 Estados_extintos_do_Sudoeste_Asiático
 5407284 Clubes_de_futebol_da_Califórnia
 5407916 Doutores_honoris_causa_da_Universidade_de_Cambridge
@@ -31828,6 +31861,7 @@
 5460120 Rodovias_estaduais_da_Bahia
 5460132 Rodovias_estaduais_do_Paraná
 5460133 Rodovias_estaduais_de_São_Paulo
+5460175 Rebelião_de_Vaanes_I_Mamicônio
 5460340 !Portal_SIC
 5460975 Sistemas_operacionais_para_PCs
 5462672 Canções_gravadas_por_Dua_Lipa
@@ -31864,6 +31898,7 @@
 5477395 Atores_de_Madrid
 5477434 Atores_da_Comunidade_Valenciana
 5477860 Futebolistas_do_Futbolniy_Klub_Krasnodar
+5478236 Equipamentos_militares_de_1950-1959
 5478245 Equipamentos_militares_de_1970-1979
 5478293 Equipamentos_militares_de_1930-1939
 5479081 Escritores_de_Castela_e_Leão
@@ -31898,6 +31933,7 @@
 5490216 Aves_descritas_em_1840
 5491482 Quedas-d'água_da_Bahia
 5491698 Mulheres_futebolistas
+5491933 Festas_de_julho
 5491934 Festas_de_junho
 5492086 Luiz_Inácio_Lula_da_Silva
 5492811 Prêmios_L'Oréal-UNESCO_para_mulheres_em_ciência
@@ -31916,6 +31952,7 @@
 5504179 Personagens_masculinos_de_anime_e_mangá
 5504188 Personagens_femininos_de_anime_e_mangá
 5504364 Dramas_da_China
+5504663 Aquecimento_global_no_Brasil
 5505310 Crimes_de_guerra_da_União_Soviética
 5505996 Canções_de_música_sertaneja
 5509231 Navios_brasileiros_da_Guerra_do_Paraguai
@@ -32022,6 +32059,7 @@
 5528137 U-boots_afundados_por_navios_de_guerra_dos_Estados_Unidos
 5528141 Submarinos_alemães_Tipo_VIIC
 5528147 U-Boots_comissionados_em_1941
+5528197 Jogadores_de_rugby_union_da_França
 5528502 Fundações_em_São_Paulo_em_2002
 5528514 Fundações_em_São_Paulo_em_2008
 5528526 U-Boots_afundados_por_aviões_dos_Estados_Unidos
@@ -32041,6 +32079,7 @@
 5531165 Operação_Deadlight
 5531171 U-Boots_comissionados_em_1944
 5531172 Naufrágios_no_Canal_da_Mancha_na_Segunda_Guerra_Mundial
+5533417 Fundações_em_São_Paulo_em_1995
 5533426 Fundações_em_São_Paulo_em_2014
 5534054 Espécies_descritas_por_Cramer
 5534057 Espécies_descritas_por_Fabricius
@@ -32432,7 +32471,6 @@
 5620258 Estações_ferroviárias_de_São_Domingos_(República_Dominicana)
 5620272 Comunas_da_Sardenha_do_Sul
 5620411 Programas_de_televisão_do_Brasil_que_estrearam_em_2018
-5620816 Regiões_geográficas_imediatas_da_Paraíba
 5620905 Filmes_com_trilha_sonora_de_Mark_Isham
 5621140 Filmes_com_trilha_sonora_de_Georges_Delerue
 5621185 Atração_sexual
@@ -32517,6 +32555,7 @@
 5634751 !Portal_Anatomia
 5634980 Cientistas_dos_Estados_Unidos_do_século_XX
 5634982 Estado-unidenses_do_século_XX
+5635011 Cientistas_dos_Estados_Unidos_do_século_XXI
 5635012 Físicos_dos_Estados_Unidos_do_século_XXI
 5636028 Atrações_turísticas_da_Gotalândia_Ocidental
 5636562 Canções_de_2018
@@ -32589,7 +32628,6 @@
 5652986 Cavaleiros_tauromáquicos_de_Portugal
 5653012 Final_Fantasy_XV
 5653286 Cultura_de_Nacada
-5653580 Regiões_geográficas_imediatas_de_Mato_Grosso
 5653901 Patinadores_artísticos_nos_Jogos_Olímpicos_de_Inverno_de_2018
 5654190 !Propostas_de_eliminação_sobre_portais
 5654809 Bispos_auxiliares_de_Belo_Horizonte
@@ -32884,7 +32922,6 @@
 5755470 Competições_de_ciclismo_profissional_femininas
 5755774 Campeonato_Africano_de_Atletismo_de_2010
 5755881 Oficiais_de_Sapor_I
-5756090 Regiões_geográficas_imediatas_do_Ceará
 5756093 Partas_do_século_VI
 5756094 Partas_do_século_V
 5756103 Partas_do_século_III
@@ -32981,6 +33018,7 @@
 5788488 Baladas_de_rock
 5788513 Baladas_de_R&B
 5788602 Jogadores_da_Copa_Ouro_da_CONCACAF_de_2017
+5788607 Família_Amatúnio
 5788712 Mídia_de_armazenamento_de_computador_com_disco_rotativo
 5788864 Cinebiografias_de_religiosos
 5789539 Canções_gravadas_por_Marília_Mendonça
@@ -33167,12 +33205,14 @@
 5846927 !Predefinições_de_caixas_de_informação_com_base_em_Lua
 5847090 Filmes_com_pessoas_amputadas
 5847102 Invasões_alienígenas_no_cinema
+5847227 Filmes_sobre_dinossauros
 5847322 Cantores_de_música_pop_do_Japão
 5849119 Arquitetura_neorrenascentista
 5849591 Atletismo_nos_Jogos_Pan-Americanos_de_2003
 5849958 Appias
 5850219 Softwares_de_segurança_computacional
 5850284 Programas_infantis_da_TV_Cultura
+5850528 Programas_infantis_do_SBT
 5850530 Programas_infantis_da_TV_Globo
 5850765 Vencedores_do_American_Music_Awards
 5850949 Atletismo_nos_Jogos_Pan-Americanos_de_1999
@@ -33360,7 +33400,6 @@
 5907037 2019_no_ciclismo
 5907961 !Predefinições_sobre_a_Copa_São_Paulo_de_Futebol_Júnior_de_2019
 5908007 Canções_gravadas_por_Post_Malone
-5908154 Regiões_geográficas_imediatas_de_Pernambuco
 5908419 Espécies_de_Tricholomataceae
 5909503 Prêmio_Paul_Ehrlich_e_Ludwig_Darmstaedter
 5910424 Sepultados_no_Cemitério_de_Santo_Amaro_(Recife)
@@ -33758,6 +33797,7 @@
 6060058 !Portal_da_Igreja_Anglicana
 6060865 Grã-Cruzes_da_Ordem_de_Avis
 6061036 Sites_da_Microsoft
+6061101 Serviços_de_streaming_na_internet
 6061250 !Wikipedistas_que_não_editam_com_frequência,_mas_buscam_ser_úteis
 6061658 Popularizadores_da_matemática
 6061886 Filhos_de_presidentes_dos_Estados_Unidos
@@ -33899,6 +33939,7 @@
 6124531 Himenópteros_descritos_em_1902
 6124583 Moluscos_descritos_em_1902
 6124979 Bairros_de_Košice
+6125702 Romancistas_da_Austrália
 6126350 Mamíferos_descritos_em_1902
 6126530 Municípios_de_Bardejov_(distrito)
 6126542 Municípios_de_Turčianske_Teplice_(distrito)
@@ -34027,6 +34068,7 @@
 6164313 2020_na_televisão_em_Portugal
 6164378 Manifestações_e_protestos_em_2020
 6164380 Conflitos_em_2020
+6164843 Emissoras_da_Massa_FM
 6165065 Convertidos_do_judaísmo_ao_catolicismo_romano
 6167689 Filmes_dos_Estados_Unidos_de_2022
 6168011 Complementos_para_o_Firefox
@@ -34121,6 +34163,7 @@
 6198107 Embaixadores_da_Boa_Vontade_da_UNESCO
 6198271 Séries_de_televisão_de_suspense_da_década_de_2020
 6198788 Municípios_da_Carolina_do_Norte
+6198892 Furacões_no_oceano_Atlântico_de_categoria_5
 6199630 Fundações_no_Piauí_em_1995
 6200639 Municípios_do_Ohio
 6200655 Localidades_do_condado_de_Gallia
@@ -34144,6 +34187,7 @@
 6203281 Localidades_do_condado_de_Hardin_(Ohio)
 6203282 Localidades_do_condado_de_Hancock_(Ohio)
 6203283 Localidades_do_condado_de_Marion_(Ohio)
+6203539 Projetos_paisagísticos_de_Roberto_Burle_Marx
 6203594 Dorylus
 6203595 Gnamptogenys
 6203646 Pseudomyrmex
@@ -34179,6 +34223,7 @@
 6217742 Municípios_de_Zlaté_Moravce_(distrito)
 6217902 Furacões_no_oceano_Atlântico_de_categoria_3
 6218412 Pandemia_de_COVID-19_na_África
+6218413 Pandemia_de_COVID-19_na_Ásia
 6218414 Pandemia_de_COVID-19_na_América
 6218415 Pandemia_de_COVID-19_na_Europa
 6218517 Pandemia_de_COVID-19_por_país
@@ -34467,6 +34512,7 @@
 6327777 Agraciados_com_o_Prêmio_Akutagawa
 6328627 Filmes_cuja_estreia_foi_cancelada_devido_à_pandemia_de_COVID-19
 6329304 Eleições_em_2021
+6329311 2021_no_Brasil
 6331050 !Predefinições_sobre_rugby_sevens_nos_Jogos_Pan-Americanos
 6331381 Concurso_Nacional_do_Plano_Piloto_da_Nova_Capital_do_Brasil
 6331388 Capas_de_jogos_para_Xbox_Series_X_e_Series_S
@@ -34525,6 +34571,7 @@
 6355753 Monumentos_nacionais_em_Coimbra
 6356490 Ciclones_tropicais_em_2018
 6357726 !Predefinições_sobre_senadores_dos_Estados_Unidos
+6357791 Atrizes_do_século_XXI
 6358164 Ativistas_pela_reforma_da_política_antidrogas_do_Brasil
 6358338 Vencedores_do_Meus_Prêmios_Nick
 6358808 Emmy_do_Daytime_de_melhor_atriz_em_série_de_drama
@@ -34719,6 +34766,7 @@
 6431226 Empresas_de_jogos_eletrônicos_extintas_do_Reino_Unido
 6431878 Localidades_de_Bohinj
 6432099 Cantoras_do_Reino_Unido
+6432145 Livros_de_linguística
 6432243 Campeonato_Europeu_de_Esportes_Aquáticos_de_2016
 6432811 Políticos_do_Partido_Socialista_Operário_Espanhol
 6432949 Torturadores
@@ -35033,6 +35081,7 @@
 6541744 Bandas_de_música_pop_do_Reino_Unido
 6541780 Royal_Institution_Christmas_Lectures
 6541797 Cantores_de_rock_do_Reino_Unido
+6543578 Futebolistas_vencedores_do_prêmio_Golden_Boy
 6544310 Advogadas_dos_Estados_Unidos
 6545001 Batalhas_envolvendo_o_Reino_de_Portugal
 6545308 Cantores_de_pop_rock_dos_Estados_Unidos
@@ -35129,6 +35178,7 @@
 6588825 Escritores_cristãos_do_século_II
 6588828 Primeiros_escritores_cristãos
 6589038 Antigas_comunas_de_Eure-et-Loir
+6590496 Atração_interpessoal
 6590749 Comunidades_quilombolas_da_Bahia
 6591300 Patrimônio_tombado_pelo_IPHAN_na_Bahia
 6591396 Patrimônio_tombado_pelo_IPHAN_em_São_Paulo
@@ -35670,6 +35720,7 @@
 6729843 Membros_do_Bundestag_2021-2025
 6730275 Desenvolvedores_de_jogos_eletrônicos_independentes
 6732225 Programas_de_televisão_dos_Estados_Unidos_que_estrearam_em_2022
+6734177 Álbuns_produzidos_por_Eduardo_Pepato
 6736695 Potências_do_Eixo
 6737462 !Imagens_em_destaque_de_janeiro_de_2022
 6740584 !Infocaixas_sobre_taxonomia
@@ -35762,6 +35813,7 @@
 6777646 Uruguaios_expatriados_na_Espanha
 6778107 Jogadores_de_polo_aquático_nos_Jogos_Olímpicos_de_Verão_de_2020
 6778265 Medalhistas_olímpicos_do_softbol
+6778431 !Predefinições_sobre_Campeonato_Mundial_de_Halterofilismo
 6778479 Beisebolistas_nos_Jogos_Olímpicos_de_Verão_de_2020
 6778481 Beisebolistas_olímpicos_dos_Estados_Unidos
 6778486 Autódromos_extintos
@@ -36123,6 +36175,7 @@
 6912400 Espécies_citadas_na_Lista_de_Espécies_da_Fauna_Ameaçadas_do_Espírito_Santo
 6912565 Espécies_citadas_na_Lista_de_Espécies_Ameaçadas_de_Extinção_da_Fauna_do_Estado_de_Minas_Gerais
 6912625 Espécies_citadas_no_Livro_Vermelho_da_Fauna_Ameaçada_no_Estado_do_Paraná
+6912747 Myrcia
 6912839 Logotipos_das_missões_Soyuz_MS
 6912908 Logotipos_das_missões_Soyuz_TMA-M
 6913403 Nobres_de_Portugal_do_século_XX
@@ -36203,11 +36256,13 @@
 6956684 Cataulacus
 6956988 Jogos_eletrônicos_ambientados_em_florestas
 6957363 Jogos_eletrônicos_ambientados_em_castelos
+6957461 Artur_Bernardes
 6957724 Atrizes_de_Minas_Gerais
 6958868 Primeiras-ministras
 6960077 Fungos_descritos_em_1950
 6960163 Gastrópodes_descritos_em_1951
 6960233 Membros_do_Partido_Progressista_Reformador
+6960279 Políticos_da_Inglaterra_do_Partido_Conservador
 6960650 Himenópteros_descritos_em_1921
 6962927 Antigas_feitorias_de_Portugal
 6963945 Futebolistas_do_Club_Deportivo_Marathón
@@ -36405,6 +36460,7 @@
 7076348 Pictogramas_dos_Jogos_Olímpicos_de_Verão_de_2024
 7076514 Amblytelus
 7077919 Programas_de_televisão_da_Coreia_do_Sul_que_estrearam_em_2023
+7078405 Programas_de_televisão_do_Reino_Unido_que_estrearam_em_2023
 7078697 GPs_de_Fórmula_1_de_2023
 7079841 !Imagens_em_destaque_de_abril_de_2023
 7080896 Circuito_Feminino_ITF
@@ -36458,8 +36514,10 @@
 7108954 Espécies_citadas_na_lista_Extinção_Zero_do_Estado_do_Pará
 7108983 !Navecaixas_sobre_campeões_olímpicos_de_ginástica
 7109664 Geografia_de_Mucugê
+7111644 Membros_da_Academia_Brasileira_de_Médicos_Escritores
 7111719 Patronos_da_Academia_Brasileira_de_Médicos_Escritores
 7112457 Jornalistas_judeus
+7113798 Justiça_ambiental
 7114123 Contracultura_da_década_de_1960
 7114733 Mulheres_indígenas_do_Brasil
 7115135 Filhos_de_primeiros-ministros_do_Reino_Unido
@@ -36492,6 +36550,7 @@
 7134637 Eventos_do_atletismo_nos_Jogos_Pan-Americanos_de_2023
 7136408 Santo_Amaro_(distrito_de_São_Paulo)
 7136885 Patrimônio_tombado_pelo_IPHAN_em_Ouro_Preto
+7137659 Programas_de_televisão_da_Coreia_do_Sul_encerrados_em_2023
 7138380 Giro_d'Italia_de_2023
 7139404 Medalhistas_do_Brasil_nos_Jogos_Sul-Americanos
 7139822 Competições_de_futebol_de_São_Paulo
@@ -36571,6 +36630,7 @@
 7168046 Canções_produzidas_por_Taylor_Swift
 7168405 Pictogramas_dos_Jogos_Olímpicos_de_Verão_de_2020
 7170133 Google_Pixel
+7173492 Bandas_da_cidade_do_Rio_de_Janeiro
 7173566 Veículos_policiais
 7173620 Filmes_dos_Estados_Unidos_de_2025
 7173698 Filhas_de_imperadores_romanos
@@ -36800,12 +36860,15 @@
 7268974 Participantes_do_Concílio_Vaticano_I
 7268983 Participantes_do_Concílio_Vaticano_II
 7269164 Mortes_por_atropelamento_no_Brasil
+7269499 Atrizes_de_teatro_da_Coreia_do_Sul
 7269744 Atrizes_de_rádio_do_Brasil
 7269838 !Navecaixas_sobre_política_nas_unidades_federativas_do_Brasil
 7269884 Atrizes_da_Irlanda
 7269928 Atrizes_infantis_dos_Estados_Unidos
 7269939 Atrizes_infantis_afro-americanas
 7269951 Atrizes_infantis_do_México
+7269975 Atrizes_de_teatro_musical_do_Brasil
+7269980 Atores_de_teatro_musical_do_Brasil
 7270538 !Navecaixas_de_tópicos_da_África
 7270544 !Navecaixas_de_tópicos_da_Europa
 7271117 2024_na_televisão_em_Portugal
@@ -36931,6 +36994,7 @@
 7316430 Professores_da_Faculdade_de_Filosofia_e_Ciências_Humanas_da_Universidade_Federal_da_Bahia
 7316607 Cantores_LGBT_dos_Estados_Unidos
 7317996 Patronos_do_Brasil
+7318786 Moenkhausia
 7318811 !Predefinições_de_tabelas_climáticas_do_Brasil
 7320203 Doutores_honoris_causa_da_HEC_Paris
 7320843 Casa_de_Brunswick-Bevern
@@ -36987,11 +37051,11 @@
 7347147 Sabesp
 7347858 !Imagens_em_destaque_de_junho_de_2024
 7348014 !Predefinições_sobre_mamíferos
-7348077 Governadores_civis_de_Angra_do_Heroísmo
 7350283 Cantoras_de_música_pop_do_Brasil
 7350294 Cantoras_de_rock_do_Brasil
 7351094 Canções_compostas_por_Madonna
 7351418 !Predefinições_sobre_ministros_de_Portugal
+7351419 !Predefinições_sobre_líderes_políticos_de_Portugal
 7353122 !Destaques_do_portal_Náutico/Arquivo
 7353133 Classe_Essex
 7353239 Augustas_romanas_e_bizantinas
@@ -37015,6 +37079,7 @@
 7363129 Professores_eméritos_da_Universidade_de_São_Paulo
 7364142 Autorretratística
 7364208 Avenida_Rio_Branco_(Rio_de_Janeiro)
+7365259 Empresas_de_administração_portuária_do_Brasil
 7365795 Álbuns_gravados_no_RAK_Studios
 7366339 Álbuns_lançados_pela_Century_Media_Records
 7367360 !Predefinições_sobre_justiça_no_Brasil
@@ -37046,17 +37111,35 @@
 7380320 Místicos_protestantes
 7380577 Enciclopédias_generalistas
 7381126 !Predefinições_sobre_províncias_da_Argélia
-7381131 Filmes_com_dinossauros
 7381548 Escritores_de_livros_de_fantasia_do_Brasil
 7381848 Enciclopédias_sobre_povos_e_ou_lugares
 7383231 !Predefinições_sobre_locais_de_competição_olímpica
 7383506 Chineses_expatriados_nos_Estados_Unidos
-7383815 !Predefinições_sobre_seleções_nacionais_de_futebol_de_areia
-7383824 !Predefinições_sobre_iatismo
-7385087 Telenovelas_mexicanas_transmitidas_pelo_SBT
 7385711 Documentários_sobre_rock
+7386132 !Imagens_em_destaque_de_agosto_de_2024
 7386270 Programa_Explorer
+7386450 Satélites_da_NASA
 7386588 Guilherme_III_de_Inglaterra
 7386850 Voleibolistas_de_praia_nos_Jogos_Olímpicos_de_Verão_de_2024
 7386869 !Predefinições_sobre_Oceano_Pacífico
 7387039 Environmental_Research_Satellites
+7387427 Parques_ecológicos
+7387450 Parques_estaduais_relativos_a_serras
+7388310 Escritores_de_livros_de_fantasia_dos_Estados_Unidos
+7388402 Equipamentos_e_armamentos_do_Exército_Português
+7389137 Católicos_romanos_dos_Países_Baixos
+7391748 !Wikipedistas_que_são_imparciais_na_wikipedia
+7391801 !Predefinições_sobre_Oceano_Atlântico
+7392187 Satélites_dos_Estados_Unidos
+7392323 Jogos_eletrônicos_ambientados_na_União_Soviética
+7392650 Satélites_da_Europa
+7393130 Introduzidos_no_Hall_da_Fama_dos_Astronautas_dos_Estados_Unidos
+7393703 Campeonato_Mundial_de_Halterofilismo_de_2023
+7394355 Autores_de_romances_históricos_da_Inglaterra
+7394357 Autores_de_romances_históricos_do_Brasil
+7395442 Jogadores_de_rugby_union_dos_Estados_Unidos
+7395446 Jogadores_de_rugby_nos_Jogos_Olímpicos_de_Verão_de_1924
+7395816 Príncipes_da_Casa_de_Saxe-Coburgo-Gota
+7396430 Imigrantes_soviéticos_nos_Estados_Unidos
+7396685 Jogos_eletrônicos_de_detetive
+7398377 Empresas_estatais_da_China

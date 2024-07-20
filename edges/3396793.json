@@ -1,1 +1,1 @@
-{"name": "Televisão_digital", "id": 3396793, "predecessors": [{"name": "Tecnologia_de_televisão", "id": 115622}, {"name": "Disciplinas_de_engenharia", "id": 2797454}, {"name": "Multimídia", "id": 2718187}], "successors": [{"name": "Televisão_via_Internet", "id": 854885}]}
+{"name": "Televisão_digital", "id": 3396793, "predecessors": [{"name": "Mídia_digital", "id": 3339826}, {"name": "Tecnologia_de_televisão", "id": 115622}, {"name": "Disciplinas_de_engenharia", "id": 2797454}], "successors": [{"name": "Televisão_via_Internet", "id": 854885}]}

@@ -1,1 +1,1 @@
-{"name": "Físicos_ópticos", "id": 3796191, "predecessors": [{"name": "Académicos", "id": 3190397}], "successors": [{"name": "Pesquisadores_do_laser", "id": 4550868}]}
+{"name": "Físicos_ópticos", "id": 3796191, "predecessors": [{"name": "Óptica", "id": 37841}, {"name": "Ciência", "id": 40676}], "successors": []}

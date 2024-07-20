@@ -1,1 +1,1 @@
-{"name": "Santos_ortodoxos", "id": 4367496, "predecessors": [{"name": "Igreja_Ortodoxa", "id": 63509}, {"name": "Igreja_Católica", "id": 63508}], "successors": [{"name": "Santos_da_Rússia", "id": 939544}, {"name": "Santos_da_Grécia", "id": 963918}]}
+{"name": "Santos_ortodoxos", "id": 4367496, "predecessors": [{"name": "Igreja_Ortodoxa", "id": 63509}, {"name": "Santos", "id": 20506}], "successors": [{"name": "Santos_da_Rússia", "id": 939544}, {"name": "Santos_da_Grécia", "id": 963918}]}

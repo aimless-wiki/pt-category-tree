@@ -1,1 +1,1 @@
-{"name": "Festividades_de_santos", "id": 1852381, "predecessors": [{"name": "Festividades_da_Igreja_Católica", "id": 985107}, {"name": "Práticas_religiosas", "id": 65475}, {"name": "Igreja_Católica", "id": 63508}], "successors": []}
+{"name": "Festividades_de_santos", "id": 1852381, "predecessors": [{"name": "Festividades_da_Igreja_Católica", "id": 985107}, {"name": "Santos", "id": 20506}, {"name": "Práticas_religiosas", "id": 65475}], "successors": []}
