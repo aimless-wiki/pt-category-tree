@@ -1,1 +1,1 @@
-{"name": "Plantas_medicinais", "id": 64324, "predecessors": [{"name": "Fármacos", "id": 106551}, {"name": "Plantas", "id": 15202}, {"name": "Medicina_alternativa", "id": 44599}], "successors": [{"name": "Solanum", "id": 3457017}]}
+{"name": "Plantas_medicinais", "id": 64324, "predecessors": [{"name": "Fármacos", "id": 106551}, {"name": "Plantas", "id": 15202}, {"name": "Medicina_alternativa", "id": 44599}], "successors": [{"name": "Cannabis", "id": 1952076}, {"name": "Solanum", "id": 3457017}]}

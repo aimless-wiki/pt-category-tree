@@ -1,1 +1,1 @@
-{"name": "Atletas_da_França", "id": 834137, "predecessors": [{"name": "Desportistas_da_França", "id": 1246372}, {"name": "Atletas", "id": 55970}, {"name": "Desporto_da_França", "id": 1246376}], "successors": [{"name": "Velocistas_da_França", "id": 2191218}, {"name": "Meio-fundistas_da_França", "id": 2193308}, {"name": "Barreiristas_da_França", "id": 2433800}]}
+{"name": "Atletas_da_França", "id": 834137, "predecessors": [{"name": "Cultura_da_França", "id": 128840}, {"name": "Desportos", "id": 1937695}, {"name": "Atletismo", "id": 83462}], "successors": []}

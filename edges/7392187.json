@@ -1,1 +1,1 @@
-{"name": "Satélites_dos_Estados_Unidos", "id": 7392187, "predecessors": [{"name": "!Manutenção", "id": 2800719}], "successors": [{"name": "Satélites_da_NASA", "id": 7386450}]}
+{"name": "Satélites_dos_Estados_Unidos", "id": 7392187, "predecessors": [{"name": "Satélites", "id": 78305}], "successors": [{"name": "Satélites_da_NASA", "id": 7386450}]}

@@ -1,1 +1,1 @@
-{"name": "Ordens_militares", "id": 158658, "predecessors": [{"name": "Segurança", "id": 125178}, {"name": "Comportamento_humano", "id": 983221}], "successors": [{"name": "Ordens_de_cavalaria", "id": 1216818}, {"name": "Ordem_da_Estrela_Vermelha", "id": 4281329}, {"name": "Ordem_do_Estandarte_Vermelho", "id": 4281345}]}
+{"name": "Ordens_militares", "id": 158658, "predecessors": [{"name": "Segurança", "id": 125178}, {"name": "Comportamento_humano", "id": 983221}], "successors": [{"name": "Ordens_de_cavalaria", "id": 1216818}]}
