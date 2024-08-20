@@ -1,1 +1,1 @@
-{"name": "Banda_larga", "id": 4550105, "predecessors": [{"name": "Internet", "id": 15036}, {"name": "Componentes_elétricos", "id": 1156241}, {"name": "Disciplinas_de_engenharia", "id": 2797454}], "successors": []}
+{"name": "Banda_larga", "id": 4550105, "predecessors": [{"name": "Internet", "id": 15036}, {"name": "Componentes_elétricos", "id": 1156241}, {"name": "!Ferramentas_da_Wikipédia", "id": 2292391}], "successors": []}

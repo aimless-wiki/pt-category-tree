@@ -1,1 +1,1 @@
-{"name": "Compostos_de_amônio", "id": 1498914, "predecessors": [{"name": "Compostos_de_azoto", "id": 1168533}, {"name": "Compostos_de_hidrogénio", "id": 1310878}, {"name": "Compostos_químicos", "id": 30516}], "successors": []}
+{"name": "Compostos_de_amônio", "id": 1498914, "predecessors": [{"name": "Compostos_de_azoto", "id": 1168533}, {"name": "Compostos_de_hidrogénio", "id": 1310878}, {"name": "Cátions", "id": 103249}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Crises_diplomáticas", "id": 4199967, "predecessors": [{"name": "Incidentes_diplomáticos", "id": 4162913}, {"name": "Comportamento_humano", "id": 983221}, {"name": "Eventos", "id": 61537}], "successors": [{"name": "Incidentes_diplomáticos", "id": 4162913}]}
+{"name": "Crises_diplomáticas", "id": 4199967, "predecessors": [{"name": "Incidentes_diplomáticos", "id": 4162913}, {"name": "Comportamento_humano", "id": 983221}, {"name": "Eventos", "id": 61537}], "successors": []}

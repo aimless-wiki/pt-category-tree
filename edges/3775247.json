@@ -1,1 +1,1 @@
-{"name": "Ortodoxia_Oriental", "id": 3775247, "predecessors": [{"name": "Igrejas_Orientais", "id": 863630}], "successors": [{"name": "Patriarcados", "id": 116098}, {"name": "Igrejas_ortodoxas_orientais", "id": 4930197}, {"name": "Cristãos_Ortodoxos_da_Sérvia", "id": 4327325}]}
+{"name": "Ortodoxia_Oriental", "id": 3775247, "predecessors": [{"name": "Oriente_Médio", "id": 855632}], "successors": [{"name": "Igreja_Ortodoxa_Copta", "id": 2308263}, {"name": "Igreja_Apostólica_Armênia", "id": 4094350}, {"name": "Igreja_Ortodoxa_Síria", "id": 5326024}]}

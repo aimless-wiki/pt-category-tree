@@ -1,1 +1,1 @@
-{"name": "Bebidas_destiladas", "id": 412200, "predecessors": [{"name": "Engenharia_química", "id": 370601}, {"name": "Bebidas", "id": 41909}, {"name": "Bebidas_alcoólicas", "id": 412197}], "successors": [{"name": "Licores", "id": 360125}, {"name": "Marcas_de_uísque", "id": 4786460}]}
+{"name": "Bebidas_destiladas", "id": 412200, "predecessors": [{"name": "Engenharia_química", "id": 370601}, {"name": "Bebidas", "id": 41909}, {"name": "Bebidas_alcoólicas", "id": 412197}], "successors": [{"name": "Licores", "id": 360125}, {"name": "Uísques", "id": 1271244}]}
