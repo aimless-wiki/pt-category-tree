@@ -1,1 +1,1 @@
-{"name": "Sistema_endócrino", "id": 121637, "predecessors": [{"name": "Anatomia", "id": 14867}, {"name": "Fisiologia", "id": 15866}], "successors": [{"name": "Disruptores_endócrinos", "id": 2743045}]}
+{"name": "Sistema_endócrino", "id": 121637, "predecessors": [{"name": "Anatomia", "id": 14867}, {"name": "Fisiologia", "id": 15866}], "successors": [{"name": "Doenças_endócrinas", "id": 2310315}, {"name": "Disruptores_endócrinos", "id": 2743045}]}

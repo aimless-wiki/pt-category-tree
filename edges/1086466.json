@@ -1,1 +1,1 @@
-{"name": "Fabricantes_de_automóveis_do_Reino_Unido", "id": 1086466, "predecessors": [{"name": "Empresas", "id": 328001}], "successors": [{"name": "Veículos_da_Austin", "id": 1648063}]}
+{"name": "Fabricantes_de_automóveis_do_Reino_Unido", "id": 1086466, "predecessors": [{"name": "Empresas", "id": 328001}, {"name": "Economia_do_Reino_Unido", "id": 93341}], "successors": [{"name": "Veículos_da_Austin", "id": 1648063}]}

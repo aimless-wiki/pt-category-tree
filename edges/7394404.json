@@ -1,1 +1,1 @@
-{"name": "Restaurantes_de_fast_casual", "id": 7394404, "predecessors": [{"name": "Tipos_de_restaurantes", "id": 7415327}], "successors": []}
+{"name": "Restaurantes_de_fast_casual", "id": 7394404, "predecessors": [{"name": "Restaurantes_por_tipo", "id": 132701}], "successors": []}

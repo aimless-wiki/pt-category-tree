@@ -1,1 +1,1 @@
-{"name": "Alunos_da_Universidade_de_Viena", "id": 2404937, "predecessors": [{"name": "Ensino_superior", "id": 15042}, {"name": "Áustria-Hungria", "id": 3209662}], "successors": []}
+{"name": "Alunos_da_Universidade_de_Viena", "id": 2404937, "predecessors": [{"name": "Viena", "id": 344626}, {"name": "Ensino_superior", "id": 15042}], "successors": []}
