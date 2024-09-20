@@ -1,1 +1,1 @@
-{"name": "Empresas_no_Ibovespa", "id": 1582958, "predecessors": [{"name": "Empresas_listadas_na_B3", "id": 604401}, {"name": "Empresas_por_tipo", "id": 2663875}], "successors": [{"name": "Petrobras", "id": 3285370}]}
+{"name": "Empresas_no_Ibovespa", "id": 1582958, "predecessors": [{"name": "Empresas_listadas_na_B3", "id": 604401}, {"name": "Empresas_por_tipo", "id": 2663875}], "successors": [{"name": "Petrobras", "id": 3285370}, {"name": "Vale_S.A.", "id": 4370277}]}

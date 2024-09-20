@@ -1,1 +1,1 @@
-{"name": "Tecidos_têxteis", "id": 2040299, "predecessors": [{"name": "Vestuário", "id": 37227}, {"name": "Indústria", "id": 77469}, {"name": "Materiais", "id": 29615}], "successors": [{"name": "Tecidos_naturais", "id": 634124}, {"name": "Tecidos_sintéticos", "id": 634141}]}
+{"name": "Tecidos_têxteis", "id": 2040299, "predecessors": [{"name": "Vestuário", "id": 37227}, {"name": "Indústrias", "id": 656123}, {"name": "Materiais", "id": 29615}], "successors": [{"name": "Tecidos_naturais", "id": 634124}, {"name": "Tecidos_sintéticos", "id": 634141}]}

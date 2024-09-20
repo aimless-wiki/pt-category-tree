@@ -1,1 +1,1 @@
-{"name": "Gases_industriais", "id": 4977378, "predecessors": [{"name": "Gases", "id": 435736}, {"name": "Química_industrial", "id": 39598}], "successors": [{"name": "Refrigerantes_industriais", "id": 2653291}, {"name": "Hidrogénio", "id": 511836}]}
+{"name": "Gases_industriais", "id": 4977378, "predecessors": [{"name": "Gases", "id": 435736}, {"name": "Química_industrial", "id": 39598}], "successors": [{"name": "Hidrogénio", "id": 511836}]}

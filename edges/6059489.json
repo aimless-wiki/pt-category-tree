@@ -1,1 +1,1 @@
-{"name": "Filmes_sem_diálogos", "id": 6059489, "predecessors": [{"name": "Gêneros_literários", "id": 510853}, {"name": "Línguas", "id": 15234}, {"name": "Cinema", "id": 15210}], "successors": []}
+{"name": "Filmes_sem_diálogos", "id": 6059489, "predecessors": [{"name": "Línguas", "id": 15234}, {"name": "Cinema", "id": 15210}], "successors": []}
