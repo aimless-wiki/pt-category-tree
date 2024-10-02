@@ -1,1 +1,1 @@
-{"name": "Programas_da_Rede_Bandeirantes", "id": 442384, "predecessors": [{"name": "Programas_de_televisão_do_Brasil", "id": 448963}, {"name": "Canais_de_televisão", "id": 110148}], "successors": [{"name": "Telenovelas_da_Rede_Bandeirantes", "id": 395323}, {"name": "O_Aprendiz", "id": 4444791}]}
+{"name": "Programas_da_Band", "id": 442384, "predecessors": [{"name": "Programas_de_televisão_do_Brasil", "id": 448963}, {"name": "Canais_de_televisão", "id": 110148}], "successors": [{"name": "Telenovelas_da_Band", "id": 395323}, {"name": "O_Aprendiz", "id": 4444791}]}

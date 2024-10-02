@@ -1,1 +1,1 @@
-{"name": "SQL", "id": 2063549, "predecessors": [{"name": "Linguagens_de_programação", "id": 15241}, {"name": "Sistemas_de_gerenciamento_de_banco_de_dados", "id": 48869}, {"name": "Administração_de_dados", "id": 2631936}], "successors": []}
+{"name": "SQL", "id": 2063549, "predecessors": [{"name": "Linguagens_de_programação", "id": 15241}, {"name": "Sistemas_de_gerenciamento_de_banco_de_dados", "id": 48869}, {"name": "Administração_de_dados", "id": 2631936}, {"name": "Engenharia_de_dados", "id": 7437777}], "successors": []}

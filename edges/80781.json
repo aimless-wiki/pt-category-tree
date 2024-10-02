@@ -1,1 +1,1 @@
-{"name": "XML", "id": 80781, "predecessors": [{"name": "Linguagens_de_marcação", "id": 40890}, {"name": "Normas_W3C", "id": 871411}, {"name": "Administração_de_dados", "id": 2631936}, {"name": "Codificação", "id": 2124990}], "successors": [{"name": "Normas_XML", "id": 80780}]}
+{"name": "XML", "id": 80781, "predecessors": [{"name": "Linguagens_de_marcação", "id": 40890}, {"name": "Normas_W3C", "id": 871411}, {"name": "Engenharia_de_dados", "id": 7437777}, {"name": "Codificação", "id": 2124990}], "successors": [{"name": "Normas_XML", "id": 80780}]}

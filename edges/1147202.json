@@ -1,1 +1,1 @@
-{"name": "Terapias", "id": 1147202, "predecessors": [{"name": "Tratamentos_médicos", "id": 833065}, {"name": "Saúde", "id": 43114}], "successors": [{"name": "Fisioterapia", "id": 58291}, {"name": "Terapias_alternativas", "id": 3451614}]}
+{"name": "Terapias", "id": 1147202, "predecessors": [{"name": "Tratamentos_médicos", "id": 833065}, {"name": "Saúde", "id": 43114}], "successors": [{"name": "Fisioterapia", "id": 58291}, {"name": "Psicoterapia", "id": 538390}, {"name": "Terapias_alternativas", "id": 3451614}]}

@@ -1,1 +1,1 @@
-{"name": "Participantes_de_The_Voice", "id": 3923177, "predecessors": [{"name": "Comportamento_humano", "id": 983221}, {"name": "Canto", "id": 179420}], "successors": [{"name": "Participantes_de_The_Voice_Brasil", "id": 3772802}]}
+{"name": "Participantes_de_The_Voice", "id": 3923177, "predecessors": [{"name": "Canto", "id": 179420}, {"name": "Competições", "id": 1562370}], "successors": [{"name": "Participantes_de_The_Voice_Brasil", "id": 3772802}]}

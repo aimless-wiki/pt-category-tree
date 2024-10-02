@@ -1,0 +1,1 @@
+{"name": "Engenharia_de_dados", "id": 7437777, "predecessors": [{"name": "Dados", "id": 2271838}, {"name": "Disciplinas_de_engenharia", "id": 2797454}, {"name": "Engenharia_de_software", "id": 38258}], "successors": [{"name": "Bancos_de_dados", "id": 48840}, {"name": "XML", "id": 80781}, {"name": "SQL", "id": 2063549}]}
