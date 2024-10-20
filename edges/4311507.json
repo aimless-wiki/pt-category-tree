@@ -1,1 +1,1 @@
-{"name": "BAFTA_de_melhor_roteiro_adaptado", "id": 4311507, "predecessors": [{"name": "Escrita", "id": 22516}, {"name": "Comportamento_humano", "id": 983221}], "successors": [{"name": "Filmes_premiados_com_o_BAFTA_de_melhor_argumento_adaptado", "id": 5019669}]}
+{"name": "BAFTA_de_melhor_roteiro_adaptado", "id": 4311507, "predecessors": [{"name": "Escrita", "id": 22516}, {"name": "Conteúdo", "id": 2147069}], "successors": [{"name": "Filmes_premiados_com_o_BAFTA_de_melhor_argumento_adaptado", "id": 5019669}]}

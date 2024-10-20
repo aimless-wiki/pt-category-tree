@@ -1,1 +1,1 @@
-{"name": "Revistas_eletrônicas", "id": 110772, "predecessors": [{"name": "Sites", "id": 405549}, {"name": "Revistas", "id": 40104}, {"name": "Leitura", "id": 2325235}], "successors": [{"name": "Revistas_online_com_edições_impressas_extintas", "id": 6577253}]}
+{"name": "Revistas_eletrônicas", "id": 110772, "predecessors": [{"name": "Sites", "id": 405549}, {"name": "Revistas", "id": 40104}, {"name": "Tecnologia_digital", "id": 2631728}], "successors": [{"name": "Revistas_online_com_edições_impressas_extintas", "id": 6577253}]}

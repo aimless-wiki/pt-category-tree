@@ -1,1 +1,1 @@
-{"name": "Mercenários", "id": 1376330, "predecessors": [{"name": "Militares", "id": 15099}, {"name": "Segurança", "id": 125178}, {"name": "!Ferramentas_da_Wikipédia", "id": 2292391}], "successors": [{"name": "Condottieri", "id": 3947126}, {"name": "Mercenários_fictícios", "id": 5688516}]}
+{"name": "Mercenários", "id": 1376330, "predecessors": [{"name": "Militares", "id": 15099}, {"name": "Conteúdo", "id": 2147069}, {"name": "Segurança", "id": 125178}], "successors": [{"name": "Condottieri", "id": 3947126}, {"name": "Mercenários_fictícios", "id": 5688516}]}

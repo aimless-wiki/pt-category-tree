@@ -1,1 +1,1 @@
-{"name": "Robôs_humanoides", "id": 2184274, "predecessors": [{"name": "Robótica", "id": 114330}, {"name": "Robôs", "id": 109692}, {"name": "Narratologia", "id": 249159}], "successors": []}
+{"name": "Robôs_humanoides", "id": 2184274, "predecessors": [{"name": "Engenharia_robótica", "id": 7448076}, {"name": "Robótica", "id": 114330}, {"name": "Robôs", "id": 109692}, {"name": "Narratologia", "id": 249159}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "IPhone", "id": 1290299, "predecessors": [{"name": "Apple", "id": 92637}, {"name": "Computadores_de_bolso", "id": 58940}, {"name": "Smartphones", "id": 3242167}, {"name": "!Ferramentas_da_Wikipédia", "id": 2292391}], "successors": []}
+{"name": "IPhone", "id": 1290299, "predecessors": [{"name": "Apple", "id": 92637}, {"name": "Computadores_de_bolso", "id": 58940}, {"name": "Smartphones", "id": 3242167}, {"name": "Conteúdo", "id": 2147069}], "successors": []}

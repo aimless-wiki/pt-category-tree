@@ -1,1 +1,1 @@
-{"name": "Ensino_a_distância", "id": 363787, "predecessors": [{"name": "Ensino", "id": 168812}], "successors": []}
+{"name": "Ensino_a_distância", "id": 363787, "predecessors": [{"name": "Ensino", "id": 168812}, {"name": "Educação", "id": 15847}], "successors": []}

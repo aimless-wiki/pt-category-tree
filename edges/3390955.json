@@ -1,1 +1,1 @@
-{"name": "Professores_da_Universidade_Técnica_de_Viena", "id": 3390955, "predecessors": [{"name": "Ensino_superior", "id": 15042}, {"name": "Geografia_política", "id": 473490}], "successors": []}
+{"name": "Professores_da_Universidade_Técnica_de_Viena", "id": 3390955, "predecessors": [{"name": "Ensino_superior", "id": 15042}, {"name": "Conteúdo", "id": 2147069}], "successors": []}

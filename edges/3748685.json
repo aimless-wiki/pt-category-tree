@@ -1,1 +1,1 @@
-{"name": "Programadores_de_computador", "id": 3748685, "predecessors": [{"name": "Programação", "id": 44412}], "successors": [{"name": "Programadores_de_jogos_eletrônicos", "id": 3674580}]}
+{"name": "Programadores_de_computador", "id": 3748685, "predecessors": [{"name": "Programação", "id": 44412}, {"name": "Ciência_da_computação", "id": 15377}], "successors": [{"name": "Programadores_de_jogos_eletrônicos", "id": 3674580}]}

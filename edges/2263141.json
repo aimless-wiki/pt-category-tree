@@ -1,1 +1,1 @@
-{"name": "!Infocaixas_sobre_artes", "id": 2263141, "predecessors": [{"name": "!Predefinições_de_caixas_de_informação", "id": 1775802}, {"name": "!Predefinições_sobre_arte", "id": 312824}], "successors": [{"name": "!Infocaixas_sobre_música", "id": 2258804}]}
+{"name": "!Infocaixas_sobre_artes", "id": 2263141, "predecessors": [{"name": "!Predefinições_sobre_arte", "id": 312824}], "successors": [{"name": "!Infocaixas_sobre_música", "id": 2258804}]}

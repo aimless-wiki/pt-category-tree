@@ -1,1 +1,1 @@
-{"name": "!Infocaixas_sobre_geografia", "id": 2650933, "predecessors": [{"name": "!Predefinições_sobre_geografia", "id": 361123}, {"name": "!Predefinições_de_caixas_de_informação", "id": 1775802}], "successors": [{"name": "!Infocaixas_sobre_localidades", "id": 2261582}]}
+{"name": "!Infocaixas_sobre_geografia", "id": 2650933, "predecessors": [{"name": "!Predefinições_sobre_geografia", "id": 361123}, {"name": "Ciência", "id": 40676}], "successors": [{"name": "!Infocaixas_sobre_localidades", "id": 2261582}]}

@@ -1,1 +1,1 @@
-{"name": "Refrigerantes", "id": 44429, "predecessors": [{"name": "Bebidas", "id": 41909}], "successors": [{"name": "Refrigerantes_do_Brasil", "id": 2532986}]}
+{"name": "Refrigerantes", "id": 44429, "predecessors": [{"name": "Bebidas", "id": 41909}], "successors": [{"name": "Fabricantes_de_refrigerantes", "id": 7053530}, {"name": "Refrigerantes_do_Brasil", "id": 2532986}]}

@@ -1,1 +1,1 @@
-{"name": "Aerodinâmica", "id": 297169, "predecessors": [{"name": "Ciências_aplicadas", "id": 15791}, {"name": "Engenharia_mecânica", "id": 77329}, {"name": "Mecânica_de_fluidos", "id": 115004}, {"name": "Aeronáutica", "id": 65326}], "successors": []}
+{"name": "Aerodinâmica", "id": 297169, "predecessors": [{"name": "Dinâmica_de_fluidos", "id": 2272274}, {"name": "Engenharia_aeroespacial", "id": 2770224}], "successors": []}

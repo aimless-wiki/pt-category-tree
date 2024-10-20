@@ -1,1 +1,1 @@
-{"name": "Camden", "id": 1643234, "predecessors": [{"name": "Boroughs_de_Londres", "id": 1643224}], "successors": [{"name": "University_College_London", "id": 3235954}, {"name": "Museu_Britânico", "id": 3938085}]}
+{"name": "Camden", "id": 1643234, "predecessors": [{"name": "Boroughs_de_Londres", "id": 1643224}], "successors": [{"name": "Museu_Britânico", "id": 3938085}, {"name": "Professores_da_University_College_London", "id": 3235943}, {"name": "Alunos_da_University_College_London", "id": 3235947}]}

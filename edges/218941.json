@@ -1,1 +1,1 @@
-{"name": "Jogos_matemáticos", "id": 218941, "predecessors": [{"name": "Jogos_de_habilidade_mental", "id": 3523491}, {"name": "Matemática_recreativa", "id": 320892}], "successors": [{"name": "Sudoku", "id": 2597414}]}
+{"name": "Jogos_matemáticos", "id": 218941, "predecessors": [{"name": "Jogos", "id": 15106}, {"name": "Matemática", "id": 14939}], "successors": []}

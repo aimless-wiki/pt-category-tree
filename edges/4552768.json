@@ -1,1 +1,1 @@
-{"name": "Vítimas_de_sequestro", "id": 4552768, "predecessors": [{"name": "Sequestros", "id": 1989735}], "successors": [{"name": "Vítimas_de_sequestro_no_Brasil", "id": 6043487}, {"name": "Políticos_sequestrados", "id": 6967280}, {"name": "Empresários_sequestrados", "id": 6967285}, {"name": "Crianças_sequestradas", "id": 6967289}]}
+{"name": "Vítimas_de_sequestro", "id": 4552768, "predecessors": [{"name": "Crimes", "id": 35446}], "successors": []}

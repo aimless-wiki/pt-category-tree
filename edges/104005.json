@@ -1,1 +1,1 @@
-{"name": "Professores_do_Brasil", "id": 104005, "predecessors": [{"name": "Educadores_do_Brasil", "id": 96665}, {"name": "Educadores", "id": 15846}], "successors": [{"name": "Docentes_de_Direito_do_Brasil", "id": 2712512}, {"name": "Professores_universitários_do_Brasil", "id": 6318649}]}
+{"name": "Professores_do_Brasil", "id": 104005, "predecessors": [{"name": "Educadores", "id": 15846}, {"name": "Nacionalidade", "id": 334668}], "successors": [{"name": "Docentes_de_Direito_do_Brasil", "id": 2712512}, {"name": "Professores_universitários_do_Brasil", "id": 6318649}]}

@@ -1,1 +1,1 @@
-{"name": "Filmes_premiados_com_o_Satellite", "id": 2605067, "predecessors": [{"name": "Eventos", "id": 61537}, {"name": "Comportamento_humano", "id": 983221}], "successors": [{"name": "Satellite_de_melhor_filme", "id": 4311970}]}
+{"name": "Filmes_premiados_com_o_Satellite", "id": 2605067, "predecessors": [{"name": "Eventos", "id": 61537}, {"name": "Conteúdo", "id": 2147069}], "successors": [{"name": "Satellite_de_melhor_filme", "id": 4311970}]}

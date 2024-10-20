@@ -1,1 +1,1 @@
-{"name": "Circuito_WTA", "id": 1085770, "predecessors": [{"name": "Competições", "id": 1562370}, {"name": "Tênis", "id": 47904}], "successors": [{"name": "Circuito_de_challengers_da_WTA", "id": 5525227}, {"name": "Temporadas_da_WTA", "id": 5527884}]}
+{"name": "Circuito_WTA", "id": 1085770, "predecessors": [{"name": "Competições", "id": 1562370}, {"name": "Tênis", "id": 47904}], "successors": [{"name": "Circuito_de_challengers_da_WTA", "id": 5525227}, {"name": "Temporadas_da_WTA", "id": 5527884}, {"name": "!Predefinições_sobre_torneio_WTA", "id": 7360249}]}

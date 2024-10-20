@@ -1,1 +1,1 @@
-{"name": "Escândalos_políticos", "id": 4850144, "predecessors": [{"name": "Crises_políticas", "id": 3394799}, {"name": "Comportamento_humano", "id": 983221}], "successors": [{"name": "Escândalos_políticos_no_Brasil", "id": 2861616}]}
+{"name": "Escândalos_políticos", "id": 4850144, "predecessors": [{"name": "Crises_políticas", "id": 3394799}, {"name": "Conteúdo", "id": 2147069}], "successors": [{"name": "Escândalos_políticos_no_Brasil", "id": 2861616}]}

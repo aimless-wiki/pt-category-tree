@@ -1,1 +1,1 @@
-{"name": "Empresas_petrolíferas", "id": 117081, "predecessors": [{"name": "Petróleo", "id": 18755}, {"name": "Empresas", "id": 328001}], "successors": []}
+{"name": "Empresas_petrolíferas", "id": 117081, "predecessors": [{"name": "Petróleo", "id": 18755}, {"name": "Empresas", "id": 328001}], "successors": [{"name": "Empresas_petrolíferas_dos_Estados_Unidos", "id": 2521311}]}

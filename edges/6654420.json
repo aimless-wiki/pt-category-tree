@@ -1,1 +1,1 @@
-{"name": "!Predefinições_sobre_viagem_espacial", "id": 6654420, "predecessors": [{"name": "Ciência", "id": 40676}], "successors": []}
+{"name": "!Predefinições_sobre_viagem_espacial", "id": 6654420, "predecessors": [{"name": "!Predefinições_sobre_astronomia", "id": 361142}, {"name": "Ciência", "id": 40676}, {"name": "Tecnologia", "id": 15228}], "successors": []}

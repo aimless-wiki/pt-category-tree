@@ -1,1 +1,1 @@
-{"name": "Dietas", "id": 620106, "predecessors": [{"name": "Nutrição", "id": 40393}, {"name": "Obesidade", "id": 620029}], "successors": []}
+{"name": "Dietas", "id": 620106, "predecessors": [{"name": "Nutrição", "id": 40393}, {"name": "Obesidade", "id": 620029}], "successors": [{"name": "Vegetarianismo", "id": 70666}]}
