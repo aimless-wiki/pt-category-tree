@@ -1,1 +1,1 @@
-{"name": "Professores_da_Universidade_de_Syracuse", "id": 3623329, "predecessors": [{"name": "Administração_pública", "id": 127933}, {"name": "Instituições_de_ensino_superior", "id": 44079}], "successors": []}
+{"name": "Professores_da_Universidade_de_Syracuse", "id": 3623329, "predecessors": [{"name": "Instituições_de_ensino_superior", "id": 44079}, {"name": "Administração_pública", "id": 127933}], "successors": []}

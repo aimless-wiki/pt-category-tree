@@ -1,1 +1,1 @@
-{"name": "Damas_de_companhia_do_Reino_Unido", "id": 4769417, "predecessors": [{"name": "Damas_de_companhia", "id": 4769327}], "successors": [{"name": "Damas_da_Câmara_Privada", "id": 4769400}]}
+{"name": "Damas_de_companhia_do_Reino_Unido", "id": 4769417, "predecessors": [{"name": "Britânicos", "id": 14074}, {"name": "Sociologia", "id": 21974}], "successors": [{"name": "Senhoras_da_Câmara", "id": 7292596}]}

@@ -1,1 +1,1 @@
-{"name": "Narcotráfico", "id": 3681998, "predecessors": [{"name": "Comércio", "id": 147580}, {"name": "Crimes", "id": 35446}, {"name": "Drogas", "id": 28736}], "successors": []}
+{"name": "Narcotráfico", "id": 3681998, "predecessors": [{"name": "Comércio", "id": 147580}, {"name": "Crimes", "id": 35446}, {"name": "Drogas", "id": 28736}], "successors": [{"name": "Americanos_condenados_por_crimes_relacionados_com_drogas", "id": 7467262}]}

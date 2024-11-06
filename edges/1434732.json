@@ -1,1 +1,1 @@
-{"name": "Fabricantes_de_automóveis_da_Itália", "id": 1434732, "predecessors": [{"name": "Empresas", "id": 328001}], "successors": [{"name": "Fiat", "id": 167601}, {"name": "Ferrari", "id": 364178}, {"name": "Veículos_da_Lancia", "id": 1675053}, {"name": "Veículos_da_Lamborghini", "id": 1675012}]}
+{"name": "Fabricantes_de_automóveis_da_Itália", "id": 1434732, "predecessors": [{"name": "Empresas", "id": 328001}], "successors": [{"name": "Fiat", "id": 167601}, {"name": "Ferrari", "id": 364178}]}

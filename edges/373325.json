@@ -1,1 +1,1 @@
-{"name": "Fogo", "id": 373325, "predecessors": [{"name": "Fenômenos_naturais", "id": 49288}, {"name": "Engenharia_mecânica", "id": 77329}, {"name": "Processos_químicos", "id": 370600}], "successors": []}
+{"name": "Fogo", "id": 373325, "predecessors": [{"name": "Fenômenos_naturais", "id": 49288}, {"name": "Engenharia_mecânica", "id": 77329}, {"name": "Processos_químicos", "id": 370600}], "successors": [{"name": "Incêndios", "id": 229394}]}

@@ -1,1 +1,1 @@
-{"name": "Filmes_ambientados_em_Istambul", "id": 3866894, "predecessors": [{"name": "Cinema", "id": 15210}, {"name": "Filmes_ambientados_na_Europa", "id": 3703876}, {"name": "Astrofísica", "id": 51776}], "successors": []}
+{"name": "Filmes_ambientados_em_Istambul", "id": 3866894, "predecessors": [{"name": "Filmes_ambientados_na_Turquia", "id": 3866896}, {"name": "Cinema", "id": 15210}, {"name": "Astrofísica", "id": 51776}], "successors": []}

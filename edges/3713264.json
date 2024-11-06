@@ -1,1 +1,1 @@
-{"name": "Empresas_fabricantes_de_telefones_celulares", "id": 3713264, "predecessors": [{"name": "Telefones_celulares", "id": 987823}, {"name": "Eletrônica", "id": 26726}], "successors": [{"name": "Telefones_celulares_da_Samsung", "id": 2711543}]}
+{"name": "Empresas_fabricantes_de_telefones_celulares", "id": 3713264, "predecessors": [{"name": "Telefones_celulares", "id": 987823}, {"name": "Eletrônica", "id": 26726}], "successors": []}

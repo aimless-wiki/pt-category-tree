@@ -1,1 +1,1 @@
-{"name": "Patos_fictícios", "id": 2053308, "predecessors": [{"name": "Aves_fictícias", "id": 1248988}, {"name": "Neognatas", "id": 3937964}], "successors": [{"name": "Família_Pato", "id": 2216758}]}
+{"name": "Patos_fictícios", "id": 2053308, "predecessors": [{"name": "Aves", "id": 15233}, {"name": "Neognatas", "id": 3937964}], "successors": [{"name": "Família_Pato", "id": 2216758}]}

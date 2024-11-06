@@ -1,1 +1,1 @@
-{"name": "Estupradores", "id": 3988404, "predecessors": [{"name": "Estupro", "id": 3031356}, {"name": "Criminologia", "id": 493413}, {"name": "Crimes_sexuais", "id": 1000112}], "successors": []}
+{"name": "Estupradores", "id": 3988404, "predecessors": [{"name": "Estupro", "id": 3031356}, {"name": "Criminologia", "id": 493413}, {"name": "Crimes_sexuais", "id": 1000112}], "successors": [{"name": "Estupradores_dos_Estados_Unidos", "id": 6870182}]}

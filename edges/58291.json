@@ -1,1 +1,1 @@
-{"name": "Fisioterapia", "id": 58291, "predecessors": [{"name": "Terapias", "id": 1147202}, {"name": "Ciências_aplicadas", "id": 15791}, {"name": "Especialidades_médicas", "id": 112504}], "successors": []}
+{"name": "Fisioterapia", "id": 58291, "predecessors": [{"name": "Ciências_da_saúde", "id": 44462}, {"name": "Terapias", "id": 1147202}, {"name": "Especialidades_médicas", "id": 112504}], "successors": []}

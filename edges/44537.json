@@ -1,1 +1,1 @@
-{"name": "Listas_de_cidades", "id": 44537, "predecessors": [{"name": "Listas_de_geografia", "id": 66405}, {"name": "Geografia_política", "id": 473490}], "successors": [{"name": "Listas_de_cidades_por_população", "id": 2047216}]}
+{"name": "Listas_de_cidades", "id": 44537, "predecessors": [{"name": "Cidades", "id": 14146}, {"name": "Listas_de_geografia", "id": 66405}], "successors": [{"name": "Listas_de_cidades_por_população", "id": 2047216}]}

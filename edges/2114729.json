@@ -1,1 +1,1 @@
-{"name": "Geografia_rural", "id": 2114729, "predecessors": [{"name": "Geografia_humana", "id": 494348}], "successors": [{"name": "Aldeias", "id": 2394079}, {"name": "Atrações_de_beira_de_estrada_dos_Estados_Unidos", "id": 6697105}]}
+{"name": "Geografia_rural", "id": 2114729, "predecessors": [{"name": "Geografia_humana", "id": 494348}, {"name": "Geografia_política", "id": 473490}, {"name": "Sociedade", "id": 37522}], "successors": [{"name": "Atrações_de_beira_de_estrada_dos_Estados_Unidos", "id": 6697105}]}
