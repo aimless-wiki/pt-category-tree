@@ -1,1 +1,1 @@
-{"name": "Contabilidade", "id": 30064, "predecessors": [{"name": "Finanças", "id": 39254}, {"name": "Negócios", "id": 830313}, {"name": "Academia", "id": 2254989}], "successors": [{"name": "Impostos", "id": 108334}, {"name": "Auditoria", "id": 497128}]}
+{"name": "Contabilidade", "id": 30064, "predecessors": [{"name": "Ciências_sociais", "id": 15662}, {"name": "Finanças", "id": 39254}, {"name": "Negócios", "id": 830313}, {"name": "Academia", "id": 2254989}], "successors": [{"name": "Impostos", "id": 108334}, {"name": "Auditoria", "id": 497128}]}

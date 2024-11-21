@@ -1,1 +1,1 @@
-{"name": "!Infocaixas_sobre_biologia", "id": 3933648, "predecessors": [{"name": "!Predefinições_sobre_biologia", "id": 312833}, {"name": "Ciência", "id": 40676}], "successors": [{"name": "!Infocaixas_sobre_taxonomia", "id": 6740584}]}
+{"name": "!Infocaixas_sobre_biologia", "id": 3933648, "predecessors": [{"name": "!Predefinições_sobre_biologia", "id": 312833}, {"name": "!Predefinições_sobre_ciências", "id": 1322139}], "successors": [{"name": "!Infocaixas_sobre_taxonomia", "id": 6740584}]}

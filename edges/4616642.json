@@ -1,1 +1,1 @@
-{"name": "Grão-mestres_dos_Cavaleiros_Templários", "id": 4616642, "predecessors": [{"name": "Ordem_do_Templo", "id": 3510501}, {"name": "Idade_Média", "id": 75775}, {"name": "Cristianismo", "id": 15087}], "successors": []}
+{"name": "Grão-mestres_dos_Cavaleiros_Templários", "id": 4616642, "predecessors": [{"name": "Cavaleiros_Templários", "id": 2426325}, {"name": "Ordem_do_Templo", "id": 3510501}, {"name": "Cristianismo", "id": 15087}], "successors": []}

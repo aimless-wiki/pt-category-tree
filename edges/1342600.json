@@ -1,1 +1,1 @@
-{"name": "Bivalves", "id": 1342600, "predecessors": [{"name": "Moluscos", "id": 55660}], "successors": [{"name": "Unionidae", "id": 1342598}, {"name": "Veneroida", "id": 2008447}]}
+{"name": "Bivalves", "id": 1342600, "predecessors": [{"name": "Invertebrados", "id": 94918}], "successors": [{"name": "Unionidae", "id": 1342598}, {"name": "Veneroida", "id": 2008447}]}

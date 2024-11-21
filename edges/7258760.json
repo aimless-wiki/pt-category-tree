@@ -1,1 +1,1 @@
-{"name": "Mulheres_queer", "id": 7258760, "predecessors": [{"name": "Mulheres", "id": 2519134}, {"name": "Queer", "id": 7096626}], "successors": [{"name": "Atrizes_queer", "id": 7258163}]}
+{"name": "Mulheres_queer", "id": 7258760, "predecessors": [{"name": "Queer", "id": 7096626}, {"name": "Conteúdo", "id": 2147069}], "successors": [{"name": "Atrizes_queer", "id": 7258163}]}

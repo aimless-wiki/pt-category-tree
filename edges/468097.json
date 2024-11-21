@@ -1,1 +1,1 @@
-{"name": "Apicultura", "id": 468097, "predecessors": [{"name": "Abelhas", "id": 413977}, {"name": "Zootecnia", "id": 254002}, {"name": "Pecuária", "id": 107950}], "successors": []}
+{"name": "Apicultura", "id": 468097, "predecessors": [{"name": "Abelhas", "id": 413977}, {"name": "Zootecnia", "id": 254002}, {"name": "Pecuária", "id": 107950}], "successors": [{"name": "Doenças_e_distúrbios_das_abelhas", "id": 5974265}]}

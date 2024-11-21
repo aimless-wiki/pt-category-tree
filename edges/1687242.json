@@ -1,1 +1,1 @@
-{"name": "Direito_empresarial", "id": 1687242, "predecessors": [{"name": "Direito", "id": 15064}, {"name": "Direito_civil", "id": 63384}], "successors": [{"name": "Empresas", "id": 328001}, {"name": "Direito_societário", "id": 618098}]}
+{"name": "Direito_empresarial", "id": 1687242, "predecessors": [{"name": "Direito_civil", "id": 63384}, {"name": "Direito", "id": 15064}], "successors": [{"name": "Empresas", "id": 328001}, {"name": "Direito_societário", "id": 618098}]}
