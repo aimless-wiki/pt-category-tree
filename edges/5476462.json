@@ -1,1 +1,1 @@
-{"name": "Criptomoedas", "id": 5476462, "predecessors": [{"name": "Sistemas_de_pagamento", "id": 192758}], "successors": [{"name": "Bitcoin", "id": 5017724}]}
+{"name": "Criptomoedas", "id": 5476462, "predecessors": [{"name": "Ciberativismo", "id": 3614356}, {"name": "Computação_distribuída", "id": 96074}, {"name": "Comércio_eletrónico", "id": 3057780}, {"name": "Globalização", "id": 832818}, {"name": "Sistemas_de_pagamento", "id": 192758}], "successors": [{"name": "Bitcoin", "id": 5017724}]}

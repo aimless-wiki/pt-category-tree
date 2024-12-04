@@ -1,1 +1,1 @@
-{"name": "Veículos_da_Chrysler", "id": 1649116, "predecessors": [{"name": "Fabricantes_de_automóveis_da_Alemanha", "id": 1025152}, {"name": "Marcas", "id": 1079888}], "successors": [{"name": "Veículos_da_Dodge", "id": 1650391}]}
+{"name": "Veículos_da_Chrysler", "id": 1649116, "predecessors": [{"name": "Marcas", "id": 1079888}, {"name": "Organizações_da_Alemanha", "id": 823223}], "successors": [{"name": "Veículos_da_Dodge", "id": 1650391}]}

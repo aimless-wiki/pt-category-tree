@@ -1,1 +1,1 @@
-{"name": "Filmes_ambientados_na_Casa_Branca", "id": 5758028, "predecessors": [{"name": "Casa_Branca", "id": 2374579}, {"name": "Filmes_ambientados_em_Washington,_D.C.", "id": 3814741}, {"name": "Cinema", "id": 15210}], "successors": []}
+{"name": "Filmes_ambientados_na_Casa_Branca", "id": 5758028, "predecessors": [{"name": "Filmes_ambientados_em_Washington,_D.C.", "id": 3814741}, {"name": "Cinema", "id": 15210}, {"name": "Entretenimento", "id": 69904}, {"name": "Filmes_sobre_política", "id": 3497748}, {"name": "Casa_Branca", "id": 2374579}], "successors": []}

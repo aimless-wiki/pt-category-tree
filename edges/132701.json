@@ -1,1 +1,1 @@
-{"name": "Restaurantes_por_tipo", "id": 132701, "predecessors": [{"name": "Construções", "id": 41684}], "successors": [{"name": "Restaurantes_de_fast_casual", "id": 7394404}]}
+{"name": "Restaurantes_por_tipo", "id": 132701, "predecessors": [{"name": "Construções", "id": 41684}], "successors": [{"name": "Restaurantes_de_fast_casual", "id": 7394404}, {"name": "Sorveterias_dos_Estados_Unidos", "id": 7403960}]}

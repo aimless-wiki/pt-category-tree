@@ -1,1 +1,1 @@
-{"name": "Multinacionais_da_França", "id": 2537152, "predecessors": [{"name": "Empresas_da_França", "id": 115572}, {"name": "Multinacionais", "id": 115575}], "successors": [{"name": "Renault", "id": 124732}, {"name": "LVMH", "id": 6296496}]}
+{"name": "Multinacionais_da_França", "id": 2537152, "predecessors": [{"name": "Empresas_da_França", "id": 115572}, {"name": "Empresas_por_tipo", "id": 2663875}], "successors": [{"name": "Renault", "id": 124732}, {"name": "LVMH", "id": 6296496}]}

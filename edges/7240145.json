@@ -1,1 +1,1 @@
-{"name": "Automóveis_do_Brasil", "id": 7240145, "predecessors": [{"name": "Automóveis", "id": 50694}, {"name": "Indústria", "id": 77469}], "successors": [{"name": "Veículos_da_Gurgel", "id": 1686074}]}
+{"name": "Automóveis_do_Brasil", "id": 7240145, "predecessors": [{"name": "Automóveis", "id": 50694}], "successors": [{"name": "Veículos_da_Gurgel", "id": 1686074}]}
