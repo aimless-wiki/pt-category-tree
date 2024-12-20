@@ -1,1 +1,1 @@
-{"name": "Veículos_da_Nissan", "id": 1677575, "predecessors": [{"name": "Marcas", "id": 1079888}, {"name": "Empresas", "id": 328001}], "successors": [{"name": "Veículos_da_Infiniti", "id": 1673631}]}
+{"name": "Veículos_da_Nissan", "id": 1677575, "predecessors": [{"name": "Marcas", "id": 1079888}, {"name": "Indústrias", "id": 656123}], "successors": [{"name": "Veículos_da_Infiniti", "id": 1673631}]}

@@ -1,1 +1,1 @@
-{"name": "Mortes_por_afogamento", "id": 3740322, "predecessors": [{"name": "Água", "id": 939521}, {"name": "Causas_de_morte", "id": 1157373}], "successors": [{"name": "Mortos_no_naufrágio_do_Titanic", "id": 2617594}]}
+{"name": "Mortes_por_afogamento", "id": 3740322, "predecessors": [{"name": "Mortes_por_asfixia", "id": 5109985}, {"name": "Água", "id": 939521}], "successors": [{"name": "Mortos_no_naufrágio_do_Titanic", "id": 2617594}]}

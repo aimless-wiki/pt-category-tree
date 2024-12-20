@@ -1,1 +1,1 @@
-{"name": "Economia_social", "id": 834212, "predecessors": [{"name": "Economia", "id": 15044}, {"name": "Sistemas_econômicos", "id": 831261}], "successors": [{"name": "Filantropia", "id": 147412}, {"name": "Emprego", "id": 837531}, {"name": "Economia_solidária", "id": 3339500}]}
+{"name": "Economia_social", "id": 834212, "predecessors": [{"name": "Sistemas_econômicos", "id": 831261}], "successors": [{"name": "Filantropia", "id": 147412}, {"name": "Emprego", "id": 837531}, {"name": "Economia_solidária", "id": 3339500}]}

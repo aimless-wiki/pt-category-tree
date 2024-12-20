@@ -1,1 +1,1 @@
-{"name": "Fast_food", "id": 2112050, "predecessors": [{"name": "Culinária_dos_Estados_Unidos", "id": 2528533}], "successors": [{"name": "Cadeias_de_fast-food_dos_Estados_Unidos", "id": 3188892}]}
+{"name": "Fast_food", "id": 2112050, "predecessors": [{"name": "Culinária_dos_Estados_Unidos", "id": 2528533}], "successors": [{"name": "Cadeias_de_fast-food_dos_Estados_Unidos", "id": 3188892}, {"name": "Franquias_de_fast-food", "id": 7496788}]}

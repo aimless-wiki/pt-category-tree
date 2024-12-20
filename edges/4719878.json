@@ -1,1 +1,1 @@
-{"name": "Pinturas_de_Portugal", "id": 4719878, "predecessors": [{"name": "Arte", "id": 14871}], "successors": [{"name": "Pinturas_no_Museu_Nacional_de_Arte_Antiga", "id": 2071160}, {"name": "Pinturas_no_Museu_do_Chiado", "id": 2071175}]}
+{"name": "Pinturas_de_Portugal", "id": 4719878, "predecessors": [{"name": "Pintura_de_Portugal", "id": 77170}, {"name": "Arte", "id": 14871}], "successors": [{"name": "Pinturas_no_Museu_Nacional_de_Arte_Antiga", "id": 2071160}, {"name": "Pinturas_no_Museu_do_Chiado", "id": 2071175}]}

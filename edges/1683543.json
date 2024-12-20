@@ -1,1 +1,1 @@
-{"name": "Veículos_da_Škoda", "id": 1683543, "predecessors": [{"name": "Veículos_da_Volkswagen", "id": 1684824}, {"name": "Marcas", "id": 1079888}, {"name": "Empresas", "id": 328001}], "successors": []}
+{"name": "Veículos_da_Škoda", "id": 1683543, "predecessors": [{"name": "Veículos_da_Volkswagen", "id": 1684824}, {"name": "Marcas", "id": 1079888}, {"name": "Indústrias", "id": 656123}], "successors": []}

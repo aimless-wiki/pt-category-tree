@@ -1,1 +1,1 @@
-{"name": "Fabricantes_de_locomotivas", "id": 1499465, "predecessors": [{"name": "Locomotivas", "id": 523356}, {"name": "Empresas", "id": 328001}, {"name": "Transporte_ferroviário", "id": 65043}], "successors": []}
+{"name": "Fabricantes_de_locomotivas", "id": 1499465, "predecessors": [{"name": "Locomotivas", "id": 523356}, {"name": "Indústrias", "id": 656123}, {"name": "Transporte_ferroviário", "id": 65043}], "successors": []}

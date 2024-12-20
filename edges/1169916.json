@@ -1,1 +1,1 @@
-{"name": "Inflação", "id": 1169916, "predecessors": [{"name": "Economia", "id": 15044}, {"name": "Indicadores_económicos", "id": 63513}], "successors": []}
+{"name": "Inflação", "id": 1169916, "predecessors": [{"name": "Economia_monetária", "id": 831275}, {"name": "Indicadores_económicos", "id": 63513}], "successors": []}

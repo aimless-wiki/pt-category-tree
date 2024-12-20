@@ -1,1 +1,1 @@
-{"name": "Empresas_de_saneamento_do_Brasil", "id": 854364, "predecessors": [{"name": "Indústria", "id": 77469}, {"name": "Tratamento_de_águas", "id": 2125831}, {"name": "Saneamento", "id": 796066}, {"name": "Empresas", "id": 328001}], "successors": [{"name": "Sabesp", "id": 7347147}]}
+{"name": "Empresas_de_saneamento_do_Brasil", "id": 854364, "predecessors": [{"name": "Indústria", "id": 77469}, {"name": "Tratamento_de_águas", "id": 2125831}, {"name": "Saneamento", "id": 796066}, {"name": "Indústrias", "id": 656123}], "successors": [{"name": "Sabesp", "id": 7347147}]}

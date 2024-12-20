@@ -1,1 +1,1 @@
-{"name": "Fabricantes_de_caminhões", "id": 4318912, "predecessors": [{"name": "Transporte_rodoviário", "id": 107511}, {"name": "Automóveis", "id": 50694}, {"name": "Empresas", "id": 328001}], "successors": []}
+{"name": "Fabricantes_de_caminhões", "id": 4318912, "predecessors": [{"name": "Transporte_rodoviário", "id": 107511}, {"name": "Automóveis", "id": 50694}, {"name": "Indústrias", "id": 656123}], "successors": []}
