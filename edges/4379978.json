@@ -1,1 +1,1 @@
-{"name": "Mortes_por_peste", "id": 4379978, "predecessors": [{"name": "Mortes_por_doença", "id": 1612007}, {"name": "Doenças_infecciosas", "id": 43049}, {"name": "Doenças_virais", "id": 1526917}], "successors": []}
+{"name": "Mortes_por_peste", "id": 4379978, "predecessors": [{"name": "Doenças_infecciosas", "id": 43049}, {"name": "Doenças_bacterianas", "id": 492423}], "successors": []}

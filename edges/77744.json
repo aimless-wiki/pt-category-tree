@@ -1,1 +1,1 @@
-{"name": "Livros_de_ficção_científica", "id": 77744, "predecessors": [{"name": "Literatura", "id": 15629}, {"name": "Ficção_científica", "id": 37509}], "successors": [{"name": "Livros_de_Isaac_Asimov", "id": 235490}, {"name": "Colecção_Argonauta", "id": 795706}]}
+{"name": "Livros_de_ficção_científica", "id": 77744, "predecessors": [{"name": "Literatura", "id": 15629}, {"name": "Estética", "id": 438922}], "successors": [{"name": "Livros_de_Isaac_Asimov", "id": 235490}, {"name": "Colecção_Argonauta", "id": 795706}]}

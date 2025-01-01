@@ -1,1 +1,1 @@
-{"name": "Signos_zodiacais", "id": 2813909, "predecessors": [{"name": "Astrologia", "id": 15651}], "successors": []}
+{"name": "Signos_astrológicos", "id": 2813909, "predecessors": [{"name": "Astrologia", "id": 15651}, {"name": "Símbolos", "id": 15500}], "successors": []}

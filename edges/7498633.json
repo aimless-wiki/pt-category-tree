@@ -1,1 +1,1 @@
-{"name": "Empresas_brasileiras_com_capital_estrangeiro", "id": 7498633, "predecessors": [{"name": "Direito_empresarial", "id": 1687242}], "successors": [{"name": "Empresas_brasileiras_que_possuíam_capital_estrangeiro", "id": 7499262}]}
+{"name": "Empresas_brasileiras_com_capital_estrangeiro", "id": 7498633, "predecessors": [{"name": "Direito_empresarial", "id": 1687242}, {"name": "Comércio_internacional", "id": 1065791}], "successors": [{"name": "Empresas_brasileiras_que_possuíam_capital_estrangeiro", "id": 7499262}]}

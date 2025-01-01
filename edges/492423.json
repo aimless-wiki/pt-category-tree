@@ -1,1 +1,1 @@
-{"name": "Doenças_bacterianas", "id": 492423, "predecessors": [{"name": "Bacteriologia", "id": 492424}, {"name": "Doenças_infecciosas", "id": 43049}], "successors": [{"name": "Tuberculose", "id": 3157695}]}
+{"name": "Doenças_bacterianas", "id": 492423, "predecessors": [{"name": "Bacteriologia", "id": 492424}, {"name": "Doenças_infecciosas", "id": 43049}], "successors": [{"name": "Tuberculose", "id": 3157695}, {"name": "Mortes_por_peste", "id": 4379978}]}
