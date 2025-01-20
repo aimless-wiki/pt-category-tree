@@ -1,1 +1,1 @@
-{"name": "Tribunais_superiores", "id": 507204, "predecessors": [{"name": "Direito_constitucional", "id": 25655}], "successors": [{"name": "Supremo_Tribunal_Federal", "id": 5078353}, {"name": "Ministros_do_Superior_Tribunal_Militar", "id": 3114031}]}
+{"name": "Tribunais_superiores", "id": 507204, "predecessors": [{"name": "Direito_constitucional", "id": 25655}], "successors": [{"name": "Supremo_Tribunal_Federal", "id": 5078353}, {"name": "Ministros_do_Tribunal_Superior_Eleitoral", "id": 2708588}, {"name": "Ministros_do_Superior_Tribunal_Militar", "id": 3114031}]}

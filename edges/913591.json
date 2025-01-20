@@ -1,1 +1,1 @@
-{"name": "Empresas_produtoras_de_cinema", "id": 913591, "predecessors": [{"name": "Produção_de_filmes", "id": 3952045}, {"name": "Indústrias", "id": 656123}], "successors": [{"name": "Logotipos_de_empresas_cinematográficas", "id": 3265627}]}
+{"name": "Empresas_produtoras_de_cinema", "id": 913591, "predecessors": [{"name": "Produção_de_filmes", "id": 3952045}, {"name": "Empresas", "id": 328001}], "successors": [{"name": "Logotipos_de_empresas_cinematográficas", "id": 3265627}]}

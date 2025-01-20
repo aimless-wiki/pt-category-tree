@@ -1,1 +1,1 @@
-{"name": "Navios-museu", "id": 4086345, "predecessors": [{"name": "Navegação", "id": 309268}, {"name": "Entretenimento", "id": 69904}, {"name": "Meios_de_transporte", "id": 43380}], "successors": []}
+{"name": "Navios-museu", "id": 4086345, "predecessors": [{"name": "Tipos_de_navios", "id": 168227}, {"name": "Entretenimento", "id": 69904}, {"name": "Meios_de_transporte", "id": 43380}], "successors": []}

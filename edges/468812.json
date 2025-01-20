@@ -1,1 +1,1 @@
-{"name": "Aranhas", "id": 468812, "predecessors": [{"name": "Aracnídeos", "id": 44506}], "successors": [{"name": "Mygalomorphae", "id": 842901}, {"name": "Araneomorphae", "id": 926865}]}
+{"name": "Aranhas", "id": 468812, "predecessors": [{"name": "Aracnídeos", "id": 44506}, {"name": "Toxicologia", "id": 367117}], "successors": [{"name": "Mygalomorphae", "id": 842901}, {"name": "Araneomorphae", "id": 926865}]}

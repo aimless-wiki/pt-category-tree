@@ -1,1 +1,1 @@
-{"name": "Filmes_baseados_em_contos_de_fada", "id": 4742821, "predecessors": [{"name": "Contos_de_fada", "id": 147599}, {"name": "Cinema", "id": 15210}], "successors": []}
+{"name": "Filmes_baseados_em_contos_de_fadas", "id": 4742821, "predecessors": [{"name": "Contos_de_fadas", "id": 147599}, {"name": "Cinema", "id": 15210}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Dermatologia", "id": 44591, "predecessors": [{"name": "Especialidades_médicas", "id": 112504}, {"name": "Anatomia_animal", "id": 367454}], "successors": [{"name": "Doenças_da_pele", "id": 987809}, {"name": "Chapéus", "id": 628377}]}
+{"name": "Dermatologia", "id": 44591, "predecessors": [{"name": "Especialidades_médicas", "id": 112504}, {"name": "Anatomia_animal", "id": 367454}], "successors": [{"name": "Doenças_da_pele", "id": 987809}, {"name": "Comércio_de_peles", "id": 3547138}, {"name": "Chapéus", "id": 628377}]}

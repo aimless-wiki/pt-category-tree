@@ -1,1 +1,1 @@
-{"name": "Empresas_dos_Países_Baixos", "id": 120280, "predecessors": [{"name": "Direito_empresarial", "id": 1687242}, {"name": "Geografia_política", "id": 473490}], "successors": [{"name": "Shell_plc", "id": 1011766}, {"name": "Endemol", "id": 1346978}, {"name": "Fiat", "id": 167601}]}
+{"name": "Empresas_dos_Países_Baixos", "id": 120280, "predecessors": [{"name": "Empresas", "id": 328001}, {"name": "Geografia_política", "id": 473490}], "successors": [{"name": "Shell_plc", "id": 1011766}, {"name": "Endemol", "id": 1346978}, {"name": "Fiat", "id": 167601}]}

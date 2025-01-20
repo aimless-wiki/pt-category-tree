@@ -1,1 +1,1 @@
-{"name": "Cavaleiros_de_Portugal", "id": 2793305, "predecessors": [{"name": "Fidalgos_de_Portugal", "id": 477249}], "successors": [{"name": "Fidalgos_cavaleiros_da_Casa_Real", "id": 3913504}]}
+{"name": "Cavaleiros_de_Portugal", "id": 2793305, "predecessors": [{"name": "Fidalgos_de_Portugal", "id": 477249}], "successors": [{"name": "Cavaleiros_fidalgos_da_Casa_Real", "id": 3913484}, {"name": "Fidalgos_cavaleiros_da_Casa_Real", "id": 3913504}]}

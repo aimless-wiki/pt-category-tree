@@ -1,1 +1,1 @@
-{"name": "!Infocaixas_sobre_eventos", "id": 3244606, "predecessors": [{"name": "!Infocaixas_sobre_sociedade", "id": 2281637}], "successors": [{"name": "!Infocaixas_sobre_torneios", "id": 4104903}]}
+{"name": "!Infocaixas_sobre_eventos", "id": 3244606, "predecessors": [{"name": "!Infocaixas_sobre_sociedade", "id": 2281637}, {"name": "Eventos", "id": 61537}], "successors": [{"name": "!Infocaixas_sobre_torneios", "id": 4104903}]}
